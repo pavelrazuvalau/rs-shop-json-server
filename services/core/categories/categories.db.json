@@ -1,3 +1,162 @@
 {
-  "categories": []
+  "categories": [
+    {
+      "id": "appliances",
+      "name": "Бытовая техника",
+      "subCategories": [
+        {
+          "id": "refrigerators",
+          "name": "Холодильники"
+        },
+        {
+          "id": "cookers",
+          "name": "Кухонные плиты"
+        },
+        {
+          "id": "dishwashers",
+          "name": "Посудомоечные машины"
+        },
+        {
+          "id": "freezers",
+          "name": "Морозильники"
+        },
+        {
+          "id": "microwaves",
+          "name": "Микроволновые печи"
+        },
+        {
+          "id": "teapots",
+          "name": "Электрочайники"
+        },
+        {
+          "id": "washing-machines",
+          "name": "Стиральные машины"
+        },
+        {
+          "id": "irons",
+          "name": "Утюги"
+        },
+        {
+          "id": "vacuum",
+          "name": "Пылесосы"
+        }
+      ]
+    },
+    {
+      "id": "electronics",
+      "name": "Электроника",
+      "subCategories": [
+        {
+          "id": "mobile",
+          "name": "Смартфоны"
+        },
+        {
+          "id": "watches",
+          "name": "Умные часы"
+        },
+        {
+          "id": "tablets",
+          "name": "Планшеты"
+        },
+        {
+          "id": "ebooks",
+          "name": "Электронные книги"
+        },
+        {
+          "id": "powerbanks",
+          "name": "Портативные аккумуляторы"
+        },
+        {
+          "id": "cameras",
+          "name": "Фотоаппараты"
+        },
+        {
+          "id": "tvs",
+          "name": "Телевизоры"
+        },
+        {
+          "id": "headphones",
+          "name": "Наушники и гарнитуры"
+        }
+      ]
+    },
+    {
+      "id": "computers-peripherals",
+      "name": "Компьютеры и периферия",
+      "subCategories": [
+        {
+          "id": "laptops",
+          "name": "Ноутбуки"
+        },
+        {
+          "id": "computers",
+          "name": "Компьютеры"
+        },
+        {
+          "id": "consoles",
+          "name": "Игровые приставки"
+        },
+        {
+          "id": "hardware",
+          "name": "Комплектующие"
+        },
+        {
+          "id": "peripherals",
+          "name": "Компьютерная периферия"
+        },
+        {
+          "id": "monitors",
+          "name": "Мониторы"
+        }
+      ]
+    },
+    {
+      "id": "furniture",
+      "name": "Мебель",
+      "subCategories": [
+        {
+          "id": "sofas",
+          "name": "Диваны, тахты"
+        },
+        {
+          "id": "armchairs",
+          "name": "Кресла"
+        },
+        {
+          "id": "cabinets",
+          "name": "Шкафы"
+        },
+        {
+          "id": "chairs",
+          "name": "Стулья"
+        },
+        {
+          "id": "tables",
+          "name": "Столы, столики"
+        },
+        {
+          "id": "beds",
+          "name": "Кровати"
+        }
+      ]
+    },
+    {
+      "id": "hobbies",
+      "name": "Досуг и хобби",
+      "subCategories": [
+        {
+          "id": "music-instruments",
+          "name": "Музыкальные инструменты"
+        },
+        {
+          "id": "books",
+          "name": "Книги"
+        },
+        {
+          "id": "fun-and-rest",
+          "name": "Развлечения и отдых"
+        }
+      ]
+    }
+  ]
 }

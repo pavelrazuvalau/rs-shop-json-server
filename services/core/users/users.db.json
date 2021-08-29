@@ -1,3 +1,114 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": 6093,
+      "firstName": "Ines",
+      "lastName": "Lowe",
+      "token": "58ebfdf7f1f558c5c86e17f6",
+      "login": "Warner",
+      "password": "ea",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    },
+    {
+      "id": 2905,
+      "firstName": "Brock",
+      "lastName": "Beasley",
+      "token": "58ebfdf7ec92657b493b24da",
+      "login": "Morales",
+      "password": "id",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    },
+    {
+      "id": 3619,
+      "firstName": "Aurelia",
+      "lastName": "Franks",
+      "token": "58ebfdf772a49d09aeee10a8",
+      "login": "Dale",
+      "password": "consequat",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    },
+    {
+      "id": 3117,
+      "firstName": "Serena",
+      "lastName": "Henson",
+      "token": "58ebfdf7b2bab0bdb97711f4",
+      "login": "Blackburn",
+      "password": "consectetur",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    },
+    {
+      "id": 5357,
+      "firstName": "Carlson",
+      "lastName": "Marsh",
+      "token": "58ebfdf7279c92a711dc8918",
+      "login": "Sparks",
+      "password": "consectetur",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    },
+    {
+      "id": 7868,
+      "firstName": "Rae",
+      "lastName": "Gonzales",
+      "token": "58ebfdf72728b878deec25aa",
+      "login": "Trujillo",
+      "password": "ut",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    },
+    {
+      "id": 3044,
+      "firstName": "Dawson",
+      "lastName": "Bowen",
+      "token": "58ebfdf7cdb7d7e179910a13",
+      "login": "Hobbs",
+      "password": "sit",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    },
+    {
+      "id": 1461,
+      "firstName": "Haney",
+      "lastName": "Hill",
+      "token": "58ebfdf7bf15103f01c22a77",
+      "login": "Lowe",
+      "password": "elit",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    },
+    {
+      "id": 4128,
+      "firstName": "Gilda",
+      "lastName": "Donaldson",
+      "token": "58ebfdf743bcda131c777cd1",
+      "login": "Lolita",
+      "password": "ullamco",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    },
+    {
+      "id": 6622,
+      "firstName": "Colleen",
+      "lastName": "Day",
+      "token": "58ebfdf7a36d4ad36cc693f8",
+      "login": "Olsen",
+      "password": "in",
+      "cart": [],
+      "favorites": [],
+      "orders": []
+    }
+  ]
 }

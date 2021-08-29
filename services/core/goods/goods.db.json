@@ -1,3 +1,69 @@
 {
-  "goods": []
+  "appliances": {
+    "refrigerators": [
+      {
+        "id": "CSMV5335MC0S",
+        "name": "Холодильник с морозильником Beko CSMV5335MC0S",
+        "imageUrls": [
+          "https://cdn21vek.by/img/galleries/476/171/preview/csmv5335mc0s_beko_5a3a4c5cb078c.jpeg",
+          "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
+        ],
+        "availableAmount": 5,
+        "price": 999.00,
+        "rating": 5,
+        "description": "Deserunt esse anim nulla consequat mollit non do occaecat in aute labore fugiat. Amet deserunt ullamco ex et ullamco. Magna irure nostrud sint enim aliqua incididunt consectetur minim mollit ad. Qui minim magna Lorem nulla officia non consequat ad officia proident laborum. Ut non nisi culpa laboris commodo ipsum laboris do ad irure Lorem nulla eiusmod."
+      },
+      {
+        "id": "RCSK310M20S",
+        "name": "Холодильник с морозильником Beko RCSK310M20S",
+        "imageUrls": [
+          "https://cdn21vek.by/img/galleries/476/171/preview/csmv5335mc0s_beko_5a3a4c5cb078c.jpeg",
+          "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
+        ],
+        "availableAmount": 5,
+        "price": 769.00,
+        "rating": 4,
+        "description": "Nostrud irure velit magna aliquip anim ea proident eiusmod adipisicing. Occaecat enim mollit eiusmod laboris laboris sint. Commodo sint quis eu ex sunt laborum laboris ut non cillum officia consectetur. Laborum est consequat ad aliquip adipisicing veniam qui ad aliquip irure. Lorem est aliqua officia eu quis anim consectetur irure officia nostrud. Non est sit dolore mollit culpa incididunt laboris fugiat velit ea veniam Lorem."
+      }
+    ],
+    "cookers": [],
+    "dishwashers": [],
+    "freezers": [],
+    "microwaves": [],
+    "teapots": [],
+    "washing-machines": [],
+    "irons": [],
+    "vacuum": []
+  },
+  "electronics": {
+    "mobile": [],
+    "watches": [],
+    "tablets": [],
+    "ebooks": [],
+    "powerbanks": [],
+    "cameras": [],
+    "tvs": [],
+    "headphones": []
+  },
+  "computers-peripherals": {
+    "laptops": [],
+    "computers": [],
+    "consoles": [],
+    "hardware": [],
+    "peripherals": [],
+    "monitors": []
+  },
+  "furniture": {
+    "sofas": [],
+    "armchairs": [],
+    "cabinets": [],
+    "chairs": [],
+    "tables": [],
+    "beds": []
+  },
+  "hobbies": {
+    "music-instruments": [],
+    "books": [],
+    "fun-and-rest": []
+  }
 }
