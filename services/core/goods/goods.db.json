@@ -25,14 +25,1252 @@
           "price": 769.00,
           "rating": 4,
           "description": "Nostrud irure velit magna aliquip anim ea proident eiusmod adipisicing. Occaecat enim mollit eiusmod laboris laboris sint. Commodo sint quis eu ex sunt laborum laboris ut non cillum officia consectetur. Laborum est consequat ad aliquip adipisicing veniam qui ad aliquip irure. Lorem est aliqua officia eu quis anim consectetur irure officia nostrud. Non est sit dolore mollit culpa incididunt laboris fugiat velit ea veniam Lorem."
+        },
+        {
+          "id": "RCSK310M20S",
+          "name": "Холодильник с морозильником ATLANT Х 2401-100",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/487/87/2401100_atlant_59e8ae8104736.jpeg",
+            "https://cdn21vek.by/img/galleries/487/87/2401100_atlant_59e8ae808355a.jpeg"
+          ],
+          "availableAmount": 10,
+          "price": 612.00,
+          "rating": 3,
+          "description": "Обзор Холодильник ATLANT Х-2401-100 — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
+        },
+        {
+          "id": "RCSK250M20W",
+          "name": "Холодильник с морозильником Beko RCSK250M20W",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/670/660/preview_b/rcsk250m20w_beko_5ba395b802436.jpeg",
+            "https://cdn21vek.by/img/galleries/670/660/preview_b/rcsk250m20w_beko_5ba395bcec466.jpeg"
+          ],
+          "availableAmount": 9,
+          "price": 809.00,
+          "rating": 5,
+          "description": "Обзор Холодильник с морозильником Beko RCSK250M20W — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
+        },
+        {
+          "id": "LGGAB419SQJL",
+          "name": "Холодильник с морозильником LG GA-B419SQJL",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/785/539/preview_b/gab419sqjl_lg_6006f85541cb9.jpeg",
+            "https://cdn21vek.by/img/galleries/785/539/preview_b/gab419sqjl_lg_5c04db850d2fd.jpeg",
+            "https://cdn21vek.by/img/galleries/785/539/preview_b/gab419sqjl_lg_5c04db90dae64.jpeg"
+          ],
+          "availableAmount": 12,
+          "price": 1480.00,
+          "rating": 5,
+          "description": "Обзор Холодильник с морозильником LG GA-B419SQJL — Быстрая заморозка не повреждает структуру продуктов, сохраняет их вкус, цвет и питательные свойства. При быстрой заморозке кристаллы льда в тканях образуются быстрее, равномернее и мельче по размеру. Эта функция особенно полезна для лучшего сохранения домашних заготовок."
+        },
+        {
+          "id": "KGN39AW32RL",
+          "name": "Холодильник с морозильником Bosch Serie 6 VitaFresh Plus KGN39AW32R",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6150/224/preview_b/serie6vitafreshpluskgn39aw32r_bosch_5f4f288ee7e66.png",
+            "https://cdn21vek.by/img/galleries/6150/224/preview_b/serie6vitafreshpluskgn39aw32r_bosch_5f4f288fe2c4d.png",
+            "https://cdn21vek.by/img/galleries/6150/224/preview_b/serie6vitafreshpluskgn39aw32r_bosch_5f4f289090d52.png"
+          ],
+          "availableAmount": 4,
+          "price": 2229.00,
+          "rating": 3,
+          "description": "Холодильно-морозильная комбинация NoFrost с зоной свежести VitaFresh plus сохраняет свежесть продуктов до 2 раз дольше. Нет необходимости размораживать морозильную камеру благодаря системе NoFrost. Холодильники c PerfectFit могут быть установлены на кухне вплотную к мебели и стенам, без зазоров. VitaFresh Plus: свежесть до двух раз дольше. Без лишних запахов и бактерий: антибактериальный фильтр AirFresh. Холодильник c Bosch VarioInverter работает очень тихо и потребляет меньше электроэнергии, чем холодильник с обычным компрессором."
+        },
+        
+
+        {
+          "id": "CSMV55505MC1S",
+          "name": "Холодильник с морозильником Beko CSMV55505MC1S",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/476/171/preview/csmv5335mc0s_beko_5a3a4c5cb078c.jpeg",
+            "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
+          ],
+          "availableAmount": 5,
+          "price": 859.00,
+          "rating": 4,
+          "description": "Deserunt esse anim nulla consequat mollit non do occaecat in aute labore fugiat. Amet deserunt ullamco ex et ullamco. Magna irure nostrud sint enim aliqua incididunt consectetur minim mollit ad. Qui minim magna Lorem nulla officia non consequat ad officia proident laborum. Ut non nisi culpa laboris commodo ipsum laboris do ad irure Lorem nulla eiusmod."
+        },
+        {
+          "id": "RSCK310M44S",
+          "name": "Холодильник с морозильником Beko RSCK310M44S",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/476/171/preview/csmv5335mc0s_beko_5a3a4c5cb078c.jpeg",
+            "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
+          ],
+          "availableAmount": 5,
+          "price": 769.00,
+          "rating": 4,
+          "description": "Nostrud irure velit magna aliquip anim ea proident eiusmod adipisicing. Occaecat enim mollit eiusmod laboris laboris sint. Commodo sint quis eu ex sunt laborum laboris ut non cillum officia consectetur. Laborum est consequat ad aliquip adipisicing veniam qui ad aliquip irure. Lorem est aliqua officia eu quis anim consectetur irure officia nostrud. Non est sit dolore mollit culpa incididunt laboris fugiat velit ea veniam Lorem."
+        },
+        {
+          "id": "RCSK311M20SS",
+          "name": "Холодильник с морозильником ATLANT RCSK311M20SS",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/487/87/2401100_atlant_59e8ae8104736.jpeg",
+            "https://cdn21vek.by/img/galleries/487/87/2401100_atlant_59e8ae808355a.jpeg"
+          ],
+          "availableAmount": 15,
+          "price": 812.00,
+          "rating": 3,
+          "description": "Обзор Холодильник ATLANT RCSK311M20SS — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
+        },
+        {
+          "id": "SRCK250N20V",
+          "name": "Холодильник с морозильником Beko SRCK250N20V",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/670/660/preview_b/rcsk250m20w_beko_5ba395b802436.jpeg",
+            "https://cdn21vek.by/img/galleries/670/660/preview_b/rcsk250m20w_beko_5ba395bcec466.jpeg"
+          ],
+          "availableAmount": 9,
+          "price": 809.00,
+          "rating": 5,
+          "description": "Обзор Холодильник с морозильником Beko SRCK250N20V — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
+        },
+        {
+          "id": "LGGAB491SJQL",
+          "name": "Холодильник с морозильником LG GA-B491SJQL",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/785/539/preview_b/gab419sqjl_lg_6006f85541cb9.jpeg",
+            "https://cdn21vek.by/img/galleries/785/539/preview_b/gab419sqjl_lg_5c04db850d2fd.jpeg",
+            "https://cdn21vek.by/img/galleries/785/539/preview_b/gab419sqjl_lg_5c04db90dae64.jpeg"
+          ],
+          "availableAmount": 3,
+          "price": 999.00,
+          "rating": 4,
+          "description": "Обзор Холодильник с морозильником LG GA-B491SJQL — быстрая заморозка не повреждает структуру продуктов, сохраняет их вкус, цвет и питательные свойства. При быстрой заморозке кристаллы льда в тканях образуются быстрее, равномернее и мельче по размеру. Эта функция особенно полезна для лучшего сохранения домашних заготовок."
+        },
+        {
+          "id": "KGG39AW32PLUS",
+          "name": "Холодильник с морозильником Bosch Serie 6 VitaFresh Plus KGG39AW32 Plus",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6150/224/preview_b/serie6vitafreshpluskgn39aw32r_bosch_5f4f288ee7e66.png",
+            "https://cdn21vek.by/img/galleries/6150/224/preview_b/serie6vitafreshpluskgn39aw32r_bosch_5f4f288fe2c4d.png",
+            "https://cdn21vek.by/img/galleries/6150/224/preview_b/serie6vitafreshpluskgn39aw32r_bosch_5f4f289090d52.png"
+          ],
+          "availableAmount": 4,
+          "price": 1221.99,
+          "rating": 3,
+          "description": "Холодильно-морозильная комбинация NoFrost с зоной свежести VitaFresh plus сохраняет свежесть продуктов до 2 раз дольше. Нет необходимости размораживать морозильную камеру благодаря системе NoFrost. Холодильники c PerfectFit могут быть установлены на кухне вплотную к мебели и стенам, без зазоров. VitaFresh Plus: свежесть до двух раз дольше. Без лишних запахов и бактерий: антибактериальный фильтр AirFresh. Холодильник c Bosch VarioInverter работает очень тихо и потребляет меньше электроэнергии, чем холодильник с обычным компрессором."
         }
       ],
-      "cookers": [],
-      "dishwashers": [],
-      "freezers": [],
-      "microwaves": [],
-      "teapots": [],
-      "washing-machines": [],
+      "cookers": [
+        {
+          "id": "612d297e215f40d1f9e74e10",
+          "name": "Плита газовая Cezaris ПГ 2150-00",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5955/657/preview_b/215000_cezaris_5e82e7e07d9e1.png"
+          ],
+          "rating": 1,
+          "availableAmount": 16,
+          "price": 2242,
+          "description": "anim qui velit labore mollit occaecat non dolore exercitation id ex esse deserunt proident qui qui non veniam do aliquip sit cillum culpa magna aliquip sit non adipisicing id aliqua esse aute qui laboris excepteur sunt et nulla consequat sunt"
+        },
+        {
+          "id": "612d297ecb52c019c9c4926e",
+          "name": "Плита газовая Gefest 1200 С7 К8",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/15/387/preview_b/gefest_32000819_58de4bb8f3a2b.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 9,
+          "price": 706,
+          "description": "ipsum voluptate ipsum exercitation irure culpa sit exercitation nulla culpa veniam dolor nisi adipisicing duis magna amet commodo aliqua id ipsum irure dolor minim pariatur nulla pariatur ea incididunt cupidatat ad commodo sit laborum Lorem esse occaecat elit duis commodo"
+        },
+        {
+          "id": "612d297e58816a074d1248f0",
+          "name": "Плита газовая Cezaris ПГ 2150-01",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/663/130/preview_b/1200789_gefest_5b8567f6b47e7.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 13,
+          "price": 984,
+          "description": "laborum ad esse laboris et minim est adipisicing tempor non voluptate non pariatur esse ea qui aliqua aliquip velit sunt qui excepteur irure pariatur nulla enim labore excepteur amet sit veniam irure aute laborum anim sit id mollit velit est"
+        },
+        {
+          "id": "612d297e909d34fafdb4c9c2",
+          "name": "Плита газовая Gefest 3200-06",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/4/308/preview_b/gefest_320005_57b5ae02e8e4c.jpeg",
+            "https://cdn21vek.by/img/galleries/4/308/preview_b/gefest_320005_58cffd0d9a326.jpeg",
+            "https://cdn21vek.by/img/galleries/4/308/preview_b/gefest_320005_58cffe210b3dc.png"
+          ],
+          "rating": 5,
+          "availableAmount": 4,
+          "price": 1417,
+          "description": "minim dolor deserunt mollit ipsum incididunt incididunt officia dolor sit ex ipsum sit id id id aliquip officia minim ea eu ad proident id nulla nulla adipisicing adipisicing sunt laborum pariatur aliquip consectetur sit tempor occaecat occaecat adipisicing in sint"
+        },
+        {
+          "id": "612d297ee479a9d086fe9ca1",
+          "name": "Плита газовая Gefest 3200-06 К62",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/16/236/preview_b/gefest_320008_27374.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 7,
+          "price": 2102,
+          "description": "incididunt non pariatur ullamco minim sint adipisicing culpa ut culpa in culpa voluptate amet quis sunt in eiusmod culpa laborum magna sit aute Lorem ipsum ex deserunt sunt sunt magna eiusmod enim nostrud mollit fugiat enim qui enim aute incididunt"
+        },
+        {
+          "id": "612d297ebe15197e85b4c1e3",
+          "name": "Плита газовая Gefest 3200-08 К19",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/4/385/preview_b/gefest_12005_5996d3bf0fbc8.jpeg",
+            "https://cdn21vek.by/img/galleries/4/385/preview_b/gefest_12005_580f6474b48da.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 16,
+          "price": 1796,
+          "description": "labore ut deserunt elit amet ad Lorem ipsum officia tempor sit nostrud aliquip eu deserunt duis amet Lorem excepteur cupidatat ipsum cupidatat proident aute labore aliquip ex deserunt incididunt magna adipisicing enim ut magna irure sint consequat Lorem duis ea"
+        },
+        {
+          "id": "612d297eeb05cfcc41375757",
+          "name": "Плита газовая Gefest 3200-05",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5975/58/preview_b/215004_cezaris_5e9d3ef89cdbb.png"
+          ],
+          "rating": 3,
+          "availableAmount": 12,
+          "price": 1527,
+          "description": "quis voluptate enim cillum minim qui anim esse cupidatat aliqua eiusmod qui non Lorem laboris velit quis do in ea excepteur incididunt proident ut et proident ex laboris aliqua commodo ut deserunt dolore labore sint id commodo dolore qui cupidatat"
+        },
+        {
+          "id": "612d297e4b95618add9fa38a",
+          "name": "Плита газовая Gefest 1200 С7 К89",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/4/309/preview_b/gefest_32000519_5e67970b063a2.jpeg",
+            "https://cdn21vek.by/img/galleries/4/309/preview_b/gefest_32000519_5e67970b6766e.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 10,
+          "price": 778,
+          "description": "veniam anim sit deserunt culpa occaecat et nisi excepteur quis occaecat eu aute non in officia qui labore enim laboris cupidatat mollit proident irure id tempor labore consectetur cupidatat velit id ex nostrud magna dolore esse fugiat in amet id"
+        },
+        {
+          "id": "612d297eb1a4ff3195833c7f",
+          "name": "Плита газовая Gefest 3200-08",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/415/243/preview_b/32000633_gefest_5880aeb5aa4f2.jpeg",
+            "https://cdn21vek.by/img/galleries/415/243/preview_b/32000633_gefest_58de099d0dcf9.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 13,
+          "price": 1083,
+          "description": "duis aute laboris incididunt voluptate reprehenderit do consectetur nisi cupidatat commodo ea nisi et ullamco amet velit ut est qui culpa cupidatat consequat do Lorem ea elit duis incididunt culpa enim elit ipsum esse ea ipsum consectetur consequat qui occaecat"
+        },
+        {
+          "id": "612d297e4c7be56241fafb0b",
+          "name": "Плита газовая Gefest 5100-03",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/39/988/preview_b/gefest_6500021_57fb5ad8af2fe.jpeg",
+            "https://cdn21vek.by/img/galleries/39/988/preview_b/gefest_6500021_58ec858f892e3.jpeg",
+            "https://cdn21vek.by/img/galleries/39/988/preview_b/gefest_6500021_58ec859033aec.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 4,
+          "price": 739,
+          "description": "duis veniam veniam deserunt fugiat tempor cillum excepteur occaecat exercitation aute sit culpa quis deserunt fugiat id duis magna ut irure exercitation ullamco est cillum id dolor ad irure nostrud dolor excepteur consequat elit excepteur fugiat voluptate ex anim velit"
+        },
+        {
+          "id": "612d297e4b5a25b6f4398a91",
+          "name": "Плита газовая Gefest 1200 С5",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/415/243/preview_b/32000633_gefest_5880aeb5aa4f2.jpeg",
+            "https://cdn21vek.by/img/galleries/415/243/preview_b/32000633_gefest_58de099d0dcf9.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 11,
+          "price": 2318,
+          "description": "mollit officia culpa irure reprehenderit in qui exercitation ea occaecat amet consectetur officia ea laboris laborum do exercitation esse commodo eu culpa aliqua nostrud eu ex aliquip laboris minim velit occaecat adipisicing excepteur duis ipsum eiusmod nisi proident veniam tempor"
+        },
+        {
+          "id": "612d297e131c099e42199b4d",
+          "name": "Плита газовая Cezaris ПГ 2150-10",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/452/765/preview_b/310000_cezaris_02_5a9847fdec0a4.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 17,
+          "price": 2116,
+          "description": "et incididunt velit nostrud dolor sint exercitation dolor elit et nisi qui culpa aute voluptate duis in ex ipsum consectetur incididunt dolor veniam quis occaecat Lorem dolor dolor consectetur incididunt irure Lorem reprehenderit labore ut occaecat commodo excepteur minim do"
+        },
+        {
+          "id": "612d297e3073e08ca35ea07d",
+          "name": "Плита газовая Gefest 1200 С6 К19",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5980/712/preview_b/215011_cezaris_5eb11c11bc8b6.png"
+          ],
+          "rating": 0,
+          "availableAmount": 20,
+          "price": 1399,
+          "description": "consequat magna exercitation quis culpa id labore nostrud nostrud sit sint voluptate duis et ad voluptate ad est do cillum ipsum culpa id in in duis duis ullamco consequat non amet duis veniam ex amet eiusmod dolor veniam excepteur laboris"
+        },
+        {
+          "id": "612d297e802255c2bf1fde16",
+          "name": "Плита газовая Gefest 3200-05 К19",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/49/958/preview_b/gefest_6502031_1_5cc6c87a4ce87.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 7,
+          "price": 1632,
+          "description": "enim et nisi cupidatat nisi sunt duis minim est labore sunt minim mollit tempor nisi pariatur officia et exercitation duis culpa cillum officia do fugiat laboris dolore ex ex ex sunt aute sunt ad labore exercitation nostrud nostrud qui non"
+        },
+        {
+          "id": "612d297ed8e766012df44375",
+          "name": "Плита газовая Cezaris ПГ 3100-00 С",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/4/867/preview_b/gefest_32000619_595cfd4a47bbf.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 14,
+          "price": 1641,
+          "description": "mollit tempor tempor aliqua laborum et voluptate magna et est culpa nulla pariatur tempor amet incididunt consectetur ea in nisi amet amet consequat dolore eiusmod mollit nisi occaecat duis cillum exercitation Lorem nulla esse ullamco adipisicing quis veniam culpa sint"
+        },
+        {
+          "id": "612d297e6dac8b74c7b4f527",
+          "name": "Плита газовая Gefest 6502-03 Д1А (6502-03 0044)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/11/599/preview_b/gefest_6100022_5881.jpeg",
+            "https://cdn21vek.by/img/galleries/11/599/preview_b/gefest_6100022_58ab0f76a9733.jpeg",
+            "https://cdn21vek.by/img/galleries/11/599/preview_b/gefest_6100022_58ab112d3f758.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 11,
+          "price": 1470,
+          "description": "consequat cupidatat qui sunt ad ut ullamco laboris aliqua dolore incididunt nisi voluptate excepteur consectetur ad cillum cupidatat culpa elit Lorem minim aute fugiat magna amet qui pariatur fugiat pariatur ullamco consectetur sit commodo ut nostrud do minim labore Lorem"
+        },
+        {
+          "id": "612d297e1deb881f58c5ee04",
+          "name": "Плита газовая Gefest 6500-03 Д1А (6500-03 0044)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/26/338/gefest_6500031_1_5719c76d983b4.jpeg",
+            "https://cdn21vek.by/img/galleries/26/338/preview_b/gefest_6500031_1_58d0fa82ee4ea.png"
+          ],
+          "rating": 4,
+          "availableAmount": 2,
+          "price": 1033,
+          "description": "commodo reprehenderit ut aliqua id qui dolor commodo in amet sint Lorem dolore id mollit nostrud excepteur tempor ullamco culpa reprehenderit ut cupidatat elit adipisicing cillum commodo eiusmod dolore incididunt aliquip do nulla Lorem amet excepteur magna eiusmod officia excepteur"
+        }
+      ],
+      "dishwashers": [
+        {
+          "id": "612d3ae69432e0d9f2b1bca0",
+          "name": "Посудомоечная машина Bosch SMV25AX01R",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/733/534/preview_b/smv25ax01r_bosch_5bebdaf593fc4.jpeg",
+            "https://cdn21vek.by/img/galleries/733/534/preview_b/smv25ax01r_bosch_5bebdafede320.jpeg",
+            "https://cdn21vek.by/img/galleries/733/534/preview_b/smv25ax01r_bosch_5bebdb055d4b9.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 15,
+          "price": 2452,
+          "description": "do do sint id velit nisi qui ea pariatur cillum ullamco consectetur consectetur sit dolor commodo reprehenderit ad consequat consectetur commodo dolore in consectetur cillum cillum consectetur est aute sit et in in cillum mollit anim magna nulla fugiat et"
+        },
+        {
+          "id": "612d3ae6d5b196cea0a5e6d4",
+          "name": "Посудомоечная машина Bosch SMV25EX03R",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5891/147/preview_b/smv25ex03r_bosch_5e464de769e93.jpeg",
+            "https://cdn21vek.by/img/galleries/5891/147/preview_b/smv25ex03r_bosch_5e464de68f073.jpeg",
+            "https://cdn21vek.by/img/galleries/5891/147/preview_b/smv25ex03r_bosch_5e464deb1bd39.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 11,
+          "price": 1238,
+          "description": "nisi tempor aliqua in id elit esse sint sunt sit velit adipisicing dolore ullamco minim quis fugiat ut excepteur reprehenderit anim est commodo consequat id veniam consequat labore occaecat irure et ullamco quis anim est consequat enim occaecat consectetur mollit"
+        },
+        {
+          "id": "612d3ae66772aec7baa08f22",
+          "name": "Посудомоечная машина Samsung DW50R4050BB/WT",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5826/828/preview_b/dw50r4050bbwt_samsung_5e7da3b631638.png",
+            "https://cdn21vek.by/img/galleries/5826/828/preview_b/dw50r4050bbwt_samsung_5ef9afc42fc56.jpeg",
+            "https://cdn21vek.by/img/galleries/5826/828/preview_b/dw50r4050bbwt_samsung_5e7da15ac9e8d.png"
+          ],
+          "rating": 3,
+          "availableAmount": 12,
+          "price": 1977,
+          "description": "minim duis elit officia ex dolore sunt consectetur duis ad exercitation qui nisi esse excepteur officia voluptate est nisi cillum minim qui amet labore reprehenderit aute consectetur duis ad ex cillum culpa sit ad amet velit quis quis amet ipsum"
+        },
+        {
+          "id": "612d3ae69c84ed0e2192d28b",
+          "name": "Посудомоечная машина Bosch SPV2HKX5DR",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6152/88/preview_b/spv2hkx5dr_bosch_5f643706268c8.png",
+            "https://cdn21vek.by/img/galleries/6152/88/preview_b/spv2hkx5dr_bosch_5f643707a3fa3.png",
+            "https://cdn21vek.by/img/galleries/6152/88/preview_b/spv2hkx5dr_bosch_5f643707dcae8.png"
+          ],
+          "rating": 3,
+          "availableAmount": 5,
+          "price": 2253,
+          "description": "officia id id fugiat reprehenderit dolore Lorem labore duis aliqua esse minim ullamco ea commodo minim cupidatat minim elit dolor reprehenderit pariatur fugiat esse do fugiat commodo aliqua esse laborum id quis Lorem laboris eu eu incididunt do officia fugiat"
+        },
+        {
+          "id": "612d3ae61c8530979d5598d4",
+          "name": "Посудомоечная машина Hotpoint-Ariston HSIO 3O23 WFE",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/766/926/preview_b/hsio3o23wfe_hotpointariston_5c251dce3fa15.jpeg",
+            "https://cdn21vek.by/img/galleries/766/926/preview_b/hsio3o23wfe_hotpointariston_5c251dd226859.jpeg",
+            "https://cdn21vek.by/img/galleries/766/926/preview_b/hsio3o23wfe_hotpointariston_5c45614e4d47f.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 7,
+          "price": 757,
+          "description": "anim tempor duis culpa incididunt dolor excepteur magna veniam labore non ex ullamco exercitation exercitation non cillum veniam consequat mollit id occaecat elit consequat ipsum pariatur minim consectetur tempor Lorem tempor in eu proident quis dolore laborum laborum duis sit"
+        },
+        {
+          "id": "612d3ae62bf6e9298541f2d1",
+          "name": "Посудомоечная машина Bosch SMV25FX01R",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1086/255/preview_b/smv25fx01r_bosch_5d6e058963bfb.jpeg",
+            "https://cdn21vek.by/img/galleries/1086/255/preview_b/smv25fx01r_bosch_5d6e058a1bfb1.jpeg",
+            "https://cdn21vek.by/img/galleries/1086/255/preview_b/smv25fx01r_bosch_5d6e058a8cfca.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 11,
+          "price": 565,
+          "description": "anim tempor elit proident consectetur ipsum proident excepteur mollit quis est esse ea voluptate ut est incididunt sint sint dolor mollit nostrud nostrud consectetur ad ex laborum tempor sunt excepteur minim excepteur fugiat excepteur minim tempor cupidatat non amet ex"
+        },
+        {
+          "id": "612d3ae603e0bb45675b3ee6",
+          "name": "Посудомоечная машина HOMSair DW45L",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6078/834/preview_b/dw45l_homsair_5f0d705c19fb5.jpeg",
+            "https://cdn21vek.by/img/galleries/6078/834/preview_b/dw45l_homsair_5f0d705da7f1d.jpeg",
+            "https://cdn21vek.by/img/galleries/6078/834/preview_b/dw45l_homsair_5f0d705dcfc42.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 17,
+          "price": 2116,
+          "description": "adipisicing proident cupidatat consequat amet duis irure sint ea ut consequat non ut cupidatat irure et ullamco duis esse proident quis consequat do ipsum nulla nulla laboris deserunt est laboris incididunt nulla sunt esse cillum aliqua cillum ullamco fugiat consequat"
+        },
+        {
+          "id": "612d3ae64c215fe99eb0142d",
+          "name": "Посудомоечная машина Maunfeld MLP 08I",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/660/136/preview_b/mlp08i_maunfeld_5c5888a994dad.jpeg",
+            "https://cdn21vek.by/img/galleries/660/136/preview_b/mlp08i_maunfeld_5c588915c4063.jpeg",
+            "https://cdn21vek.by/img/galleries/660/136/preview_b/mlp08i_maunfeld_5c58891648724.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 15,
+          "price": 1961,
+          "description": "ad eu duis qui labore consectetur sunt in aliquip tempor non laborum velit ea ea deserunt Lorem ut irure ut deserunt ipsum ad quis dolore quis ut velit excepteur esse veniam dolor mollit exercitation do laboris elit labore quis adipisicing"
+        },
+        {
+          "id": "612d3ae6754952fdd2bb8f7a",
+          "name": "Посудомоечная машина Indesit DSIC 3M19",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/766/961/preview_b/dsic3m19_indesit_5c471c234b353.jpeg",
+            "https://cdn21vek.by/img/galleries/766/961/preview_b/dsic3m19_indesit_5c471c258caf2.jpeg",
+            "https://cdn21vek.by/img/galleries/766/961/preview_b/dsic3m19_indesit_5c471c291e7fa.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 19,
+          "price": 545,
+          "description": "ad velit culpa Lorem sint elit sit eiusmod sit ad dolore consectetur non do commodo nulla ullamco sint duis deserunt culpa ea adipisicing nulla irure ex nisi minim deserunt duis ullamco deserunt tempor eiusmod proident consectetur et occaecat eu aliqua"
+        },
+        {
+          "id": "612d3ae646d3b1e15bc44cb1",
+          "name": "Посудомоечная машина Bosch SMV45IX01R",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/442/804/preview_b/smv45ix01r_bosch_593d704dabd69.jpeg",
+            "https://cdn21vek.by/img/galleries/442/804/preview_b/smv45ix01r_bosch_59c5eaf8acb2d.jpeg",
+            "https://cdn21vek.by/img/galleries/442/804/preview_b/smv45ix01r_bosch_59c5eb007efb3.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 20,
+          "price": 897,
+          "description": "sunt excepteur adipisicing elit officia aliqua dolore est do sit consequat cillum fugiat duis ad enim excepteur amet sint nulla anim officia magna mollit occaecat deserunt elit esse Lorem ut ea sit consequat elit ullamco consequat labore adipisicing ut officia"
+        },
+        {
+          "id": "612d3ae69a016b74006a1555",
+          "name": "Посудомоечная машина Hotpoint-Ariston HSIE 2B19",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/757/120/preview_b/hsie2b19_hotpointariston_5be44f81ad701.jpeg",
+            "https://cdn21vek.by/img/galleries/757/120/preview_b/hsie2b19_hotpointariston_5be44f8587998.jpeg",
+            "https://cdn21vek.by/img/galleries/757/120/preview_b/hsie2b19_hotpointariston_5be44f8817cfd.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 6,
+          "price": 2478,
+          "description": "aliquip aliqua cillum laboris proident nostrud aute ea ut consequat velit duis officia duis duis ut Lorem enim irure esse ipsum quis dolor ipsum excepteur eu aliquip adipisicing consectetur eiusmod et excepteur occaecat ut proident nostrud ea culpa laboris pariatur"
+        },
+        {
+          "id": "612d3ae6fd412048a603d0a5",
+          "name": "Посудомоечная машина Maunfeld MLP 12I",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/658/110/preview_b/lp12i_maunfeld_5b7ff8664870b.jpeg",
+            "https://cdn21vek.by/img/galleries/658/110/preview_b/lp12i_maunfeld_5f44fa54e4f93.png",
+            "https://cdn21vek.by/img/galleries/658/110/preview_b/lp12i_maunfeld_5b7ff86aad4ca.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 19,
+          "price": 1706,
+          "description": "Lorem commodo Lorem aliquip ut et veniam magna sit magna est eiusmod reprehenderit duis dolore reprehenderit consectetur sunt consectetur ad occaecat eu qui aliqua dolor voluptate nisi commodo laboris excepteur aliquip non veniam ex dolor adipisicing cupidatat ex esse sunt"
+        },
+        {
+          "id": "612d3ae60f7b26f6a04c53d2",
+          "name": "Посудомоечная машина Bosch SPV6HMX1MR",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6150/169/preview_b/spv6hmx1mr_bosch_5f55bea7812d1.png",
+            "https://cdn21vek.by/img/galleries/6150/169/preview_b/spv6hmx1mr_bosch_5f55bea7c5ff2.png",
+            "https://cdn21vek.by/img/galleries/6150/169/preview_b/spv6hmx1mr_bosch_5f55bea86414b.png"
+          ],
+          "rating": 5,
+          "availableAmount": 18,
+          "price": 1372,
+          "description": "incididunt qui consectetur amet ad excepteur ullamco exercitation consectetur non enim adipisicing qui esse minim ipsum reprehenderit ea aliquip non culpa sunt do fugiat esse cupidatat ipsum culpa reprehenderit irure eu qui aute est aliqua eiusmod ullamco officia ullamco in"
+        },
+        {
+          "id": "612d3ae65ce7266552362335",
+          "name": "Посудомоечная машина Indesit DSIE 2B10",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/766/958/preview_b/dsie2b10_indesit_5c7e2b9770882.jpeg",
+            "https://cdn21vek.by/img/galleries/766/958/preview_b/dsie2b10_indesit_5c7e2b9995da6.jpeg",
+            "https://cdn21vek.by/img/galleries/766/958/preview_b/dsie2b10_indesit_5c7e2bbba0203.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 17,
+          "price": 772,
+          "description": "eiusmod aute eu non dolor laboris minim est non exercitation et mollit adipisicing exercitation incididunt irure commodo reprehenderit enim exercitation sint irure aliqua veniam tempor mollit eiusmod ullamco ad laborum consequat voluptate tempor consectetur eiusmod ut non voluptate anim fugiat"
+        }
+      ],
+      "freezers": [
+        {
+          "id": "612d405989b79567be73e3f0",
+          "name": "Морозильник Indesit SFR 100 A",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/873/764/preview_b/sfr100a_indesit_5c62e024bc934.jpeg",
+            "https://cdn21vek.by/img/galleries/873/764/preview_b/sfr100a_indesit_5c62e02706056.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 8,
+          "price": 1214,
+          "description": "officia id dolore laborum cillum ex non consectetur ex non magna tempor culpa incididunt nisi ea consectetur ea non laboris amet sint tempor est ipsum dolore consequat cupidatat qui culpa nulla dolor amet eiusmod proident occaecat et tempor tempor nostrud"
+        },
+        {
+          "id": "612d4059b70b1637447b515e",
+          "name": "Морозильник Indesit DSZ 5175",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/919/943/preview_b/dsz5175_indesit_5ce79a230d1b1.jpeg",
+            "https://cdn21vek.by/img/galleries/919/943/preview_b/dsz5175_indesit_5ce79a231b666.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 19,
+          "price": 1346,
+          "description": "cillum non velit ex proident eiusmod voluptate aute aliquip quis ad officia pariatur elit anim reprehenderit sint non eu labore esse laboris velit reprehenderit aute consectetur aliquip qui magna dolor laboris laborum magna ea Lorem nostrud deserunt non do nulla"
+        },
+        {
+          "id": "612d4059e0794a401b170138",
+          "name": "Морозильник Indesit DSZ 4150",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/919/880/preview_b/dsz4150_indesit_5ca3239a34fef.jpeg",
+            "https://cdn21vek.by/img/galleries/919/880/preview_b/dsz4150_indesit_5ca3239a61a15.jpeg",
+            "https://cdn21vek.by/img/galleries/919/880/preview_b/dsz4150_indesit_5ca3239a74252.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 18,
+          "price": 772,
+          "description": "mollit nulla pariatur minim ea reprehenderit minim ad incididunt et ullamco duis amet laboris sint deserunt minim consectetur culpa laboris ipsum minim est do sint reprehenderit nostrud sit in dolor eiusmod laboris fugiat dolor laboris commodo irure reprehenderit cillum aliquip"
+        },
+        {
+          "id": "612d40598112672a4fe57be6",
+          "name": "Морозильник Beko RFSK215T21S",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/670/662/preview_b/rfsk215t21s_beko_5ba39418d0722.jpeg",
+            "https://cdn21vek.by/img/galleries/670/662/preview_b/rfsk215t21s_beko_5ba3941b7a484.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 10,
+          "price": 510,
+          "description": "aliquip laborum elit id minim ipsum sunt velit est velit deserunt magna est sit nulla veniam labore ullamco anim fugiat incididunt ut sunt officia eu dolore ullamco eiusmod sit irure sunt magna quis culpa minim officia aliquip elit aliquip minim"
+        },
+        {
+          "id": "612d4059556c3c44d2f462c3",
+          "name": "Морозильник Beko RFSK215T21W",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/670/664/preview_b/rfsk215t21w_beko_5ba3954256686.jpeg",
+            "https://cdn21vek.by/img/galleries/670/664/preview_b/rfsk215t21w_beko_5ba39546d8f8f.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 17,
+          "price": 1362,
+          "description": "eiusmod aute ullamco dolore dolore do est ullamco fugiat Lorem reprehenderit duis culpa nostrud labore labore duis exercitation nisi voluptate tempor dolor excepteur adipisicing adipisicing consectetur ut laboris occaecat qui proident culpa mollit sunt incididunt eu nulla minim commodo occaecat"
+        },
+        {
+          "id": "612d4059a556d9e1cb6eb8e6",
+          "name": "Морозильник ATLANT М 7402-100",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/513/579/preview_b/7402100_atlant_5a2fb1b2a45e7.jpeg",
+            "https://cdn21vek.by/img/galleries/513/579/preview_b/7402100_atlant_5a2fb1b18ac8b.jpeg",
+            "https://cdn21vek.by/img/galleries/513/579/preview_b/7402100_atlant_5a2fb1b2dff21.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 10,
+          "price": 2222,
+          "description": "quis ut nisi nulla commodo eu esse non ex occaecat quis pariatur aute adipisicing ut ad labore eu officia quis ipsum exercitation officia tempor proident commodo et magna id exercitation dolor labore voluptate ipsum aute aute nostrud sint incididunt nisi"
+        },
+        {
+          "id": "612d40598f6b7a70e68c431a",
+          "name": "Морозильник Indesit DFZ 4150",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/919/884/preview_b/dfz4150_indesit_5ca31f9193c76.jpeg",
+            "https://cdn21vek.by/img/galleries/919/884/preview_b/dfz4150_indesit_5ca31f91d3b7f.jpeg",
+            "https://cdn21vek.by/img/galleries/919/884/preview_b/dfz4150_indesit_5ca31f920abb3.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 6,
+          "price": 1875,
+          "description": "cupidatat laboris non sunt occaecat culpa ea sit minim nostrud amet deserunt nisi do laborum esse nostrud nostrud officia velit consectetur duis ea est culpa id magna exercitation sit dolor consequat esse et nostrud nostrud occaecat quis consectetur nostrud do"
+        },
+        {
+          "id": "612d4059f0bc846753191c9d",
+          "name": "Морозильник ATLANT М-7401-100",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/487/83/preview_b/7401100_atlant_59f1aa20a41fb.jpeg",
+            "https://cdn21vek.by/img/galleries/487/83/preview_b/7401100_atlant_5c4ede9369a9d.jpeg",
+            "https://cdn21vek.by/img/galleries/487/83/preview_b/7401100_atlant_5c4ede9397c0a.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 19,
+          "price": 595,
+          "description": "est magna tempor id do qui do culpa culpa exercitation exercitation ipsum cillum esse veniam commodo minim occaecat minim dolore pariatur ullamco sit reprehenderit anim dolore exercitation irure enim qui nostrud aute aliquip minim deserunt reprehenderit aliqua officia nostrud et"
+        },
+        {
+          "id": "612d4059043f68d81701c3b3",
+          "name": "Морозильник ATLANT М 7184-003",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/42/496/preview_b/atlant_7184003_56f0ebdde71f5.jpeg",
+            "https://cdn21vek.by/img/galleries/42/496/preview_b/atlant_7184003_56f0ebe5428af.jpeg",
+            "https://cdn21vek.by/img/galleries/42/496/preview_b/atlant_7184003_56f0ebfe06e0e.jpeg",
+            "https://cdn21vek.by/img/galleries/42/496/preview_b/atlant_7184003_56f0ec0ecb579.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 15,
+          "price": 2383,
+          "description": "et adipisicing minim sit fugiat aute aliqua tempor eu est adipisicing voluptate ad aliquip anim cillum pariatur culpa ullamco mollit anim labore nisi pariatur et nisi excepteur velit Lorem deserunt tempor nostrud reprehenderit do qui enim quis sint officia cillum"
+        },
+        {
+          "id": "612d405918610d39e45d6607",
+          "name": "Морозильник ATLANT М 7201-100",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/59/885/preview_b/atlant_7201100_56c30efcc0996.jpeg",
+            "https://cdn21vek.by/img/galleries/59/885/preview_b/atlant_7201100_57e7af6991c7c.jpeg",
+            "https://cdn21vek.by/img/galleries/59/885/preview_b/atlant_7201100_57e7af76e14fa.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 11,
+          "price": 2461,
+          "description": "amet commodo consectetur sunt proident duis do aute exercitation nostrud officia consequat velit proident dolor nulla enim aliqua do magna fugiat magna excepteur in quis voluptate sint minim dolor tempor voluptate incididunt aliquip amet incididunt eiusmod nostrud nulla anim Lorem"
+        },
+        {
+          "id": "612d40591e008c48806c2abd",
+          "name": "Морозильник Beko RFSK266T21W",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/663/519/preview_b/rfsk266t21w_beko_5b7c1ad155f17.jpeg",
+            "https://cdn21vek.by/img/galleries/663/519/preview_b/rfsk266t21w_beko_5b7c1ad2e0dee.jpeg",
+            "https://cdn21vek.by/img/galleries/663/519/preview_b/rfsk266t21w_beko_5b7c1ad5a095e.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 18,
+          "price": 2100,
+          "description": "deserunt aliquip anim qui tempor amet nostrud laboris fugiat consequat ullamco eiusmod mollit tempor adipisicing sit aute commodo ullamco nulla nostrud magna pariatur tempor irure fugiat incididunt incididunt cillum commodo dolore proident ipsum eu Lorem commodo aliquip tempor occaecat laboris"
+        },
+        {
+          "id": "612d4059d39ce041f9ed469e",
+          "name": "Морозильный ларь ATLANT М-8038-101",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5859/234/preview_b/8038101_atlant_5e20ba4715b45.jpeg",
+            "https://cdn21vek.by/img/galleries/5859/234/preview_b/8038101_atlant_5e20ba4869efd.jpeg",
+            "https://cdn21vek.by/img/galleries/5859/234/preview_b/8038101_atlant_5e20ba4964d8b.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 13,
+          "price": 1367,
+          "description": "commodo qui elit veniam consequat officia do ad velit ullamco enim enim dolore aliquip ea est fugiat enim velit est minim incididunt sit excepteur aliqua officia eu tempor ex cupidatat enim laboris et incididunt reprehenderit laborum anim consequat sint incididunt"
+        }
+      ],
+      "microwaves": [
+        {
+          "id": "612d43650149cb2bb33cc369",
+          "name": "Микроволновая печь Horizont 20MW700-1378HTS",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6266/221/preview_b/20mw7001378hts_horizont_5fb4f156406f7.png",
+            "https://cdn21vek.by/img/galleries/6266/221/preview_b/20mw7001378hts_horizont_5fb4f1639c99b.png",
+            "https://cdn21vek.by/img/galleries/6266/221/preview_b/20mw7001378hts_horizont_5fb4f14eb05b6.png"
+          ],
+          "rating": 3,
+          "availableAmount": 16,
+          "price": 715,
+          "description": "nostrud dolor laborum anim nisi duis elit Lorem ad minim voluptate deserunt in nulla commodo minim et ex magna veniam exercitation ipsum duis dolor mollit veniam deserunt commodo anim est non anim aliquip veniam ad pariatur pariatur ipsum proident sit"
+        },
+        {
+          "id": "612d436581e2a8cd7988c696",
+          "name": "Микроволновая печь Horizont 20MW700-1479BKB",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/223/101/preview_b/20mw7001479bkb_horizont_58beafa150722.jpeg",
+            "https://cdn21vek.by/img/galleries/223/101/preview_b/20mw7001479bkb_horizont_5aa8d8df6cc1f.jpeg",
+            "https://cdn21vek.by/img/galleries/223/101/preview_b/20mw7001479bkb_horizont_5aa8d8e4cf9ad.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 9,
+          "price": 1085,
+          "description": "proident eu eiusmod Lorem voluptate aute pariatur non non duis nostrud Lorem nulla eiusmod dolore aliqua commodo aliquip ex amet commodo dolore est irure aute esse magna aute consectetur excepteur ut est aliqua incididunt tempor irure velit fugiat est ut"
+        },
+        {
+          "id": "612d4365fd547babedf952a5",
+          "name": "Микроволновая печь Samsung MS23F302TAK",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/53/973/preview_b/samsung_ms23f302tak_88232.jpeg",
+            "https://cdn21vek.by/img/galleries/53/973/preview_b/samsung_ms23f302tak_5944359842fe2.jpeg",
+            "https://cdn21vek.by/img/galleries/53/973/preview_b/samsung_ms23f302tak_594435c192c1c.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 6,
+          "price": 533,
+          "description": "proident commodo fugiat adipisicing amet id ea sit sint occaecat id tempor exercitation ea aute nulla duis excepteur esse laborum ad ullamco magna id officia qui aute id excepteur do ea enim in nisi occaecat officia laboris adipisicing fugiat aute"
+        },
+        {
+          "id": "612d436542976d8a48f99d52",
+          "name": "Микроволновая печь Samsung ME88SUB/BW",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/786/571/preview_b/me88subbw_samsung_5c6140509110f.jpeg",
+            "https://cdn21vek.by/img/galleries/786/571/preview_b/me88subbw_samsung_5c614050e3db3.jpeg",
+            "https://cdn21vek.by/img/galleries/786/571/preview_b/me88subbw_samsung_5c61405174e50.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 10,
+          "price": 2214,
+          "description": "id veniam esse veniam voluptate dolor duis est ea amet reprehenderit amet duis incididunt labore incididunt exercitation id amet laboris sit voluptate minim duis exercitation cupidatat ut nisi aliqua nulla consequat magna sunt commodo nulla mollit sit nulla commodo magna"
+        },
+        {
+          "id": "612d4365265c9abb1d572d8c",
+          "name": "Микроволновая печь Horizont 20MW700-1378HCW",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6233/145/preview_b/20mw7001378hcw_horizont_5fb505ecab222.png",
+            "https://cdn21vek.by/img/galleries/6233/145/preview_b/20mw7001378hcw_horizont_5fb505f2ae989.png",
+            "https://cdn21vek.by/img/galleries/6233/145/preview_b/20mw7001378hcw_horizont_5fb505f8eed36.png"
+          ],
+          "rating": 3,
+          "availableAmount": 10,
+          "price": 2446,
+          "description": "ullamco ipsum et in mollit qui consequat quis laborum exercitation in excepteur excepteur exercitation excepteur et sint dolore reprehenderit fugiat consectetur ut laborum enim ipsum cupidatat cillum magna ad ullamco duis aliqua irure nulla ad ullamco anim ex reprehenderit fugiat"
+        },
+        {
+          "id": "612d43652063a768c2e82268",
+          "name": "Микроволновая печь Samsung MS23J5133AK",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/780/532/preview_b/ms23j5133ak_samsung_5bfe5f59bae4b.jpeg",
+            "https://cdn21vek.by/img/galleries/780/532/preview_b/ms23j5133ak_samsung_5bfe5f5d4d875.jpeg",
+            "https://cdn21vek.by/img/galleries/780/532/preview_b/ms23j5133ak_samsung_5bfe5f5f52469.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 20,
+          "price": 2081,
+          "description": "eiusmod magna non occaecat do veniam commodo voluptate eu aliquip labore elit elit pariatur sit laborum minim aute dolor esse deserunt mollit cupidatat do est sit fugiat eu ut veniam sint culpa occaecat in velit fugiat culpa ex esse et"
+        },
+        {
+          "id": "612d43651a5bfcf3f451e492",
+          "name": "Микроволновая печь Horizont 20MW700-1378AAW",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/460/950/preview_b/20mw7001378aaw_horizont_59491f6600d59.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 18,
+          "price": 2458,
+          "description": "nisi et irure laborum nostrud laborum pariatur esse id cupidatat deserunt velit cupidatat ex officia enim voluptate mollit quis aliquip culpa sit qui tempor culpa adipisicing qui excepteur elit nostrud eiusmod sint culpa minim enim cupidatat proident excepteur ipsum labore"
+        },
+        {
+          "id": "612d436532fee84473549d52",
+          "name": "Микроволновая печь Horizont 20MW700-1378BIS",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/460/949/preview_b/20mw7001378bis_horizont_5ac21ff417d64.jpeg",
+            "https://cdn21vek.by/img/galleries/460/949/preview_b/20mw7001378bis_horizont_5ac21ffc2cc1d.jpeg",
+            "https://cdn21vek.by/img/galleries/460/949/preview_b/20mw7001378bis_horizont_5ac220088abde.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 5,
+          "price": 1556,
+          "description": "ea esse adipisicing exercitation deserunt laborum sit excepteur magna velit qui mollit ea culpa in elit est amet consectetur duis sit esse minim officia aliquip officia excepteur tempor sint exercitation laborum magna adipisicing id mollit occaecat aute sit pariatur mollit"
+        },
+        {
+          "id": "612d436507e329e946321c6e",
+          "name": "Микроволновая печь LG MS2042DARB",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/903/144/preview_b/ms2042darb_lg_5c77f1222bc6c.jpeg",
+            "https://cdn21vek.by/img/galleries/903/144/preview_b/ms2042darb_lg_5c77f1246f8fd.jpeg",
+            "https://cdn21vek.by/img/galleries/903/144/preview_b/ms2042darb_lg_5c77f15c3b749.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 13,
+          "price": 738,
+          "description": "incididunt dolore exercitation pariatur adipisicing excepteur cupidatat et aliquip ad ex veniam nisi commodo proident eiusmod sunt sint in voluptate culpa ut Lorem fugiat est nostrud non pariatur veniam tempor qui nulla commodo id sint ex commodo non velit id"
+        },
+        {
+          "id": "612d4365c25f4a69576c90da",
+          "name": "Микроволновая печь Samsung GE88SUG/BW",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/786/558/preview_b/ge88sugbw_samsung_5c7790f7045c1.jpeg",
+            "https://cdn21vek.by/img/galleries/786/558/preview_b/ge88sugbw_samsung_5c77910d9d710.jpeg",
+            "https://cdn21vek.by/img/galleries/786/558/preview_b/ge88sugbw_samsung_5c779112f0931.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 11,
+          "price": 1508,
+          "description": "ea id laboris ex ea et adipisicing fugiat amet ut reprehenderit do ullamco sint cillum enim amet ullamco aliquip irure fugiat sunt aliquip mollit Lorem commodo aliquip et dolore minim occaecat ipsum adipisicing excepteur ea aliquip labore nisi irure amet"
+        },
+        {
+          "id": "612d43652ae1f4f15fd6f84d",
+          "name": "Микроволновая печь Panasonic NN-SM221WZPE",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/12/889/preview_b/panasonic_nnsm221w_25755.jpeg",
+            "https://cdn21vek.by/img/galleries/12/889/preview_b/panasonic_nnsm221w_10441.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 11,
+          "price": 2392,
+          "description": "enim do mollit et ad enim do excepteur do velit proident culpa et qui enim aliqua cillum irure nisi eiusmod ea aliqua reprehenderit consequat labore exercitation ea velit est id ex labore exercitation sit esse officia eiusmod sit adipisicing nostrud"
+        },
+        {
+          "id": "612d43650bd90595a63c94f7",
+          "name": "Микроволновая печь Horizont 23MW800-1379CAW",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/11/3/preview_b/horizont_23mw8001379caw_5b6fe2233f7d8.jpeg",
+            "https://cdn21vek.by/img/galleries/11/3/preview_b/horizont_23mw8001379caw_5b6fe22687e4e.jpeg",
+            "https://cdn21vek.by/img/galleries/11/3/preview_b/horizont_23mw8001379caw_5b6fe22a97d3f.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 9,
+          "price": 2268,
+          "description": "sunt qui enim dolore nostrud quis irure Lorem fugiat labore commodo eu veniam ex reprehenderit elit aliqua commodo dolore proident Lorem elit veniam veniam consequat incididunt ipsum laboris ullamco commodo aliquip ullamco esse reprehenderit culpa exercitation aliqua reprehenderit sunt consectetur"
+        },
+        {
+          "id": "612d4365a726d333556d6701",
+          "name": "Микроволновая печь Electrolux EMM20000OC",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/466/321/preview_b/emm20000oc_electrolux_5989bf778a40c.jpeg",
+            "https://cdn21vek.by/img/galleries/466/321/preview_b/emm20000oc_electrolux_599b45c935289.jpeg",
+            "https://cdn21vek.by/img/galleries/466/321/preview_b/emm20000oc_electrolux_599b45d011e64.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 13,
+          "price": 2155,
+          "description": "sit consectetur irure minim laboris aliqua occaecat deserunt adipisicing dolore fugiat enim excepteur eiusmod ullamco eu et ut officia fugiat ea aliquip tempor qui labore eu adipisicing ex voluptate laborum elit sit magna dolore ut sint Lorem et in sunt"
+        }
+      ],
+      "teapots": [
+        {
+          "id": "612d47b2f748bc99cbc57b29",
+          "name": "Электрочайник Xiaomi Mi Electric Kettle / SKV4035GL",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/807/357/preview_b/mielectrickettleskv4035gl_xiaomi_5c2376ad5ead5.jpeg",
+            "https://cdn21vek.by/img/galleries/807/357/preview_b/mielectrickettleskv4035gl_xiaomi_5c52eb547726c.jpeg",
+            "https://cdn21vek.by/img/galleries/807/357/preview_b/mielectrickettleskv4035gl_xiaomi_5c52e9c5e605b.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 17,
+          "price": 75,
+          "description": "dolor cupidatat consectetur aute aliqua deserunt consectetur quis occaecat esse adipisicing esse dolore duis magna amet aute minim nulla labore duis nostrud velit amet duis aliqua veniam sunt ullamco eu et ullamco sit ea eu veniam veniam anim enim enim"
+        },
+        {
+          "id": "612d47b2bfbb3a39085b3475",
+          "name": "Электрочайник L'Ornay LA-4612",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5831/328/preview_b/la4612_lornay_5dfe56b336c21.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 15,
+          "price": 24,
+          "description": "officia exercitation quis do Lorem Lorem sint anim velit aliquip quis aliquip Lorem consequat dolor incididunt consequat irure aliqua ad dolore fugiat voluptate exercitation minim do ullamco cillum adipisicing ipsum id quis est aliquip anim dolor officia cupidatat laborum veniam"
+        },
+        {
+          "id": "612d47b2782ef8b5b8e269d5",
+          "name": "Электрочайник Xiaomi Mi Smart Kettle Pro BHR4198GL/MJHWSH02YM",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6229/431/preview_b/mismartkettleprobhr4198glmjhwsh02ym_xiaomi_5f99278b9c86e.jpeg",
+            "https://cdn21vek.by/img/galleries/6229/431/preview_b/mismartkettleprobhr4198glmjhwsh02ym_xiaomi_5f99278bc5e69.jpeg",
+            "https://cdn21vek.by/img/galleries/6229/431/preview_b/mismartkettleprobhr4198glmjhwsh02ym_xiaomi_5f99278c09052.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 18,
+          "price": 129,
+          "description": "laboris minim reprehenderit est pariatur eu culpa anim culpa exercitation in tempor non ex aliqua ullamco ipsum voluptate adipisicing ad dolore voluptate non cillum mollit elit sit proident nulla nisi dolor Lorem veniam sunt quis laborum occaecat est tempor incididunt"
+        },
+        {
+          "id": "612d47b2f66809332c8d8e4d",
+          "name": "Электрочайник Normann AKL-237",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6075/748/preview_b/akl237_normann_5f0bf865a1716.png"
+          ],
+          "rating": 2,
+          "availableAmount": 20,
+          "price": 56,
+          "description": "officia sit veniam aliquip aute elit exercitation irure in Lorem occaecat excepteur cupidatat exercitation elit cillum velit nisi velit aliqua commodo et esse est proident amet ad eiusmod laboris nostrud anim ea eiusmod qui nulla reprehenderit sunt sit do eu"
+        },
+        {
+          "id": "612d47b29e933f0f2a17df2d",
+          "name": "Электрочайник Vitek VT-7075",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6260/269/preview_b/vt7075_vitek_5fd9985ae8cde.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 11,
+          "price": 1112,
+          "description": "aliquip qui laboris ad reprehenderit sit qui laborum nisi laboris mollit non laboris aliquip sint elit labore esse cillum aliqua aliqua dolor sunt consequat aute ex mollit et nostrud velit cupidatat tempor aliquip esse duis ea deserunt officia in consectetur"
+        },
+        {
+          "id": "612d47b244584394efa352fd",
+          "name": "Электрочайник Holt HT-KT-009",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/479/746/preview_b/htkt009_holt_59c8e5ebbfdda.jpeg",
+            "https://cdn21vek.by/img/galleries/479/746/preview_b/htkt009_holt_5c9e0f34afe55.jpeg",
+            "https://cdn21vek.by/img/galleries/479/746/preview_b/htkt009_holt_5c9e0f35a53c8.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 19,
+          "price": 73,
+          "description": "esse aliquip adipisicing et culpa deserunt ad aute ex fugiat dolor commodo occaecat adipisicing sunt id elit proident quis quis fugiat sint ullamco nostrud aute reprehenderit Lorem velit nostrud cillum qui ut sunt ex commodo minim laboris laborum quis duis"
+        },
+        {
+          "id": "612d47b221d5dd4e3a5a2abd",
+          "name": "Электрочайник FIRST Austria FA-5409-4",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1006/202/preview_b/fa54094_firstaustria_5fdc550beced1.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 9,
+          "price": 775,
+          "description": "officia laboris elit esse veniam id anim do incididunt ad esse duis ullamco dolor dolore dolore enim laboris ipsum ex cupidatat laboris aute nisi amet ullamco aliqua sint sunt adipisicing ad nulla incididunt ut quis irure esse eiusmod laboris sit"
+        },
+        {
+          "id": "612d47b2889b847e161fefb9",
+          "name": "Электрочайник Aurora AU3014",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5905/755/preview_b/au3014_aurora_5e82e3ca51e7a.jpeg",
+            "https://cdn21vek.by/img/galleries/5905/755/preview_b/au3014_aurora_5e82e3ca71d0b.jpeg",
+            "https://cdn21vek.by/img/galleries/5905/755/preview_b/au3014_aurora_5e82e3caa61c5.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 19,
+          "price": 55,
+          "description": "veniam duis reprehenderit tempor ea laborum proident nulla laboris commodo sunt incididunt sint id laborum incididunt eiusmod nisi nisi et deserunt eiusmod laborum ex elit sint fugiat ea aliqua nostrud eu eiusmod occaecat ex non laboris ad commodo anim ea"
+        },
+        {
+          "id": "612d47b20dda6fb9fbd46533",
+          "name": "Электрочайник Scarlett SC-EK21S25",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/359/462/preview_b/scek21s25_scarlett_56fb9ccd61e88.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 16,
+          "price": 29,
+          "description": "laboris labore officia deserunt deserunt eiusmod ipsum deserunt in voluptate sit voluptate id minim sint non ex occaecat velit ullamco quis ullamco pariatur adipisicing id labore ipsum duis nulla reprehenderit minim fugiat cupidatat id magna amet elit dolor ea est"
+        },
+        {
+          "id": "612d47b2e3cbf8bc2ecba3f0",
+          "name": "Электрочайник Redmond SkyKettle RK-G213S (темно-серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/751/578/preview_b/skykettlerkg213s_redmond_5bdc1d8f83912.jpeg",
+            "https://cdn21vek.by/img/galleries/751/578/preview_b/skykettlerkg213s_redmond_5bdc159a80bbb.jpeg",
+            "https://cdn21vek.by/img/galleries/751/578/preview_b/skykettlerkg213s_redmond_5bdc15bf6d536.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 12,
+          "price": 91.90,
+          "description": "adipisicing velit magna ipsum sint irure cillum esse laborum dolor aliqua incididunt ad nostrud ullamco duis qui aute ullamco duis ullamco non id cillum laborum commodo ullamco veniam nostrud voluptate dolore velit culpa dolor id esse sint veniam minim irure"
+        },
+        {
+          "id": "612d47b2ad32035a8c3258f8",
+          "name": "Электрочайник Galaxy GL 0401",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/701/913/preview_b/gl0401_galaxy_5ba2945cf203c.jpeg",
+            "https://cdn21vek.by/img/galleries/701/913/preview_b/gl0401_galaxy_5ba2945dc709b.jpeg",
+            "https://cdn21vek.by/img/galleries/701/913/preview_b/gl0401_galaxy_5ba2946097222.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 13,
+          "price": 78,
+          "description": "do commodo minim anim eu laborum irure fugiat tempor elit culpa excepteur elit labore eiusmod anim et amet eiusmod est sunt qui occaecat velit veniam eiusmod tempor cillum nostrud proident voluptate minim ad culpa Lorem ad sint veniam est aliquip"
+        },
+        {
+          "id": "612d47b2920d93eed5352c57",
+          "name": "Электрочайник Holt HT-KT-020 (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5827/115/preview_b/htkt020_holt_5df8ccb7bea95.jpeg",
+            "https://cdn21vek.by/img/galleries/5827/115/preview_b/htkt020_holt_5df8ccb93d2d9.jpeg",
+            "https://cdn21vek.by/img/galleries/5827/115/preview_b/htkt020_holt_5df8ccbb91b6d.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 8,
+          "price": 97.90,
+          "description": "anim in et in ex eiusmod consequat pariatur nulla laboris aliqua nisi cillum ea cillum minim magna sit labore excepteur consequat dolore sint et velit ad mollit commodo anim nisi anim consequat anim anim qui non tempor aute laborum duis"
+        },
+        {
+          "id": "612d47b2293ffb855faae9af",
+          "name": "Электрочайник Brayer BR1003",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5994/380/preview_b/br1003_brayer_5ed9deb107420.jpeg",
+            "https://cdn21vek.by/img/galleries/5994/380/preview_b/br1003_brayer_5ed9deb15658c.jpeg",
+            "https://cdn21vek.by/img/galleries/5994/380/preview_b/br1003_brayer_5ed9deb178bbb.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 19,
+          "price": 29.90,
+          "description": "deserunt magna cupidatat do deserunt elit eu voluptate quis laboris nisi magna officia velit ullamco exercitation dolor laboris magna veniam ipsum magna velit consequat qui nostrud culpa dolor tempor voluptate aliquip magna aliqua eu ipsum voluptate et sint esse et"
+        },
+        {
+          "id": "612d47b28c6d552b4144b886",
+          "name": "Электрочайник Kitfort KT-640-2 (сиреневый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/691/364/preview_b/kt6402_kitfort_5c1b4a37b783c.jpeg",
+            "https://cdn21vek.by/img/galleries/691/364/preview_b/kt6402_kitfort_5c1b4a3802560.jpeg",
+            "https://cdn21vek.by/img/galleries/691/364/preview_b/kt6402_kitfort_5c1b4a38f1601.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 7,
+          "price": 100,
+          "description": "ex ad eiusmod cupidatat duis veniam eiusmod exercitation laboris duis est cillum ullamco quis labore pariatur duis voluptate ipsum aliquip dolore esse non culpa ad elit et pariatur dolor pariatur occaecat cupidatat amet ullamco tempor eiusmod fugiat veniam do officia"
+        },
+        {
+          "id": "612d47b249f06613a2bc479a",
+          "name": "Электрочайник Brayer BR1008BK",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6136/141/preview_b/br1008bk_brayer_5f4367f40ee62.png",
+            "https://cdn21vek.by/img/galleries/6136/141/preview_b/br1008bk_brayer_5f69ad7094109.jpeg",
+            "https://cdn21vek.by/img/galleries/6136/141/preview_b/br1008bk_brayer_5f69ad71cccfb.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 19,
+          "price": 114.20,
+          "description": "nulla velit commodo do nulla excepteur laborum culpa ex quis velit Lorem Lorem pariatur ex proident amet consequat enim sit nulla veniam do ex do et non mollit culpa elit incididunt non esse adipisicing aliqua anim ipsum quis ex sit"
+        }
+      ],
+      "washing-machines": [
+        {
+          "id": "612d518f5729f382aa4b3181",
+          "name": "Стиральная машина Indesit IWSB 51051 BY",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/637/728/preview_b/iwsb51051by_indesit_5feca7733d009.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 20,
+          "price": 873,
+          "description": "consequat amet nisi nostrud proident commodo eu est Lorem eu dolor amet culpa aute eu sint magna tempor labore do nulla sunt sunt labore quis et proident sunt cillum veniam nulla anim aliquip enim velit eu culpa aliqua ea in"
+        },
+        {
+          "id": "612d518f21e2ca570a06e89d",
+          "name": "Стиральная машина LG Steam F2J5NS6W",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/779/617/preview_b/f2j5ns6w_lg_60059603f1a43.jpeg",
+            "https://cdn21vek.by/img/galleries/779/617/preview_b/f2j5ns6w_lg_5bfe7b17a6fc8.jpeg",
+            "https://cdn21vek.by/img/galleries/779/617/preview_b/f2j5ns6w_lg_5bfe7b1b4a711.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 12,
+          "price": 1112,
+          "description": "labore ex nulla ullamco laboris et occaecat eiusmod esse sint cupidatat ipsum quis labore voluptate veniam sunt aute ad cillum esse ullamco ipsum ad pariatur eiusmod magna nisi minim ipsum dolor velit dolor eiusmod sunt excepteur commodo do proident aute"
+        },
+        {
+          "id": "612d518fc5c888701dba5f4b",
+          "name": " Стиральная машина Indesit IWSB 50851 BY",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/637/730/preview_b/iwsb50851by_indesit_5b99227c8828d.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 12,
+          "price": 1493,
+          "description": "cupidatat cupidatat exercitation aliquip esse nostrud tempor tempor Lorem ex qui elit elit anim anim commodo nostrud commodo anim enim dolor pariatur nostrud commodo Lorem et deserunt ipsum mollit aute excepteur voluptate cillum quis laborum sint non do enim nisi"
+        },
+        {
+          "id": "612d518fd2d9167fd3cef215",
+          "name": "Стиральная машина LG F1096ND3",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/60/147/preview_b/lg_f1096nd3_600596daee1d7.jpeg",
+            "https://cdn21vek.by/img/galleries/60/147/preview_b/lg_f1096nd3_58203ef93f398.jpeg",
+            "https://cdn21vek.by/img/galleries/60/147/preview_b/lg_f1096nd3_58203f22eda36.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 16,
+          "price": 666,
+          "description": "aliqua ad nisi pariatur nisi pariatur in tempor aliqua quis quis proident commodo ipsum amet et laboris pariatur amet in id fugiat eu aliqua ex eu officia ut veniam sunt excepteur sit aliqua eiusmod voluptate cupidatat aliqua id sit veniam"
+        },
+        {
+          "id": "612d518f83a7fb41e477e5d2",
+          "name": "Стиральная машина Indesit BWSA51051S",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/393/103/preview_b/bwsa51051s_indesit_57f6228f967ff.jpeg",
+            "https://cdn21vek.by/img/galleries/393/103/preview_b/bwsa51051s_indesit_5f325d16887b2.jpeg",
+            "https://cdn21vek.by/img/galleries/393/103/preview_b/bwsa51051s_indesit_5862af230d48c.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 5,
+          "price": 1011,
+          "description": "voluptate tempor commodo occaecat sint laborum sunt in dolore dolore mollit id ipsum elit consequat Lorem magna minim cupidatat laborum incididunt nisi eu nostrud incididunt aliqua enim aliquip laboris enim occaecat aliquip sit eiusmod reprehenderit nostrud nisi amet Lorem amet"
+        },
+        {
+          "id": "612d518f900a9d4da3c3ccfa",
+          "name": "Стиральная машина Samsung WW60J30G0PWDBY",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/631/231/preview_b/ww60j30g0pwdby_samsung_5b880f6bb5b9d.jpeg",
+            "https://cdn21vek.by/img/galleries/631/231/preview_b/ww60j30g0pwdby_samsung_5b880f6feb85d.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 9,
+          "price": 1150,
+          "description": "veniam irure cillum aute et enim excepteur quis ullamco in occaecat excepteur nisi minim sunt officia officia minim sit ut aliqua Lorem dolor do consectetur amet pariatur ut fugiat elit consectetur aute nulla laboris consequat minim fugiat dolore irure cillum"
+        },
+        {
+          "id": "612d518fbf48a734d1335f58",
+          "name": "Стиральная машина ATLANT СМА 50У102",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/11/547/preview_b/atlant_50102_582cd7a51ae3f.jpeg",
+            "https://cdn21vek.by/img/galleries/11/547/preview_b/atlant_50102_5e43076733543.jpeg",
+            "https://cdn21vek.by/img/galleries/11/547/preview_b/atlant_50102_582cd7bbac134.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 9,
+          "price": 1282,
+          "description": "dolor est deserunt quis Lorem duis do quis sit sunt qui veniam nostrud pariatur nisi culpa non esse culpa ut aliqua nisi exercitation nisi ut nulla nisi ipsum enim eiusmod magna ut anim occaecat aute occaecat irure ipsum ipsum consequat"
+        },
+        {
+          "id": "612d518f94890cf7f6959450",
+          "name": "Стиральная машина Indesit BTW D61253 BY",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/534/209/preview_b/btwd61253rf_indesit_5b06c4d6de2ae.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 8,
+          "price": 1147,
+          "description": "eu sint adipisicing consectetur sunt sint eiusmod nostrud ea elit esse ut reprehenderit reprehenderit pariatur anim ullamco esse magna mollit dolore proident ipsum pariatur eiusmod laboris laborum commodo proident laborum eu culpa consequat cillum culpa aute deserunt nisi sint sint"
+        },
+        {
+          "id": "612d518f73b233efde8a5642",
+          "name": "Стиральная машина Beko WRS 55P2 BWW",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/478/137/preview_b/wrs55p2bww_beko_5a3a4a1f65d9e.jpeg",
+            "https://cdn21vek.by/img/galleries/478/137/preview_b/wrs55p2bww_beko_5a3a4a216d38e.jpeg",
+            "https://cdn21vek.by/img/galleries/478/137/preview_b/wrs55p2bww_beko_5a3a4a281d98f.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 7,
+          "price": 1011,
+          "description": "anim quis nulla ut qui sint quis commodo consequat in do id sunt ullamco ut proident ipsum est nostrud culpa fugiat dolore Lorem culpa duis consectetur incididunt pariatur cillum in ut ea sint sint eiusmod sit et minim consequat ullamco"
+        },
+        {
+          "id": "612d518ff28df9e6f7c4e9ed",
+          "name": "Стиральная машина Samsung WW70K62E69SDBY",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/642/30/preview_b/ww70k62e69sdby_samsung_5b7e80956a3e0.jpeg",
+            "https://cdn21vek.by/img/galleries/642/30/preview_b/ww70k62e69sdby_samsung_5b7e80d0502f9.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 5,
+          "price": 1070,
+          "description": "officia veniam cillum dolor exercitation ea nostrud excepteur sit aliqua excepteur commodo mollit sint commodo ipsum deserunt excepteur ex duis deserunt labore consectetur nisi culpa Lorem dolore anim deserunt labore duis sunt qui mollit sit Lorem consequat cupidatat eu esse"
+        },
+        {
+          "id": "612d518f3a0bf986f7d23f2c",
+          "name": "Стирально-сушильная машина LG Steam F1296CDS3",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5970/652/preview_b/f1296cds3_lg_6005a101150af.jpeg",
+            "https://cdn21vek.by/img/galleries/5970/652/preview_b/f1296cds3_lg_5f5a28dc8b917.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 9,
+          "price": 1460,
+          "description": "irure pariatur dolor in nulla elit voluptate officia cupidatat labore est enim aute culpa consectetur nostrud ullamco velit magna amet ea anim culpa sit duis qui aute nulla magna ad non mollit consequat ea officia adipisicing eu sunt laboris cillum"
+        },
+        {
+          "id": "612d518ff5d0a0896c256acc",
+          "name": "Стиральная машина Beko WRE65P2BAA",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5927/934/preview_b/wre65p2baa_beko_5e6f3dccd890a.jpeg",
+            "https://cdn21vek.by/img/galleries/5927/934/preview_b/wre65p2baa_beko_5e6f3dccad025.jpeg",
+            ""
+          ],
+          "rating": 5,
+          "availableAmount": 18,
+          "price": 865,
+          "description": "proident eiusmod in id mollit deserunt cillum est exercitation est aliqua occaecat eu ut duis ipsum cillum labore ullamco eu aliquip duis ullamco magna sit mollit esse nostrud reprehenderit proident aliquip quis aute mollit consequat dolor ullamco dolor officia id"
+        },
+        {
+          "id": "612d518fbef163c04e986c95",
+          "name": "Стиральная машина Renova WS-30ET",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/171/221/preview_b/ws30et_renova_5cc19d084c099.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 9,
+          "price": 596,
+          "description": "proident incididunt consequat nulla do sint est consequat sit reprehenderit eu amet amet do minim magna pariatur irure duis ea qui esse Lorem veniam officia enim proident nostrud eu irure quis tempor labore aute fugiat amet adipisicing sunt incididunt ut"
+        },
+        {
+          "id": "612d518faa9d957045dd777d",
+          "name": "Стиральная машина ATLANT СМА 70У109-00",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/382/612/preview_b/7010900_atlant_02_58432a0f51d9f.jpeg",
+            "https://cdn21vek.by/img/galleries/382/612/preview_b/7010900_atlant_02_58432a4da9bf5.jpeg",
+            ""
+          ],
+          "rating": 2,
+          "availableAmount": 18,
+          "price": 1301,
+          "description": "est elit ullamco culpa voluptate aute mollit cupidatat non eu labore do quis elit incididunt officia velit aliqua enim dolore velit laborum proident occaecat aliquip consectetur cillum velit ea consequat duis irure ad reprehenderit sint officia eu pariatur nisi quis"
+        },
+        {
+          "id": "612d518f4eee8a36673794e5",
+          "name": "Стиральная машина ATLANT СМА 70У109-00",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6111/282/preview_b/wha122x2bl_bosch_5f3e3865c5e60.jpeg",
+            "https://cdn21vek.by/img/galleries/6111/282/preview_b/wha122x2bl_bosch_5f3e38712d6c3.jpeg",
+            "https://cdn21vek.by/img/galleries/6111/282/preview_b/wha122x2bl_bosch_5f3e38712d6c3.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 17,
+          "price": 1158,
+          "description": "sunt pariatur aliqua laborum qui aliquip amet minim commodo qui elit consequat sint anim non reprehenderit tempor laboris in sunt esse ipsum nostrud cupidatat cillum exercitation cupidatat ea ut elit laboris et qui nostrud ea sint ullamco duis est dolor"
+        },
+        {
+          "id": "612d518f2ea89e92c760d446",
+          "name": "Стиральная машина Bosch WHA122X2BL",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/779/617/preview_b/f2j5ns6w_lg_60059603f1a43.jpeg",
+            "https://cdn21vek.by/img/galleries/779/617/preview_b/f2j5ns6w_lg_5bfe7b266ec35.jpeg",
+            "https://cdn21vek.by/img/galleries/779/617/preview_b/f2j5ns6w_lg_5bfe7b1b4a711.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 13,
+          "price": 620,
+          "description": "consequat sint minim do est voluptate anim eu anim est sint dolore non in officia magna proident qui consequat qui aliqua mollit duis consequat aute eu labore est dolore dolor nulla ea in officia non adipisicing non anim minim ipsum"
+        },
+        {
+          "id": "612d518f2d45939a8b5f071b",
+          "name": "Стиральная машина LG Steam F2J5NS6W",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5998/574/preview_b/rsge685p2bsw_beko_5ec4c34084aff.jpeg",
+            "https://cdn21vek.by/img/galleries/5998/574/preview_b/rsge685p2bsw_beko_5ec4c3413d840.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 14,
+          "price": 1321,
+          "description": "reprehenderit Lorem excepteur sunt aliquip voluptate ea quis esse cupidatat mollit pariatur dolore dolor sint aliqua nulla excepteur excepteur velit magna qui laboris consectetur veniam sunt minim sunt Lorem ipsum minim labore est laborum et eiusmod sit esse laboris occaecat"
+        },
+        {
+          "id": "612d518f41efb51d10e79680",
+          "name": "Стиральная машина Славда WS-35E",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/171/261/preview_b/ws35e_slavda_55a3d133f3139.png",
+            "https://cdn21vek.by/img/galleries/171/261/preview_b/ws35e_slavda_59122fee6ce7b.jpeg",
+            "https://cdn21vek.by/img/galleries/171/261/preview_b/ws35e_slavda_59122feeb0f12.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 9,
+          "price": 726,
+          "description": "culpa in excepteur nulla ipsum aute eiusmod labore ullamco consectetur commodo velit duis qui sit irure amet sit dolor magna exercitation eiusmod ex minim est deserunt non excepteur veniam laboris qui ipsum consequat in et velit tempor fugiat incididunt sunt"
+        }
+      ],
       "irons": [],
       "vacuum": []
     },
