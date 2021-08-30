@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+const url = require('url');
 
 function makeToken(length = 10) {
   var result = '';
@@ -12,7 +13,7 @@ function makeToken(length = 10) {
   return result;
 }
 
-function getUserByToken(token) {
+function getUserByToken(server, token) {
   return server.db.getState().users.find((user) => {
     const ret = user.token.toLowerCase() === token.toLowerCase();
     if (ret) console.log(user);
@@ -20,32 +21,34 @@ function getUserByToken(token) {
   });
 }
 
-function handleAddingToLists(listName, isAdding, req, res) {
+function handleAddingToLists(server, listName, isAdding, req, res) {
   const { body } = req;
-  const reqToken = req.header('Authorization').split(' ')[1];
+  const authorizationHeader = req.header('Authorization').split(' ');
+  const authorizationMethod = authorizationHeader[0];
+  const reqToken = authorizationHeader[1];
 
-  if (!reqToken) {
+  if (!reqToken || authorizationMethod !== 'Bearer') {
     return res.status(401).send('Unauthorized');
   }
 
-  const matchedUser = getUserByToken(reqToken);
+  const matchedUser = getUserByToken(server, reqToken);
+  const goodId = isAdding ? body.id : url.parse(req.originalUrl, true).query.id
 
-  if (body.id) {
+  if (goodId) {
     server.db.setState({
       ...server.db.getState(),
-      users: server.db
-        .getState()
-        .users.map((user) =>
-          user.token === matchedUser.token 
+      users: server.db.getState().users.map((user) =>
+        user.token === matchedUser.token
           ? {
-            ...user,
-            [listName]: isAdding 
-              ? [...user[listName], body.id]
-              : user[listName].filter(item => item !== body.id)
-          } 
+              ...user,
+              [listName]: isAdding
+                ? [...user[listName], goodId]
+                : user[listName].filter((item) => item !== goodId),
+            }
           : user
-        ),
+      ),
     });
+    res.send(200);
   } else {
     res.status(400);
   }
@@ -57,31 +60,33 @@ module.exports = (server) => {
 
     let users = server.db.getState().users,
       matchedUser = users.find((user) => {
-        const ret = user.email.toLowerCase() === body.email.toLowerCase();
+        const ret = user.login.toLowerCase() === body.login.toLowerCase();
         if (ret) console.log(user);
         return ret;
       });
 
     if (!matchedUser) {
-      res.status(401).send('Wrong username');
+      res.status(401).send('Wrong username or password');
     } else if (matchedUser.password === body.password) {
       res.json({ token: matchedUser.token });
     } else {
-      res.status(401).send('Wrong password');
+      res.status(401).send('Wrong username or password');
     }
   });
 
-  router.get('/users/userinfo', (req, res) => {
-    const reqToken = req.header('Authorization').split(' ')[1];
+  router.get('/users/userInfo', (req, res) => {
+    const authorizationHeader = req.header('Authorization').split(' ');
+    const authorizationMethod = authorizationHeader[0];
+    const reqToken = authorizationHeader[1];
 
-    if (reqToken) {
-      const matchedUser = getUserByToken(req);
-      const { token, login, password, ...user } = matchedUser;
-
-      res.json(user);
-    } else {
-      res.status(401).send('Unauthorized');
+    if (!reqToken || authorizationMethod !== 'Bearer') {
+      return res.status(401).send('Unauthorized');
     }
+
+    const matchedUser = getUserByToken(server, reqToken);
+    const { token, login, password, ...user } = matchedUser;
+
+    res.json(user);
   });
 
   router.post('/users/register', (req, res) => {
@@ -102,19 +107,19 @@ module.exports = (server) => {
   });
 
   router.post('/users/favorites', (req, res) => {
-    handleAddingToLists('favorites', true, req, res);
+    handleAddingToLists(server, 'favorites', true, req, res);
   });
 
   router.delete('/users/favorites', (req, res) => {
-    handleAddingToLists('favorites', false, req, res);
+    handleAddingToLists(server, 'favorites', false, req, res);
   });
 
   router.post('/users/cart', (req, res) => {
-    handleAddingToLists('cart', true, req, res);
+    handleAddingToLists(server, 'cart', true, req, res);
   });
 
   router.delete('/users/cart', (req, res) => {
-    handleAddingToLists('cart', false, req, res);
+    handleAddingToLists(server, 'cart', false, req, res);
   });
 
   // router.post('/users/order', (req, res) => {
