@@ -5,9 +5,9 @@ const router = express.Router();
 
 router.use(jsonServer.rewriter({
 	'/goods/search': '/goods/search',
-	'/goods/:category': '/goods/:category',
-	'/goods/:category/:subCategory': '/goods/:category/:subCategory',
-	'/goods/:category/:subCategory/:id': '/goods/:category/:subCategory/:id',
+	'/goods/category/:category': '/goods/category/:category',
+	'/goods/category/:category/:subCategory': '/goods/category/:category/:subCategory',
+	'/goods/item/:id': '/goods/item/:id',
 }));
 
 module.exports = router;
