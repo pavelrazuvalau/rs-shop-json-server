@@ -1,11 +1,11 @@
+const { match } = require('assert');
 const express = require('express');
 const router = express.Router();
 const url = require('url');
 
-function makeToken(length = 10) {
+function makeToken(length = 24) {
   var result = '';
-  var characters =
-    'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+  var characters = 'abcdefghijklmnopqrstuvwxyz0123456789';
   var charactersLength = characters.length;
   for (var i = 0; i < length; i++) {
     result += characters.charAt(Math.floor(Math.random() * charactersLength));
@@ -13,16 +13,7 @@ function makeToken(length = 10) {
   return result;
 }
 
-function getUserByToken(server, token) {
-  return server.db.getState().users.find((user) => {
-    const ret = user.token.toLowerCase() === token.toLowerCase();
-    if (ret) console.log(user);
-    return ret;
-  });
-}
-
-function handleAddingToLists(server, listName, isAdding, req, res) {
-  const { body } = req;
+function getUserByToken(req, res, server) {
   const authorizationHeader = req.header('Authorization').split(' ');
   const authorizationMethod = authorizationHeader[0];
   const reqToken = authorizationHeader[1];
@@ -31,8 +22,22 @@ function handleAddingToLists(server, listName, isAdding, req, res) {
     return res.status(401).send('Unauthorized');
   }
 
-  const matchedUser = getUserByToken(server, reqToken);
-  const goodId = isAdding ? body.id : url.parse(req.originalUrl, true).query.id
+  return server.db.getState().users.find((user) => {
+    const ret = user.token.toLowerCase() === reqToken.toLowerCase();
+    if (ret) console.log(user);
+    return ret;
+  });
+}
+
+function handleAddingToLists(server, listName, isAdding, req, res) {
+  const { body } = req;
+  const matchedUser = getUserByToken(req, res, server);
+
+  if (!matchedUser) {
+    return res.status(401).send('Unauthorized');
+  }
+
+  const goodId = isAdding ? body.id : url.parse(req.originalUrl, true).query.id;
 
   if (goodId) {
     server.db.setState({
@@ -75,15 +80,12 @@ module.exports = (server) => {
   });
 
   router.get('/users/userInfo', (req, res) => {
-    const authorizationHeader = req.header('Authorization').split(' ');
-    const authorizationMethod = authorizationHeader[0];
-    const reqToken = authorizationHeader[1];
+    const matchedUser = getUserByToken(req, res, server);
 
-    if (!reqToken || authorizationMethod !== 'Bearer') {
+    if (!matchedUser) {
       return res.status(401).send('Unauthorized');
     }
 
-    const matchedUser = getUserByToken(server, reqToken);
     const { token, login, password, ...user } = matchedUser;
 
     res.json(user);
@@ -122,15 +124,89 @@ module.exports = (server) => {
     handleAddingToLists(server, 'cart', false, req, res);
   });
 
-  // router.post('/users/order', (req, res) => {
-  //   handleAddingToLists('order', true, req, res);
-  // });
+  router.post('/users/order', (req, res) => {
+    const { body } = req;
+    const matchedUser = getUserByToken(req, res, server);
 
-  // router.put('/users/order', (req, res) => {});
+    if (!matchedUser) {
+      return res.status(401).send('Unauthorized');
+    }
 
-  // router.delete('/users/order', (req, res) => {
-  //   handleAddingToLists('order', false, req, res);
-  // });
+    server.db.setState({
+      ...server.db.getState(),
+      users: server.db.getState().users.map((user) =>
+        user.token === matchedUser.token
+          ? {
+              ...user,
+              orders: user.orders.concat({
+                id: makeToken(10),
+                items: body.items,
+                details: {
+                  name: body.details.name,
+                  address: body.details.address,
+                  phone: body.details.phone,
+                  timeToDeliver: body.details.timeToDeliver,
+                  comment: body.details.comment,
+                },
+              }),
+              cart: [],
+            }
+          : user
+      ),
+    });
+
+    res.send(200);
+  });
+
+  router.put('/users/order', (req, res) => {
+    const { body } = req;
+    const matchedUser = getUserByToken(req, res, server);
+
+    if (!matchedUser) {
+      return res.status(401).send('Unauthorized');
+    }
+
+    server.db.setState({
+      ...server.db.getState(),
+      users: server.db.getState().users.map((user) =>
+        user.token === matchedUser.token
+          ? {
+              ...user,
+              orders: user.orders.map((order) =>
+                order.id === body.id
+                  ? { ...order, details: body.details }
+                  : order
+              ),
+            }
+          : user
+      ),
+    });
+
+    res.send(200);
+  });
+
+  router.delete('/users/order', (req, res) => {
+    const { body } = req;
+    const matchedUser = getUserByToken(req, res, server);
+
+    if (!matchedUser) {
+      return res.status(401).send('Unauthorized');
+    }
+
+    server.db.setState({
+      ...server.db.getState(),
+      users: server.db.getState().users.map((user) =>
+        user.token === matchedUser.token
+          ? {
+              ...user,
+              orders: user.orders.filter((order) => order.id !== body.id),
+            }
+          : user
+      ),
+    });
+
+    res.send(204);
+  });
 
   return router;
 };
