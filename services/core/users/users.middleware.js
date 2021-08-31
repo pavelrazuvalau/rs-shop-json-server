@@ -59,6 +59,29 @@ function handleAddingToLists(server, listName, isAdding, req, res) {
   }
 }
 
+function getAllGoods(server) {
+  const goods = server.db.getState().goods;
+  const categories = Object.keys(goods);
+  const subCategories = categories
+    .map((category) => Object.keys(goods[category]))
+    .flat();
+  return categories
+    .map((category) =>
+      subCategories.map((subCategory) => goods[category][subCategory])
+    )
+    .flat(3)
+    .filter(Boolean);
+}
+
+function reduceAvailableCount(server, items) {
+  const allGoods = getAllGoods(server);
+
+  items.forEach(purchasedItem => {
+    const item = allGoods.find(it => it.id === purchasedItem.id);
+    item.availableAmount -= purchasedItem.amount;
+  })
+}
+
 module.exports = (server) => {
   router.post('/users/login', (req, res) => {
     const { body } = req;
@@ -155,6 +178,7 @@ module.exports = (server) => {
       ),
     });
 
+    reduceAvailableCount(server, body.items);
     res.send(200);
   });
 
