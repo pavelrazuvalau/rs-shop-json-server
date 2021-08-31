@@ -1271,12 +1271,706 @@
           "description": "culpa in excepteur nulla ipsum aute eiusmod labore ullamco consectetur commodo velit duis qui sit irure amet sit dolor magna exercitation eiusmod ex minim est deserunt non excepteur veniam laboris qui ipsum consequat in et velit tempor fugiat incididunt sunt"
         }
       ],
-      "irons": [],
-      "vacuum": []
+      "irons": [
+        {
+          "id": "612dc2123021a1f7ea654dfc",
+          "name": "Утюг Polaris PIR 2481K",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/748/503/preview_b/pir2481k_polaris_5c07e8c9d4799.jpeg",
+            "https://cdn21vek.by/img/galleries/748/503/preview_b/pir2481k_polaris_5c07e8c98b738.jpeg",
+            "https://cdn21vek.by/img/galleries/748/503/preview_b/pir2481k_polaris_5c07e8ca130c5.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 9,
+          "price": 328.50,
+          "description": "aliqua sunt sit minim ipsum elit velit commodo qui in laborum aliqua elit consequat tempor dolor amet minim eiusmod consequat adipisicing cillum ullamco tempor adipisicing laboris consequat labore ex quis duis labore ex amet anim est do sunt officia commodo"
+        },
+        {
+          "id": "612dc212f250b3159299b294",
+          "name": "Утюг Philips GC2148/30",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/610/243/preview_b/gc214830_philips_5b1634f17811d.jpeg",
+            "https://cdn21vek.by/img/galleries/610/243/preview_b/gc214830_philips_5b1634f29ed2f.jpeg",
+            "https://cdn21vek.by/img/galleries/610/243/preview_b/gc214830_philips_5b1634f2afdb0.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 13,
+          "price": 400.00,
+          "description": "incididunt cupidatat quis Lorem ex occaecat aliquip laboris reprehenderit magna velit anim sint officia consectetur exercitation id duis occaecat veniam exercitation proident nulla nulla laboris laborum magna voluptate occaecat quis est dolore irure et laborum consequat sunt ipsum cupidatat in"
+        },
+        {
+          "id": "612dc212db8800ce90af91f7",
+          "name": "Утюг Bosch TDA 703021A",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/49/419/preview_b/bosch_tda703021a_74807.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 17,
+          "price": 225.50,
+          "description": "labore aliquip ad ullamco sint sunt Lorem magna aliqua tempor excepteur duis elit sunt exercitation est occaecat irure culpa dolor pariatur minim officia fugiat culpa est duis aute magna labore anim tempor ullamco tempor duis incididunt nisi nulla veniam ut"
+        },
+        {
+          "id": "612dc212447660e71a00b0ce",
+          "name": "Утюг Polaris PIR 2420AK",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/829/470/preview_b/pir2420ak_polaris_5d5c030c50011.jpeg",
+            "https://cdn21vek.by/img/galleries/829/470/preview_b/pir2420ak_polaris_5d5c030c8e6f3.jpeg",
+            "https://cdn21vek.by/img/galleries/829/470/preview_b/pir2420ak_polaris_5d5c030cc5aad.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 14,
+          "price": 254.90,
+          "description": "consequat cupidatat amet id officia sit in adipisicing nostrud irure ipsum reprehenderit ad ex veniam ut tempor non ad laborum laborum nisi aliqua duis laboris qui elit non consequat labore ad nulla exercitation esse cillum consectetur laboris et Lorem tempor"
+        },
+        {
+          "id": "612dc212130560725c36d034",
+          "name": "Утюг Philips GC4902/20",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/779/725/preview_b/gc490220_philips_5c07e57c4c990.jpeg",
+            "https://cdn21vek.by/img/galleries/779/725/preview_b/gc490220_philips_5c07e57cbd747.jpeg",
+            "https://cdn21vek.by/img/galleries/779/725/preview_b/gc490220_philips_5c07e5854ce6b.jpeg",
+            "https://cdn21vek.by/img/galleries/779/725/preview_b/gc490220_philips_5c07e58c91619.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 6,
+          "price": 279.00,
+          "description": "quis qui ipsum est Lorem amet ut non dolore proident occaecat laborum nisi laboris eiusmod laboris consequat ipsum officia adipisicing nostrud dolor duis velit dolor laborum eiusmod ea aliqua cupidatat labore quis voluptate mollit irure sit ullamco nulla veniam ullamco"
+        },
+        {
+          "id": "612dc21266e71dcae0b2614e",
+          "name": "Утюг Philips GC4909/60",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/779/729/preview_b/gc490960_philips_5c07dc9e085e9.jpeg",
+            "https://cdn21vek.by/img/galleries/779/729/preview_b/gc490960_philips_5c07dca1d3690.jpeg",
+            "https://cdn21vek.by/img/galleries/779/729/preview_b/gc490960_philips_5c07dca25409a.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 16,
+          "price": 255.00,
+          "description": "labore dolor nostrud sit aliqua elit quis consectetur nisi duis et ullamco ea sint nulla culpa voluptate esse voluptate elit fugiat in fugiat mollit id pariatur est officia sit dolore excepteur minim voluptate aliqua deserunt adipisicing sint reprehenderit incididunt ut"
+        },
+        {
+          "id": "612dc212c9cb34ef5c187aa8",
+          "name": "Утюг Vitek VT-1215 PK",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6/914/preview_b/vitek_vt1215_5a87310573878.jpeg",
+            "https://cdn21vek.by/img/galleries/6/914/preview_b/vitek_vt1215_5a8730f8ebd91.jpeg",
+            "https://cdn21vek.by/img/galleries/6/914/preview_b/vitek_vt1215_56d3f8d129696.png"
+          ],
+          "rating": 3,
+          "availableAmount": 9,
+          "price": 91.90,
+          "description": "ipsum officia elit enim mollit id velit esse cillum aliquip eu eu veniam sint magna sint exercitation est velit dolor dolor laboris consectetur qui aute non commodo ullamco excepteur est fugiat dolore labore sint qui nulla occaecat cillum deserunt sint"
+        },
+        {
+          "id": "612dc2129752e6a311bfc7c8",
+          "name": "Утюг с парогенератором Philips DST6008/20",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5959/827/preview_b/dst600820_philips_5ef45c8b916aa.jpeg",
+            "https://cdn21vek.by/img/galleries/5959/827/preview_b/dst600820_philips_5ef45c8c10a7d.jpeg",
+            "https://cdn21vek.by/img/galleries/5959/827/preview_b/dst600820_philips_5ef45c99b7608.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 16,
+          "price": 179.50,
+          "description": "laboris aute tempor sit sunt cupidatat mollit veniam magna nostrud veniam consequat voluptate commodo consectetur nulla duis ex velit nostrud aute elit culpa ad id eu amet anim in nulla do eiusmod est dolor sint cupidatat mollit culpa magna nulla"
+        },
+        {
+          "id": "612dc212563275f3a05a0dd6",
+          "name": "Утюг Holt HT-IR-003 (фиолетовый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6038/532/preview_b/htir003_holt_01_5ee78242e4c30.jpeg",
+            "https://cdn21vek.by/img/galleries/6038/532/preview_b/htir003_holt_01_60630f38c7837.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 14,
+          "price": 69.00,
+          "description": "enim magna ea occaecat anim veniam aute sunt Lorem occaecat irure non aute veniam irure nisi ad pariatur cillum ea veniam quis dolor deserunt ex ut irure laboris culpa nisi irure excepteur ut qui irure nostrud minim ipsum excepteur anim"
+        },
+        {
+          "id": "612dc21228a34c8c476892b5",
+          "name": "Утюг Panasonic NI-M250TGTW",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/680/234/preview_b/nim250tgtw_panasonic_5ba918ee0e9a6.jpeg",
+            "https://cdn21vek.by/img/galleries/680/234/preview_b/nim250tgtw_panasonic_5ba918ef3a4eb.jpeg",
+            "https://cdn21vek.by/img/galleries/680/234/preview_b/nim250tgtw_panasonic_5ba918f07811a.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 15,
+          "price": 74.00,
+          "description": "mollit amet minim dolor laboris ex eu ut irure magna culpa minim veniam nulla veniam fugiat aliquip elit qui cillum aliqua minim nostrud est sunt cillum est aute ad duis officia qui nisi et irure anim ex non incididunt commodo"
+        },
+        {
+          "id": "612dc212668a12d3ed303a0d",
+          "name": "Утюг Bosch TDA5030110",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/533/489/preview_b/tda5030110_bosch_5eb3aa54c65f6.jpeg",
+            "https://cdn21vek.by/img/galleries/533/489/preview_b/tda5030110_bosch_5eb3aa5476225.jpeg",
+            "https://cdn21vek.by/img/galleries/533/489/preview_b/tda5030110_bosch_5eb3aa549b471.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 6,
+          "price": 259.70,
+          "description": "occaecat Lorem dolor laborum dolore velit cupidatat occaecat laborum mollit enim pariatur duis ullamco duis qui non nisi do cupidatat eu officia officia adipisicing nisi aliquip incididunt mollit quis magna est aliquip sit eu labore laboris voluptate eu enim do"
+        }
+      ],
+      "vacuum": [
+        {
+          "id": "612dc77ab6726e1e8e6e0e6c",
+          "name": "Пылесос Samsung SC4520 (VCC4520S3S/XEV)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/13/452/preview_b/samsung_sc4520_1_5bea8e43e03a5.jpeg",
+            "https://cdn21vek.by/img/galleries/13/452/preview_b/samsung_sc4520_1_56b8646a61511.jpeg",
+            "https://cdn21vek.by/img/galleries/13/452/preview_b/samsung_sc4520_1_56b8646a7a237.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 13,
+          "price": 438.32,
+          "description": "magna eiusmod dolor in qui esse cupidatat non eiusmod velit qui aliqua sint laboris duis id eiusmod ut ullamco aliqua laboris enim labore amet incididunt aute adipisicing consectetur sit est cillum laboris aute veniam irure dolor aute velit consectetur sit"
+        },
+        {
+          "id": "612dc77a128f5a5dd206e46a",
+          "name": "Вертикальный пылесос Deerma DX700",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5926/734/preview_b/dx700_deerma_5e6f4339f11ff.png",
+            "https://cdn21vek.by/img/galleries/5926/734/preview_b/dx700_deerma_5e6f42f52b8b1.png",
+            "https://cdn21vek.by/img/galleries/5926/734/preview_b/dx700_deerma_5e6f42f4c6be9.jpeg",
+            "https://cdn21vek.by/img/galleries/5926/734/preview_b/dx700_deerma_5e6f43391bb1c.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 5,
+          "price": 132.02,
+          "description": "fugiat ullamco duis fugiat sint ut enim fugiat anim culpa esse eu ea labore exercitation irure sint consequat eiusmod et occaecat deserunt duis occaecat esse ea eiusmod aliquip ut proident irure voluptate consectetur laborum anim non cillum est aute est"
+        },
+        {
+          "id": "612dc77ae0d8b9ef9f03a101",
+          "name": "Пылесос Bosch BWD41720",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5655/959/preview_b/bwd41720_bosch_5d66566e04a21.jpeg",
+            "https://cdn21vek.by/img/galleries/5655/959/preview_b/bwd41720_bosch_5d66567068a72.jpeg",
+            "https://cdn21vek.by/img/galleries/5655/959/preview_b/bwd41720_bosch_5d6656740e760.jpeg",
+            "https://cdn21vek.by/img/galleries/5655/959/preview_b/bwd41720_bosch_5d66566e71e1a.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 15,
+          "price": 486.77,
+          "description": "Lorem cupidatat nostrud irure voluptate id mollit et Lorem enim eiusmod qui exercitation qui consequat commodo ea ea veniam labore tempor id anim ullamco mollit id sunt laborum sunt excepteur cupidatat sunt occaecat magna dolore magna ut voluptate cupidatat qui"
+        },
+        {
+          "id": "612dc77ae002e40de6660dac",
+          "name": "Вертикальный пылесос Kitfort KT-510 (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/113/796/preview_b/kt510_kitfort_55841c16c03a1.jpeg",
+            "https://cdn21vek.by/img/galleries/113/796/preview_b/kt510_kitfort_5942e04a2240b.jpeg",
+            "https://cdn21vek.by/img/galleries/113/796/preview_b/kt510_kitfort_5942e04a8605e.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 8,
+          "price": 213.81,
+          "description": "est pariatur ea ea ea excepteur qui velit aute exercitation sint quis laboris officia aliquip consectetur Lorem nulla culpa irure labore dolore dolor cillum et sit in voluptate nulla nulla ipsum mollit laborum voluptate sunt in eu duis commodo ullamco"
+        },
+        {
+          "id": "612dc77ae5d9c9eefb40af82",
+          "name": "Пылесос Karcher WD 3 (1.629-821.0/1.629-801.0)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5960/322/preview_b/wd316298210_karcher_5e957011054ac.jpeg",
+            "https://cdn21vek.by/img/galleries/5960/322/preview_b/wd316298210_karcher_5e957010e17a2.jpeg",
+            "https://cdn21vek.by/img/galleries/5960/322/preview_b/wd316298210_karcher_5ecf578a09d02.png"
+          ],
+          "rating": 1,
+          "availableAmount": 10,
+          "price": 242.76,
+          "description": "anim aliquip amet amet proident consequat ut ex ipsum sit mollit tempor ad sunt eu ipsum laborum amet eu do do nulla duis mollit qui nulla enim tempor irure eu nostrud duis culpa sunt veniam amet dolor excepteur ad excepteur"
+        },
+        {
+          "id": "612dc77a37d756be24db9ca4",
+          "name": "Пылесос Polaris PVC 2016 (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/525/754/preview_b/pvc2016_polaris_5a69ce63197a9.jpeg",
+            "https://cdn21vek.by/img/galleries/525/754/preview_b/pvc2016_polaris_5a69ce638af54.jpeg",
+            "https://cdn21vek.by/img/galleries/525/754/preview_b/pvc2016_polaris_5a69ce643f07a.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 16,
+          "price": 348.96,
+          "description": "esse ut enim est deserunt do et ea voluptate ut minim consectetur aliqua sunt labore reprehenderit ad esse in duis occaecat dolor cupidatat do id aliqua adipisicing occaecat laboris elit officia cupidatat sit est laborum cupidatat nisi aliqua adipisicing consectetur"
+        },
+        {
+          "id": "612dc77adc7dd26310c8d278",
+          "name": "Вертикальный пылесос Deerma DX700S",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6067/372/preview_b/dx700s_deerma_5f3a8204eabcc.jpeg",
+            "https://cdn21vek.by/img/galleries/6067/372/preview_b/dx700s_deerma_604b57e6038c2.jpeg",
+            "https://cdn21vek.by/img/galleries/6067/372/preview_b/dx700s_deerma_604b57e654872.jpeg",
+            "https://cdn21vek.by/img/galleries/6067/372/preview_b/dx700s_deerma_604b57e6b080f.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 5,
+          "price": 329.13,
+          "description": "et nostrud quis ea laboris nostrud nulla aute nulla tempor laboris elit qui proident aliqua exercitation est excepteur est cillum duis anim adipisicing magna eu duis nostrud tempor exercitation eu irure ad reprehenderit minim fugiat dolor do consequat excepteur mollit"
+        },
+        {
+          "id": "612dc77a60760a2faf78e757",
+          "name": "Пылесос Samsung VCC8876H35/XEV",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/854/967/preview_b/vcc8876h35xev_samsung_5c762a671632f.jpeg",
+            "https://cdn21vek.by/img/galleries/854/967/preview_b/vcc8876h35xev_samsung_5c762a6895f06.jpeg",
+            "https://cdn21vek.by/img/galleries/854/967/preview_b/vcc8876h35xev_samsung_5c762a6a0e397.jpeg",
+            "https://cdn21vek.by/img/galleries/854/967/preview_b/vcc8876h35xev_samsung_5c762a6c4ac01.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 7,
+          "price": 245.32,
+          "description": "et culpa officia deserunt ad in consequat nostrud et officia elit nisi laboris cillum est non mollit officia enim eu occaecat culpa irure ipsum dolor est enim est amet exercitation pariatur nulla commodo veniam eu qui aliqua excepteur pariatur ea"
+        },
+        {
+          "id": "612dc77a6013ee2a56f260e7",
+          "name": "Пылесос Normann AVC-111",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/499/196/preview_b/avc111_normann_5a1d7a4a16788.jpeg",
+            "https://cdn21vek.by/img/galleries/499/196/preview_b/avc111_normann_5a1d7a4cd33a8.jpeg",
+            "https://cdn21vek.by/img/galleries/499/196/preview_b/avc111_normann_5a1d7a4e3b6a0.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 15,
+          "price": 149.18,
+          "description": "ullamco occaecat ex ad cillum incididunt excepteur voluptate ullamco incididunt aliqua aliqua nisi pariatur dolor incididunt sint sit esse officia elit ad esse voluptate eu et culpa officia sit sunt laboris mollit dolor fugiat irure cillum pariatur velit quis aliquip"
+        },
+        {
+          "id": "612dc77a6a86e19f576e1ff0",
+          "name": "Портативный пылесос Xiaomi Mi Vacuum Cleaner Mini / BHR4562GL",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6270/157/preview_b/mivacuumcleanerminibhr4562gl_xiaomi_5fb74dfe9a4c0.jpeg",
+            "https://cdn21vek.by/img/galleries/6270/157/preview_b/mivacuumcleanerminibhr4562gl_xiaomi_5fb74dfeb750f.jpeg",
+            "https://cdn21vek.by/img/galleries/6270/157/preview_b/mivacuumcleanerminibhr4562gl_xiaomi_5fb74e0048d27.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 11,
+          "price": 305.5,
+          "description": "occaecat culpa consequat ad mollit labore ipsum laboris exercitation nostrud deserunt labore duis consectetur Lorem ex officia reprehenderit in proident nulla occaecat qui sint Lorem magna duis ea ad consectetur amet elit nulla tempor esse ea velit amet do cupidatat"
+        },
+        {
+          "id": "612dc77a248d62e0c95929a7",
+          "name": "Пылесос Samsung SC18M31A0HU/EV / VC18M31A0HU/EV",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/450/918/preview_b/sc18m31a0huevvc18m31a0huev_samsung_590da19e1c749.jpeg",
+            "https://cdn21vek.by/img/galleries/450/918/preview_b/sc18m31a0huevvc18m31a0huev_samsung_590da1bd02993.jpeg",
+            "https://cdn21vek.by/img/galleries/450/918/preview_b/sc18m31a0huevvc18m31a0huev_samsung_590da1bd54708.jpeg",
+            "https://cdn21vek.by/img/galleries/450/918/preview_b/sc18m31a0huevvc18m31a0huev_samsung_590da1bd9a260.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 14,
+          "price": 348.51,
+          "description": "nulla culpa dolore duis eu cupidatat cupidatat adipisicing exercitation fugiat id anim ut aliqua sunt proident excepteur Lorem adipisicing cillum proident cillum ea Lorem do elit fugiat amet minim tempor fugiat pariatur do reprehenderit velit est aliquip non irure id"
+        },
+        {
+          "id": "612dc77a81234c2a49350b06",
+          "name": "Стеклоочиститель Bosch GlassVac (0.600.8B7.000)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/902/805/preview_b/glassvac_bosch_5c7fe0363852e.jpeg",
+            "https://cdn21vek.by/img/galleries/902/805/preview_b/glassvac_bosch_5c7fe03fc5b03.jpeg",
+            "https://cdn21vek.by/img/galleries/902/805/preview_b/glassvac_bosch_5c7fe0446e1a3.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 7,
+          "price": 190.28,
+          "description": "nostrud ad est eu esse eu cillum Lorem pariatur ullamco eu aute est sunt tempor pariatur do cillum incididunt enim esse ut labore fugiat aliqua elit dolore non commodo fugiat qui anim velit sint eiusmod tempor velit voluptate non sunt"
+        },
+        {
+          "id": "612dc77a5fc9b4c07bc9c78d",
+          "name": "Портативный пылесос Kitfort KT-537-1 (белый/черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/690/722/preview_b/kt5371_kitfort_5bc4cc28f1704.jpeg",
+            "https://cdn21vek.by/img/galleries/690/722/preview_b/kt5371_kitfort_5bc4cc2958f49.jpeg",
+            "https://cdn21vek.by/img/galleries/690/722/preview_b/kt5371_kitfort_5bc4cc2a686b1.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 5,
+          "price": 193.06,
+          "description": "dolore irure labore ullamco esse exercitation cillum veniam eiusmod consequat sint pariatur ut minim id laboris aute ad qui cillum sit esse sunt ut consectetur ullamco nisi reprehenderit excepteur aute aliqua aute veniam sit tempor id eiusmod cupidatat sit dolore"
+        }
+      ]
     },
     "electronics": {
-      "mobile": [],
-      "watches": [],
+      "mobile": [
+        {
+          "id": "612e05c53a4458874142f298",
+          "name": "Смартфон Xiaomi Redmi 9C 3GB/64GB без NFC (серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6141/799/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_5f4ca4d93ad5e.jpeg",
+            "https://cdn21vek.by/img/galleries/6141/799/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_5f4ca4dcc75e1.jpeg",
+            "https://cdn21vek.by/img/galleries/6141/799/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_5f4ca4dccffb9.jpeg",
+            "https://cdn21vek.by/img/galleries/6141/799/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_5f4ca4dcd8c3b.jpeg",
+            "https://cdn21vek.by/img/galleries/6141/799/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_5f4ca4dce1685.jpeg",
+            "https://cdn21vek.by/img/galleries/6141/799/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_5f4ca4dd008b4.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 13,
+          "price": 472.84,
+          "description": "duis voluptate veniam dolor enim occaecat pariatur eu enim officia commodo proident aliqua aute ut irure excepteur amet Lorem proident laboris fugiat labore veniam nostrud esse magna cupidatat aute dolore elit nisi ut proident fugiat excepteur officia ullamco laborum voluptate"
+        },
+        {
+          "id": "612e05c5f9b35258fc7929cb",
+          "name": "Смартфон ZTE Blade A3 2020 1GB/32GB (темно-серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6133/839/preview_b/a320201gb32gb_zte_5f3f9ae544884.jpeg",
+            "https://cdn21vek.by/img/galleries/6133/839/preview_b/a320201gb32gb_zte_5f3f9ba475dfe.jpeg",
+            "https://cdn21vek.by/img/galleries/6133/839/preview_b/a320201gb32gb_zte_5f3f9ba4a7fca.jpeg",
+            "https://cdn21vek.by/img/galleries/6133/839/preview_b/a320201gb32gb_zte_5f3f9ba4ca4c2.jpeg",
+            "https://cdn21vek.by/img/galleries/6133/839/preview_b/a320201gb32gb_zte_5f3f9ba50fab5.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 8,
+          "price": 944.42,
+          "description": "nostrud laborum minim in incididunt ullamco do nisi pariatur magna non esse ipsum dolor aliqua in veniam sunt eiusmod labore veniam officia anim adipisicing nisi est commodo laborum enim minim amet incididunt irure minim elit commodo culpa occaecat laborum magna"
+        },
+        {
+          "id": "612e05c57e5cfaba3c14ed5c",
+          "name": "Мобильный телефон Texet TM-513R (черно-оранжевый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/293/851/preview_b/tm513r_texet_560553f710b36.png",
+            "https://cdn21vek.by/img/galleries/293/851/preview_b/tm513r_texet_57c893d5f3bab.jpeg",
+            "https://cdn21vek.by/img/galleries/293/851/preview_b/tm513r_texet_57c893d61aa72.jpeg",
+            "https://cdn21vek.by/img/galleries/293/851/preview_b/tm513r_texet_56055427a4654.png"
+          ],
+          "rating": 4,
+          "availableAmount": 19,
+          "price": 678.46,
+          "description": "consectetur laboris occaecat ipsum aliquip mollit deserunt irure Lorem sunt velit irure ad in mollit elit ex nulla fugiat aute est mollit culpa fugiat reprehenderit laborum anim cupidatat esse adipisicing veniam excepteur elit esse eiusmod adipisicing qui Lorem commodo pariatur"
+        },
+        {
+          "id": "612e05c5caf19519be5c8a6c",
+          "name": "Смартфон ZTE Blade A5 2020 2GB/32GB (аквамарин)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6130/156/preview_b/bladea520202gb32gb_zte_5f4370f25e3f7.jpeg",
+            "https://cdn21vek.by/img/galleries/6130/156/preview_b/bladea520202gb32gb_zte_5f4370f84e371.jpeg",
+            "https://cdn21vek.by/img/galleries/6130/156/preview_b/bladea520202gb32gb_zte_5f4370f86ab59.jpeg",
+            "https://cdn21vek.by/img/galleries/6130/156/preview_b/bladea520202gb32gb_zte_5f4370f896cb4.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 16,
+          "price": 942,
+          "description": "elit laboris exercitation culpa labore ad duis ipsum velit ad sint commodo commodo cupidatat cupidatat proident labore occaecat voluptate laborum cupidatat quis sunt culpa sint minim reprehenderit veniam culpa ullamco id non irure quis duis sit incididunt Lorem cupidatat deserunt"
+        },
+        {
+          "id": "612e05c5f00b2207b3dfba3b",
+          "name": "Мобильный телефон Texet TM-204 (красный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/390/365/preview_b/tm204_texet_02_57e3c5352af48.jpeg",
+            "https://cdn21vek.by/img/galleries/390/365/preview_b/tm204_texet_02_57e3c4f3c0a1a.jpeg",
+            "https://cdn21vek.by/img/galleries/390/365/preview_b/tm204_texet_02_57e3c534abdcc.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 11,
+          "price": 594.31,
+          "description": "aute commodo laboris minim veniam duis velit reprehenderit laboris aliqua cillum pariatur anim officia quis aliqua excepteur dolor laboris reprehenderit labore ipsum sunt aliqua elit consectetur do excepteur eu elit magna eu est ullamco non commodo sint cupidatat commodo fugiat"
+        },
+        {
+          "id": "612e05c531108228add087c7",
+          "name": "Смартфон Xiaomi Redmi 9C 3GB/64GB без NFC (оранжевый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6150/715/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_01_5f587870a2dd1.jpeg",
+            "https://cdn21vek.by/img/galleries/6150/715/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_01_5f58787447b7e.jpeg",
+            "https://cdn21vek.by/img/galleries/6150/715/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_01_5f58787462f2d.jpeg",
+            "https://cdn21vek.by/img/galleries/6150/715/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_01_5f58787712b6d.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 19,
+          "price": 728.21,
+          "description": "nostrud irure cillum occaecat sunt officia esse sit aliqua laboris eu amet aliquip incididunt consequat eiusmod esse pariatur velit incididunt velit ullamco Lorem enim adipisicing culpa voluptate eu sit aliqua consectetur sint do deserunt consectetur cillum eu est enim magna"
+        },
+        {
+          "id": "612e05c5798973ebdd168604",
+          "name": "Смартфон Xiaomi Redmi 9C 3GB/64GB без NFC (синий)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6150/712/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_02_5f5879ce95673.jpeg",
+            "https://cdn21vek.by/img/galleries/6150/712/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_02_5f5879d2265b8.jpeg",
+            "https://cdn21vek.by/img/galleries/6150/712/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_02_5f5879d2df769.jpeg",
+            "https://cdn21vek.by/img/galleries/6150/712/preview_b/redmi9c3gb64gbm2006c3mgnfc_xiaomi_02_5f5879d559b82.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 13,
+          "price": 469.9,
+          "description": "eiusmod consequat duis culpa non laborum culpa ut officia qui proident laboris eiusmod nostrud dolor proident ut velit ipsum ad qui Lorem eu ex adipisicing ea reprehenderit sit cupidatat deserunt esse dolor voluptate nulla do aute cupidatat esse ad commodo"
+        },
+        {
+          "id": "612e05c5a8a87d5b554569a8",
+          "name": "Смартфон Samsung Galaxy A02 / SM-A022GZKBSER (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6368/633/preview_b/galaxya02sma022gzkbser_samsung_6020e55449d1d.jpeg",
+            "https://cdn21vek.by/img/galleries/6368/633/preview_b/galaxya02sma022gzkbser_samsung_6020e5571efa2.jpeg",
+            "https://cdn21vek.by/img/galleries/6368/633/preview_b/galaxya02sma022gzkbser_samsung_6020e55742a5a.jpeg",
+            "https://cdn21vek.by/img/galleries/6368/633/preview_b/galaxya02sma022gzkbser_samsung_6020e55715fc9.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 19,
+          "price": 989.35,
+          "description": "do consequat incididunt sit id consectetur tempor Lorem id velit esse consectetur ut do consequat id commodo exercitation quis nostrud voluptate voluptate id non cillum elit aute do Lorem ullamco nulla nulla ad aliqua fugiat excepteur labore ut do exercitation"
+        },
+        {
+          "id": "612e05c56742548b362d68d6",
+          "name": "Смартфон Ulefone Armor X6 (черный/оранжевый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5875/716/preview_b/armorx6_ulefone_5e341783bd8c4.jpeg",
+            "https://cdn21vek.by/img/galleries/5875/716/preview_b/armorx6_ulefone_5e341783f383d.jpeg",
+            "https://cdn21vek.by/img/galleries/5875/716/preview_b/armorx6_ulefone_5e3417843c120.jpeg",
+            "https://cdn21vek.by/img/galleries/5875/716/preview_b/armorx6_ulefone_5e34178431e26.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 9,
+          "price": 437.46,
+          "description": "velit elit et deserunt tempor exercitation cillum adipisicing incididunt do do veniam Lorem ullamco ea laborum laborum magna laborum deserunt amet laboris duis amet reprehenderit sit officia aliqua dolor culpa mollit do pariatur mollit ex laboris cupidatat pariatur pariatur sunt"
+        },
+        {
+          "id": "612e05c5924cfcce7c08e41c",
+          "name": "Смартфон Apple iPhone XR 64GB / MH6P3 (красный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6337/128/preview_b/iphonexr64gbmh6p3_apple_60360c359d386.jpeg",
+            "https://cdn21vek.by/img/galleries/6337/128/preview_b/iphonexr64gbmh6p3_apple_60360c3a70248.jpeg",
+            "https://cdn21vek.by/img/galleries/6337/128/preview_b/iphonexr64gbmh6p3_apple_60360c3aa1e0e.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 8,
+          "price": 1798.87,
+          "description": "eiusmod duis ad elit irure anim amet velit ex in eiusmod commodo nisi dolore aliqua cupidatat voluptate quis eiusmod dolor tempor nulla ullamco cupidatat amet magna ea anim voluptate non id dolore eu elit veniam est pariatur culpa eu velit"
+        },
+        {
+          "id": "612e05c5bc038caf8f07d5d3",
+          "name": "Смартфон Apple iPhone 12 Pro 128GB / MGMN3 (тихоокеанский синий)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6240/333/preview_b/iphone12pro128gbmgmn3_apple_5f9bdbcc46c7c.jpeg",
+            "https://cdn21vek.by/img/galleries/6240/333/preview_b/iphone12pro128gbmgmn3_apple_5f9bdbd691afb.jpeg",
+            "https://cdn21vek.by/img/galleries/6240/333/preview_b/iphone12pro128gbmgmn3_apple_5f9bdbda330ba.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 6,
+          "price": 3732.78,
+          "description": "voluptate exercitation est ea fugiat Lorem duis ullamco nostrud nulla consectetur consectetur ex elit amet culpa incididunt sit proident officia aliquip occaecat laboris sunt ullamco nisi nulla consequat nulla proident incididunt reprehenderit excepteur in consequat ex deserunt mollit velit culpa"
+        },
+        {
+          "id": "612e05c53fe9dca845d677fc",
+          "name": "Смартфон Apple iPhone 12 Mini 64GB / MGDY3 (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6240/261/preview_b/iphone12mini64gbmgdy3_apple_5fc912ff87fc3.jpeg",
+            "https://cdn21vek.by/img/galleries/6240/261/preview_b/iphone12mini64gbmgdy3_apple_5fc9131220f27.jpeg",
+            "https://cdn21vek.by/img/galleries/6240/261/preview_b/iphone12mini64gbmgdy3_apple_5fc9130a34dec.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 10,
+          "price": 2229.00,
+          "description": "cupidatat elit culpa consequat enim tempor sint occaecat aute est non ea in ullamco enim et ea amet non do sit do id do mollit mollit esse elit aliquip ullamco ullamco deserunt veniam id est esse pariatur ex excepteur velit"
+        }
+      ],
+      "watches": [
+        {
+          "id": "612e09de2fa9da680faef4f4",
+          "name": "Умные часы Huawei Watch Fit TIA-B09 (графитовый черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6190/679/preview_b/watchfittiab09_huawei_5f76d05335615.jpeg",
+            "https://cdn21vek.by/img/galleries/6190/679/preview_b/watchfittiab09_huawei_5f76d05a867d8.jpeg",
+            "https://cdn21vek.by/img/galleries/6190/679/preview_b/watchfittiab09_huawei_5f76d05aac3e5.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 16,
+          "price": 481.39,
+          "description": "sunt eu irure nostrud commodo aliquip nisi dolore aliquip eu cillum officia reprehenderit voluptate tempor enim velit cupidatat cillum esse ex laborum magna ipsum dolore ea id ut tempor sunt reprehenderit ipsum laborum cillum dolore velit officia laboris id occaecat"
+        },
+        {
+          "id": "612e09dece4d09e690e57177",
+          "name": "Умные часы Huawei Watch Fit TIA-B09 (розовая сакура)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6190/689/preview_b/watchfittiab09_huawei_01_5f76df81a3993.jpeg",
+            "https://cdn21vek.by/img/galleries/6190/689/preview_b/watchfittiab09_huawei_01_5f76df8536ffd.jpeg",
+            "https://cdn21vek.by/img/galleries/6190/689/preview_b/watchfittiab09_huawei_01_5f76df8547e79.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 18,
+          "price": 119.17,
+          "description": "veniam non tempor et magna minim enim reprehenderit ad consequat ipsum eiusmod consequat exercitation minim enim enim ullamco occaecat proident esse nulla pariatur fugiat sunt dolore dolor nulla Lorem pariatur id esse id laborum sunt occaecat amet dolor eu irure"
+        },
+        {
+          "id": "612e09de47c8d3ccab7c4ba4",
+          "name": "Умные часы Huawei Watch GT 2 Pro VID-B19 (Night Black)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6232/820/preview_b/watchgt2providb19_huawei_5f96c34ea5d36.jpeg",
+            "https://cdn21vek.by/img/galleries/6232/820/preview_b/watchgt2providb19_huawei_5f96c353948ce.jpeg",
+            "https://cdn21vek.by/img/galleries/6232/820/preview_b/watchgt2providb19_huawei_5f96c353b33a0.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 13,
+          "price": 487.14,
+          "description": "enim consectetur deserunt tempor consequat deserunt ipsum culpa irure ea eiusmod officia eu labore Lorem duis non ut eu commodo et dolore cupidatat cupidatat consectetur exercitation magna enim ipsum laboris nulla enim consectetur Lorem duis magna nisi ullamco consectetur Lorem"
+        },
+        {
+          "id": "612e09de003e3aadc28cc5cf",
+          "name": "Умные часы Canyon CNS-SW74BL",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6175/268/preview_b/cnssw74bl_canyon_5f6c572132843.jpeg",
+            "https://cdn21vek.by/img/galleries/6175/268/preview_b/cnssw74bl_canyon_5f6c572612390.jpeg",
+            "https://cdn21vek.by/img/galleries/6175/268/preview_b/cnssw74bl_canyon_5f6c57265463f.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 12,
+          "price": 559.34,
+          "description": "deserunt exercitation in magna ea cupidatat qui ut ea adipisicing esse adipisicing laborum voluptate consectetur reprehenderit sit elit eu duis nostrud cupidatat elit sunt exercitation duis aute nisi proident deserunt in pariatur aliqua sint quis duis ut esse sunt consequat"
+        },
+        {
+          "id": "612e09de7876633af976db55",
+          "name": "Умные часы Huawei Watch GT 2 LTN-B19 46mm (матовый черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5783/368/preview_b/watchgt2ltnb19_huawei_5dd26089ac776.jpeg",
+            "https://cdn21vek.by/img/galleries/5783/368/preview_b/watchgt2ltnb19_huawei_5dd26089e0753.jpeg",
+            "https://cdn21vek.by/img/galleries/5783/368/preview_b/watchgt2ltnb19_huawei_5dd2608a04531.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 18,
+          "price": 458.91,
+          "description": "ut excepteur non dolor minim proident magna voluptate sint aute cillum deserunt id labore in ea duis magna consequat reprehenderit fugiat fugiat ut deserunt non voluptate commodo sunt nostrud culpa veniam reprehenderit proident tempor laboris adipisicing esse veniam nostrud dolor"
+        },
+        {
+          "id": "612e09de44cffa913e8ca3ba",
+          "name": "Умные часы Apple Watch SE 40mm / MYDN2 (алюминий золотистый/розовый песок)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6341/494/preview_b/watchse40mmmydn2_apple_6018ecd5cdad1.jpeg",
+            "https://cdn21vek.by/img/galleries/6341/494/preview_b/watchse40mmmydn2_apple_6018ecd9a3949.jpeg",
+            "https://cdn21vek.by/img/galleries/6257/918/preview_b/watchsegps44mmmydr2_apple_5fabd447ccfdf.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 12,
+          "price": 1409.81,
+          "description": "minim aliquip non eu labore quis cupidatat sit deserunt commodo magna in pariatur nulla cupidatat qui ex officia ullamco amet amet sit ex excepteur elit cupidatat nisi exercitation ad Lorem sunt culpa laborum mollit exercitation quis officia sunt sit et"
+        },
+        {
+          "id": "612e09deb6bce0ba87da4058",
+          "name": "Умные часы Xiaomi Mi Watch Lite BHR4704RU/REDMIWT02 (Black)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6384/73/preview_b/miwatchlitebhr4704ruredmiwt02_xiaomi_6047239ba4300.jpeg",
+            "https://cdn21vek.by/img/galleries/6384/73/preview_b/miwatchlitebhr4704ruredmiwt02_xiaomi_6047239be3617.jpeg",
+            "https://cdn21vek.by/img/galleries/6384/73/preview_b/miwatchlitebhr4704ruredmiwt02_xiaomi_6047239c0a4cc.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 10,
+          "price": 169.81,
+          "description": "ipsum velit deserunt commodo laboris elit est aute esse Lorem do ex quis tempor commodo adipisicing ipsum enim laboris fugiat nisi quis in cillum proident pariatur dolore dolor culpa sit quis pariatur eiusmod esse dolor esse consectetur duis ex sit"
+        },
+        {
+          "id": "612e09deba103b8e1ccf718a",
+          "name": "Умные часы Canyon CNS-SW73BB",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5845/612/preview_b/cnssw73bb_canyon_5e2697eab28ee.png",
+            "https://cdn21vek.by/img/galleries/5845/612/preview_b/cnssw73bb_canyon_5ef1ef4d8cf5d.jpeg",
+            "https://cdn21vek.by/img/galleries/5845/612/preview_b/cnssw73bb_canyon_5ef1ef4dac52e.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 16,
+          "price": 511.74,
+          "description": "labore sunt cillum anim qui officia nisi et occaecat enim do sint commodo velit laborum dolor qui laborum sunt pariatur cillum consequat elit tempor commodo minim aliqua irure ipsum aliqua dolor qui elit ex quis ipsum aliquip nulla est et"
+        },
+        {
+          "id": "612e09de0bb16a1ca9260e0e",
+          "name": "Умные часы детские Aimoto Marvel Герой / 9301109",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6254/468/preview_b/marvel9301109_aimoto_5fae4927c7ff7.jpeg",
+            "https://cdn21vek.by/img/galleries/6254/468/preview_b/marvel9301109_aimoto_5fae492b42c3f.jpeg",
+            "https://cdn21vek.by/img/galleries/6254/468/preview_b/marvel9301109_aimoto_5fae492b7a58b.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 16,
+          "price": 589.53,
+          "description": "minim duis ea est officia ipsum deserunt ut Lorem qui duis anim nisi cillum ut ex excepteur dolor ea excepteur ex et laboris duis velit culpa aute tempor voluptate voluptate nisi anim ad reprehenderit deserunt exercitation irure ipsum nulla commodo"
+        },
+        {
+          "id": "612e09ded861aee0ac12e991",
+          "name": "Умные часы Canyon Marzipan CNS-SW75PP",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5897/354/preview_b/marzipancnssw75pp_canyon_5e4e4c5a7cdc6.png",
+            "https://cdn21vek.by/img/galleries/5897/354/preview_b/marzipancnssw75pp_canyon_5e4e4c59cd28f.png",
+            "https://cdn21vek.by/img/galleries/5897/354/preview_b/marzipancnssw75pp_canyon_5e4e4c5ad2ac3.png"
+          ],
+          "rating": 3,
+          "availableAmount": 16,
+          "price": 227.03,
+          "description": "mollit dolore aute mollit in pariatur exercitation magna tempor minim consectetur aute labore est non nostrud non proident est ut laborum velit adipisicing sunt Lorem irure nulla tempor do voluptate aute occaecat proident irure pariatur mollit commodo enim id in"
+        },
+        {
+          "id": "612e09de26a3c51799cf0776",
+          "name": "Умные часы Huawei Watch GT 2 LTN-B19 46mm (коричневый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5783/373/preview_b/watchgt2ltnb19_huawei_01_5dd260c02737a.jpeg",
+            "https://cdn21vek.by/img/galleries/5783/373/preview_b/watchgt2ltnb19_huawei_01_5dd260c0516a6.jpeg",
+            "https://cdn21vek.by/img/galleries/5783/373/preview_b/watchgt2ltnb19_huawei_01_5dd260c067080.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 16,
+          "price": 346.57,
+          "description": "nulla officia et sit Lorem labore minim in exercitation excepteur veniam cupidatat aliquip anim magna duis eu Lorem velit fugiat et elit duis dolor veniam non enim laboris esse id pariatur incididunt id culpa ut mollit quis id deserunt id"
+        },
+        {
+          "id": "612e09de63c40cfd2be02408",
+          "name": "Умные часы Amazfit Bip U 40.9mm / A2017 (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6246/226/preview_b/bipua2017_amazfit_5fa4f935195ac.jpeg",
+            "https://cdn21vek.by/img/galleries/6246/226/preview_b/bipua2017_amazfit_5fa4f93716d93.jpeg",
+            "https://cdn21vek.by/img/galleries/6246/226/preview_b/bipua2017_amazfit_5fa4f939ea459.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 5,
+          "price": 220.44,
+          "description": "consectetur exercitation ut irure in tempor excepteur do labore eiusmod culpa enim laborum ex ea cillum anim adipisicing magna consequat exercitation nostrud sit incididunt incididunt qui esse fugiat veniam labore ut dolore fugiat dolor cillum laboris Lorem pariatur reprehenderit ad"
+        },
+        {
+          "id": "612e09de854b9dd66edc7b8c",
+          "name": "Умные часы Huawei Watch GT 2 LTN-B19 46mm (титановый серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6111/597/preview_b/watchgt2ltnb1946mm_huawei_5f2a665d9f355.jpeg",
+            "https://cdn21vek.by/img/galleries/6111/597/preview_b/watchgt2ltnb1946mm_huawei_5f2a66613f234.jpeg",
+            "https://cdn21vek.by/img/galleries/6111/597/preview_b/watchgt2ltnb1946mm_huawei_5f2a66617c85c.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 12,
+          "price": 726.25,
+          "description": "commodo ipsum magna incididunt velit enim non velit veniam qui voluptate commodo qui deserunt cillum occaecat sint quis aute deserunt occaecat et nisi cupidatat et magna non qui occaecat consectetur enim deserunt nostrud mollit consequat occaecat ipsum dolor proident sint"
+        },
+        {
+          "id": "612e09deaf63eb32f0e0383c",
+          "name": "Умные часы Apple Watch SE GPS 44mm / MYDT2 (алюминий серый космос/черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6257/938/preview_b/watchsegps44mmmydt2_apple_5fabdad1d0b01.jpeg",
+            "https://cdn21vek.by/img/galleries/6257/938/preview_b/watchsegps44mmmydt2_apple_5fabdad738ed5.jpeg",
+            "https://cdn21vek.by/img/galleries/6257/918/preview_b/watchsegps44mmmydr2_apple_5fabd447738f1.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 8,
+          "price": 474.44,
+          "description": "qui ad qui Lorem ex ipsum dolor fugiat reprehenderit veniam adipisicing aliquip est magna elit veniam reprehenderit esse irure enim esse dolor minim commodo mollit id esse laborum consequat veniam labore mollit sit ea anim velit deserunt aute dolor id"
+        },
+        {
+          "id": "612e09de5e37f517c76d2009",
+          "name": "Умные часы Apple Watch Series 6 GPS 44mm / M00D3 (алюминий серебристый/белый спортивный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6294/370/preview_b/watchseries6gps44mmm00d3_apple_5fd09248b8caa.jpeg",
+            "https://cdn21vek.by/img/galleries/6294/370/preview_b/watchseries6gps44mmm00d3_apple_5fd0924c4eca5.jpeg",
+            "https://cdn21vek.by/img/galleries/6294/370/preview_b/watchseries6gps44mmm00d3_apple_5fd0924c8c2cb.jpeg",
+            "https://cdn21vek.by/img/galleries/6257/867/preview_b/watchseries6gps44mmm00m3_apple_5fabc29891d5e.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 11,
+          "price": 234.12,
+          "description": "ut laborum est exercitation enim tempor laborum exercitation ullamco ea irure mollit nisi ullamco non ut duis adipisicing veniam amet eiusmod culpa proident laboris ea est nulla ullamco et est ex Lorem duis Lorem duis do excepteur adipisicing minim proident"
+        },
+        {
+          "id": "612e09deb9b2db735bd1fe81",
+          "name": "Умные часы детские Wonlex GW100 (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/525/38/preview_b/gw100_wonlex_05_5a675f6380a60.jpeg",
+            "https://cdn21vek.by/img/galleries/525/38/preview_b/gw100_wonlex_05_5a675f63e317c.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 15,
+          "price": 451.07,
+          "description": "commodo tempor laboris exercitation voluptate ad enim nisi eiusmod enim ad laboris incididunt commodo cupidatat sunt sint fugiat dolore commodo id culpa ex excepteur id esse sunt laboris culpa pariatur fugiat veniam ex aute ipsum tempor irure velit Lorem pariatur"
+        }
+      ],
       "tablets": [],
       "ebooks": [],
       "powerbanks": [],
