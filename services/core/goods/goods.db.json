@@ -10,7 +10,7 @@
             "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
           ],
           "availableAmount": 5,
-          "price": 999.00,
+          "price": 999.0,
           "rating": 5,
           "description": "Deserunt esse anim nulla consequat mollit non do occaecat in aute labore fugiat. Amet deserunt ullamco ex et ullamco. Magna irure nostrud sint enim aliqua incididunt consectetur minim mollit ad. Qui minim magna Lorem nulla officia non consequat ad officia proident laborum. Ut non nisi culpa laboris commodo ipsum laboris do ad irure Lorem nulla eiusmod."
         },
@@ -22,7 +22,7 @@
             "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
           ],
           "availableAmount": 5,
-          "price": 769.00,
+          "price": 769.0,
           "rating": 4,
           "description": "Nostrud irure velit magna aliquip anim ea proident eiusmod adipisicing. Occaecat enim mollit eiusmod laboris laboris sint. Commodo sint quis eu ex sunt laborum laboris ut non cillum officia consectetur. Laborum est consequat ad aliquip adipisicing veniam qui ad aliquip irure. Lorem est aliqua officia eu quis anim consectetur irure officia nostrud. Non est sit dolore mollit culpa incididunt laboris fugiat velit ea veniam Lorem."
         },
@@ -34,7 +34,7 @@
             "https://cdn21vek.by/img/galleries/487/87/2401100_atlant_59e8ae808355a.jpeg"
           ],
           "availableAmount": 10,
-          "price": 612.00,
+          "price": 612.0,
           "rating": 3,
           "description": "Обзор Холодильник ATLANT Х-2401-100 — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
         },
@@ -46,7 +46,7 @@
             "https://cdn21vek.by/img/galleries/670/660/preview_b/rcsk250m20w_beko_5ba395bcec466.jpeg"
           ],
           "availableAmount": 9,
-          "price": 809.00,
+          "price": 809,
           "rating": 5,
           "description": "Обзор Холодильник с морозильником Beko RCSK250M20W — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
         },
@@ -59,7 +59,7 @@
             "https://cdn21vek.by/img/galleries/785/539/preview_b/gab419sqjl_lg_5c04db90dae64.jpeg"
           ],
           "availableAmount": 12,
-          "price": 1480.00,
+          "price": 1480,
           "rating": 5,
           "description": "Обзор Холодильник с морозильником LG GA-B419SQJL — Быстрая заморозка не повреждает структуру продуктов, сохраняет их вкус, цвет и питательные свойства. При быстрой заморозке кристаллы льда в тканях образуются быстрее, равномернее и мельче по размеру. Эта функция особенно полезна для лучшего сохранения домашних заготовок."
         },
@@ -72,11 +72,10 @@
             "https://cdn21vek.by/img/galleries/6150/224/preview_b/serie6vitafreshpluskgn39aw32r_bosch_5f4f289090d52.png"
           ],
           "availableAmount": 4,
-          "price": 2229.00,
+          "price": 2229.0,
           "rating": 3,
           "description": "Холодильно-морозильная комбинация NoFrost с зоной свежести VitaFresh plus сохраняет свежесть продуктов до 2 раз дольше. Нет необходимости размораживать морозильную камеру благодаря системе NoFrost. Холодильники c PerfectFit могут быть установлены на кухне вплотную к мебели и стенам, без зазоров. VitaFresh Plus: свежесть до двух раз дольше. Без лишних запахов и бактерий: антибактериальный фильтр AirFresh. Холодильник c Bosch VarioInverter работает очень тихо и потребляет меньше электроэнергии, чем холодильник с обычным компрессором."
         },
-        
 
         {
           "id": "CSMV55505MC1S",
@@ -86,7 +85,7 @@
             "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
           ],
           "availableAmount": 5,
-          "price": 859.00,
+          "price": 859.0,
           "rating": 4,
           "description": "Deserunt esse anim nulla consequat mollit non do occaecat in aute labore fugiat. Amet deserunt ullamco ex et ullamco. Magna irure nostrud sint enim aliqua incididunt consectetur minim mollit ad. Qui minim magna Lorem nulla officia non consequat ad officia proident laborum. Ut non nisi culpa laboris commodo ipsum laboris do ad irure Lorem nulla eiusmod."
         },
@@ -98,7 +97,7 @@
             "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
           ],
           "availableAmount": 5,
-          "price": 769.00,
+          "price": 769.0,
           "rating": 4,
           "description": "Nostrud irure velit magna aliquip anim ea proident eiusmod adipisicing. Occaecat enim mollit eiusmod laboris laboris sint. Commodo sint quis eu ex sunt laborum laboris ut non cillum officia consectetur. Laborum est consequat ad aliquip adipisicing veniam qui ad aliquip irure. Lorem est aliqua officia eu quis anim consectetur irure officia nostrud. Non est sit dolore mollit culpa incididunt laboris fugiat velit ea veniam Lorem."
         },
@@ -110,7 +109,7 @@
             "https://cdn21vek.by/img/galleries/487/87/2401100_atlant_59e8ae808355a.jpeg"
           ],
           "availableAmount": 15,
-          "price": 812.00,
+          "price": 812.0,
           "rating": 3,
           "description": "Обзор Холодильник ATLANT RCSK311M20SS — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
         },
@@ -122,7 +121,7 @@
             "https://cdn21vek.by/img/galleries/670/660/preview_b/rcsk250m20w_beko_5ba395bcec466.jpeg"
           ],
           "availableAmount": 9,
-          "price": 809.00,
+          "price": 809.0,
           "rating": 5,
           "description": "Обзор Холодильник с морозильником Beko SRCK250N20V — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
         },
@@ -135,7 +134,7 @@
             "https://cdn21vek.by/img/galleries/785/539/preview_b/gab419sqjl_lg_5c04db90dae64.jpeg"
           ],
           "availableAmount": 3,
-          "price": 999.00,
+          "price": 999.0,
           "rating": 4,
           "description": "Обзор Холодильник с морозильником LG GA-B491SJQL — быстрая заморозка не повреждает структуру продуктов, сохраняет их вкус, цвет и питательные свойства. При быстрой заморозке кристаллы льда в тканях образуются быстрее, равномернее и мельче по размеру. Эта функция особенно полезна для лучшего сохранения домашних заготовок."
         },
@@ -442,7 +441,7 @@
           ],
           "rating": 0,
           "availableAmount": 17,
-          "price": 2116,
+          "price": 2116.6,
           "description": "adipisicing proident cupidatat consequat amet duis irure sint ea ut consequat non ut cupidatat irure et ullamco duis esse proident quis consequat do ipsum nulla nulla laboris deserunt est laboris incididunt nulla sunt esse cillum aliqua cillum ullamco fugiat consequat"
         },
         {
@@ -519,7 +518,7 @@
             "https://cdn21vek.by/img/galleries/6150/169/preview_b/spv6hmx1mr_bosch_5f55bea86414b.png"
           ],
           "rating": 5,
-          "availableAmount": 18,
+          "availableAmount": 11,
           "price": 1372,
           "description": "incididunt qui consectetur amet ad excepteur ullamco exercitation consectetur non enim adipisicing qui esse minim ipsum reprehenderit ea aliquip non culpa sunt do fugiat esse cupidatat ipsum culpa reprehenderit irure eu qui aute est aliqua eiusmod ullamco officia ullamco in"
         },
@@ -674,7 +673,7 @@
             "https://cdn21vek.by/img/galleries/663/519/preview_b/rfsk266t21w_beko_5b7c1ad5a095e.jpeg"
           ],
           "rating": 2,
-          "availableAmount": 18,
+          "availableAmount": 11,
           "price": 2100,
           "description": "deserunt aliquip anim qui tempor amet nostrud laboris fugiat consequat ullamco eiusmod mollit tempor adipisicing sit aute commodo ullamco nulla nostrud magna pariatur tempor irure fugiat incididunt incididunt cillum commodo dolore proident ipsum eu Lorem commodo aliquip tempor occaecat laboris"
         },
@@ -978,7 +977,7 @@
           ],
           "rating": 2,
           "availableAmount": 12,
-          "price": 91.90,
+          "price": 91.9,
           "description": "adipisicing velit magna ipsum sint irure cillum esse laborum dolor aliqua incididunt ad nostrud ullamco duis qui aute ullamco duis ullamco non id cillum laborum commodo ullamco veniam nostrud voluptate dolore velit culpa dolor id esse sint veniam minim irure"
         },
         {
@@ -1004,7 +1003,7 @@
           ],
           "rating": 5,
           "availableAmount": 8,
-          "price": 97.90,
+          "price": 97.9,
           "description": "anim in et in ex eiusmod consequat pariatur nulla laboris aliqua nisi cillum ea cillum minim magna sit labore excepteur consequat dolore sint et velit ad mollit commodo anim nisi anim consequat anim anim qui non tempor aute laborum duis"
         },
         {
@@ -1017,7 +1016,7 @@
           ],
           "rating": 4,
           "availableAmount": 19,
-          "price": 29.90,
+          "price": 29.9,
           "description": "deserunt magna cupidatat do deserunt elit eu voluptate quis laboris nisi magna officia velit ullamco exercitation dolor laboris magna veniam ipsum magna velit consequat qui nostrud culpa dolor tempor voluptate aliquip magna aliqua eu ipsum voluptate et sint esse et"
         },
         {
@@ -1043,7 +1042,7 @@
           ],
           "rating": 2,
           "availableAmount": 19,
-          "price": 114.20,
+          "price": 114.2,
           "description": "nulla velit commodo do nulla excepteur laborum culpa ex quis velit Lorem Lorem pariatur ex proident amet consequat enim sit nulla veniam do ex do et non mollit culpa elit incididunt non esse adipisicing aliqua anim ipsum quis ex sit"
         }
       ],
@@ -1282,7 +1281,7 @@
           ],
           "rating": 4,
           "availableAmount": 9,
-          "price": 328.50,
+          "price": 328.5,
           "description": "aliqua sunt sit minim ipsum elit velit commodo qui in laborum aliqua elit consequat tempor dolor amet minim eiusmod consequat adipisicing cillum ullamco tempor adipisicing laboris consequat labore ex quis duis labore ex amet anim est do sunt officia commodo"
         },
         {
@@ -1295,7 +1294,7 @@
           ],
           "rating": 5,
           "availableAmount": 13,
-          "price": 400.00,
+          "price": 400.0,
           "description": "incididunt cupidatat quis Lorem ex occaecat aliquip laboris reprehenderit magna velit anim sint officia consectetur exercitation id duis occaecat veniam exercitation proident nulla nulla laboris laborum magna voluptate occaecat quis est dolore irure et laborum consequat sunt ipsum cupidatat in"
         },
         {
@@ -1306,7 +1305,7 @@
           ],
           "rating": 0,
           "availableAmount": 17,
-          "price": 225.50,
+          "price": 225.5,
           "description": "labore aliquip ad ullamco sint sunt Lorem magna aliqua tempor excepteur duis elit sunt exercitation est occaecat irure culpa dolor pariatur minim officia fugiat culpa est duis aute magna labore anim tempor ullamco tempor duis incididunt nisi nulla veniam ut"
         },
         {
@@ -1319,7 +1318,7 @@
           ],
           "rating": 0,
           "availableAmount": 14,
-          "price": 254.90,
+          "price": 254.9,
           "description": "consequat cupidatat amet id officia sit in adipisicing nostrud irure ipsum reprehenderit ad ex veniam ut tempor non ad laborum laborum nisi aliqua duis laboris qui elit non consequat labore ad nulla exercitation esse cillum consectetur laboris et Lorem tempor"
         },
         {
@@ -1333,7 +1332,7 @@
           ],
           "rating": 1,
           "availableAmount": 6,
-          "price": 279.00,
+          "price": 279.0,
           "description": "quis qui ipsum est Lorem amet ut non dolore proident occaecat laborum nisi laboris eiusmod laboris consequat ipsum officia adipisicing nostrud dolor duis velit dolor laborum eiusmod ea aliqua cupidatat labore quis voluptate mollit irure sit ullamco nulla veniam ullamco"
         },
         {
@@ -1346,7 +1345,7 @@
           ],
           "rating": 5,
           "availableAmount": 16,
-          "price": 255.00,
+          "price": 255.0,
           "description": "labore dolor nostrud sit aliqua elit quis consectetur nisi duis et ullamco ea sint nulla culpa voluptate esse voluptate elit fugiat in fugiat mollit id pariatur est officia sit dolore excepteur minim voluptate aliqua deserunt adipisicing sint reprehenderit incididunt ut"
         },
         {
@@ -1359,7 +1358,7 @@
           ],
           "rating": 3,
           "availableAmount": 9,
-          "price": 91.90,
+          "price": 91.9,
           "description": "ipsum officia elit enim mollit id velit esse cillum aliquip eu eu veniam sint magna sint exercitation est velit dolor dolor laboris consectetur qui aute non commodo ullamco excepteur est fugiat dolore labore sint qui nulla occaecat cillum deserunt sint"
         },
         {
@@ -1372,7 +1371,7 @@
           ],
           "rating": 0,
           "availableAmount": 16,
-          "price": 179.50,
+          "price": 179.5,
           "description": "laboris aute tempor sit sunt cupidatat mollit veniam magna nostrud veniam consequat voluptate commodo consectetur nulla duis ex velit nostrud aute elit culpa ad id eu amet anim in nulla do eiusmod est dolor sint cupidatat mollit culpa magna nulla"
         },
         {
@@ -1384,7 +1383,7 @@
           ],
           "rating": 3,
           "availableAmount": 14,
-          "price": 69.00,
+          "price": 69.0,
           "description": "enim magna ea occaecat anim veniam aute sunt Lorem occaecat irure non aute veniam irure nisi ad pariatur cillum ea veniam quis dolor deserunt ex ut irure laboris culpa nisi irure excepteur ut qui irure nostrud minim ipsum excepteur anim"
         },
         {
@@ -1397,7 +1396,7 @@
           ],
           "rating": 0,
           "availableAmount": 15,
-          "price": 74.00,
+          "price": 74.0,
           "description": "mollit amet minim dolor laboris ex eu ut irure magna culpa minim veniam nulla veniam fugiat aliquip elit qui cillum aliqua minim nostrud est sunt cillum est aute ad duis officia qui nisi et irure anim ex non incididunt commodo"
         },
         {
@@ -1410,7 +1409,7 @@
           ],
           "rating": 3,
           "availableAmount": 6,
-          "price": 259.70,
+          "price": 259.7,
           "description": "occaecat Lorem dolor laborum dolore velit cupidatat occaecat laborum mollit enim pariatur duis ullamco duis qui non nisi do cupidatat eu officia officia adipisicing nisi aliquip incididunt mollit quis magna est aliquip sit eu labore laboris voluptate eu enim do"
         }
       ],
@@ -1757,7 +1756,7 @@
           ],
           "rating": 3,
           "availableAmount": 10,
-          "price": 2229.00,
+          "price": 2229.0,
           "description": "cupidatat elit culpa consequat enim tempor sint occaecat aute est non ea in ullamco enim et ea amet non do sit do id do mollit mollit esse elit aliquip ullamco ullamco deserunt veniam id est esse pariatur ex excepteur velit"
         }
       ],
@@ -1971,16 +1970,1499 @@
           "description": "commodo tempor laboris exercitation voluptate ad enim nisi eiusmod enim ad laboris incididunt commodo cupidatat sunt sint fugiat dolore commodo id culpa ex excepteur id esse sunt laboris culpa pariatur fugiat veniam ex aute ipsum tempor irure velit Lorem pariatur"
         }
       ],
-      "tablets": [],
-      "ebooks": [],
-      "powerbanks": [],
-      "cameras": [],
-      "tvs": [],
-      "headphones": []
+      "tablets": [
+        {
+          "id": "612e8490f78a33cf839e4f1d",
+          "name": "Планшет Lenovo M10 Plus TB-X606F 10.3 IPS FHD 4G+64GGR-UA / ZA5T0080UA",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6115/998/preview_b/m10plustbx606f103ipsfhd4g64ggruaza5t0080ua_lenovo_5f312bda8a045.jpeg",
+            "https://cdn21vek.by/img/galleries/6115/998/preview_b/m10plustbx606f103ipsfhd4g64ggruaza5t0080ua_lenovo_5f312be53ebc5.jpeg",
+            "https://cdn21vek.by/img/galleries/6115/998/preview_b/m10plustbx606f103ipsfhd4g64ggruaza5t0080ua_lenovo_5f312be61acd9.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 9,
+          "price": 403.21,
+          "description": "do irure id incididunt consectetur fugiat eiusmod quis officia ad adipisicing enim cupidatat deserunt id consequat reprehenderit laborum adipisicing consequat quis do Lorem anim laboris ipsum nulla nulla velit Lorem minim ex esse incididunt laboris deserunt officia nulla pariatur nulla"
+        },
+        {
+          "id": "612e8490fdbc447e836ed40b",
+          "name": "Планшет Huawei MatePad T10 / AGR-L09",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6207/656/preview_b/matepadt10agrl09_huawei_5f8d3d69be8da.jpeg",
+            "https://cdn21vek.by/img/galleries/6207/656/preview_b/matepadt10agrl09_huawei_5f8d3d768dbaf.jpeg",
+            "https://cdn21vek.by/img/galleries/6207/656/preview_b/matepadt10agrl09_huawei_5f8d3d772b260.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 17,
+          "price": 903.41,
+          "description": "sit labore excepteur proident minim aliqua est in adipisicing et non commodo occaecat pariatur ipsum consequat ipsum adipisicing magna consectetur ea incididunt amet exercitation nostrud amet et laboris magna nisi sit est consectetur esse ea eu est laboris aliquip in"
+        },
+        {
+          "id": "612e849027f06f9425770ce5",
+          "name": "Планшет Prestigio Grace 4891 4G 10.1 / PMT4891_4G_E",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5980/750/preview_b/grace48914g101pmt48914ge_prestigio_5eb1320b3ca6e.jpeg",
+            "https://cdn21vek.by/img/galleries/5980/750/preview_b/grace48914g101pmt48914ge_prestigio_5eb13211c3ae1.jpeg",
+            "https://cdn21vek.by/img/galleries/5980/750/preview_b/grace48914g101pmt48914ge_prestigio_5eb13211dc50c.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 10,
+          "price": 426.95,
+          "description": "Lorem ut in sit dolor in eiusmod consectetur elit sunt duis dolor nostrud magna eu elit pariatur cupidatat ex anim Lorem exercitation in voluptate ex enim aliquip ipsum pariatur nisi sit laboris officia deserunt culpa officia adipisicing occaecat nisi aliquip"
+        },
+        {
+          "id": "612e849070e61f1b6ffd6504",
+          "name": "Планшет Prestigio SmartKids 3104 16GB / PMT3104_WI_D_EU",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6407/957/preview_b/smartkids332616gbpmt3104wideu_prestigio_603cc1fc9ef84.jpeg",
+            "https://cdn21vek.by/img/galleries/6407/957/preview_b/smartkids332616gbpmt3104wideu_prestigio_603cc2031c946.jpeg",
+            "https://cdn21vek.by/img/galleries/6407/957/preview_b/smartkids332616gbpmt3104wideu_prestigio_603cc203412ce.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 20,
+          "price": 953.4,
+          "description": "amet aliqua nostrud occaecat sunt velit consequat deserunt adipisicing cupidatat et labore laboris tempor ut do laborum sint consectetur sit non id fugiat nisi aliquip nisi incididunt et eu reprehenderit eu proident enim sit aliquip adipisicing in ad mollit ipsum"
+        },
+        {
+          "id": "612e8490690cf1b85ce45b77",
+          "name": "Планшет Lenovo Tab M10 TB-X306X 4GB/64GB LTE / ZA6V0046UA",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6312/301/preview_b/tabm10tbx306x4gb64gblteza6v0046ua_lenovo_5fe30ba1b173e.jpeg",
+            "https://cdn21vek.by/img/galleries/6312/301/preview_b/tabm10tbx306x4gb64gblteza6v0046ua_lenovo_5fe30bc4d9147.jpeg",
+            "https://cdn21vek.by/img/galleries/6312/301/preview_b/tabm10tbx306x4gb64gblteza6v0046ua_lenovo_5fe30bc67411c.jpeg",
+            "https://cdn21vek.by/img/galleries/6312/301/preview_b/tabm10tbx306x4gb64gblteza6v0046ua_lenovo_5fe30bcbb8492.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 6,
+          "price": 556.76,
+          "description": "incididunt ut sint id do aliqua non dolor sint Lorem veniam ea eiusmod non culpa consequat consequat veniam cupidatat sunt fugiat do occaecat commodo magna esse occaecat magna adipisicing anim enim quis cupidatat anim sunt adipisicing excepteur aliquip adipisicing amet"
+        },
+        {
+          "id": "612e849021a4f82ba01beeb5",
+          "name": "Планшет Prestigio Wize 4117 3G / PMT4117_3G_C (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5793/884/preview_b/wize41173gpmt41173gc_prestigio_5dd7c686bb070.png",
+            "https://cdn21vek.by/img/galleries/5793/884/preview_b/wize41173gpmt41173gc_prestigio_5dd7c687a5274.png",
+            "https://cdn21vek.by/img/galleries/5793/884/preview_b/wize41173gpmt41173gc_prestigio_5dd7c6885616d.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 20,
+          "price": 976.47,
+          "description": "ea non sit cillum pariatur non esse dolor aute nisi cupidatat dolore minim tempor aliqua sunt velit nulla do incididunt in velit minim sint elit proident culpa non commodo nulla anim ea in eiusmod est laboris sit sint occaecat dolor"
+        },
+        {
+          "id": "612e84906caaf458a76b92f2",
+          "name": "Планшет Apple iPad 10.2 2020 Wi-Fi 32GB / MYL92 (серый космос)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6172/767/preview_b/ipad102wifi32gbmyl92_apple_5f63375cb15fb.jpeg",
+            "https://cdn21vek.by/img/galleries/6172/767/preview_b/ipad102wifi32gbmyl92_apple_5f63376976ae3.jpeg",
+            "https://cdn21vek.by/img/galleries/6172/774/preview_b/ipad102wifi128gbmyld2_apple_5f6334f4ebab3.png"
+          ],
+          "rating": 0,
+          "availableAmount": 17,
+          "price": 789.72,
+          "description": "aute reprehenderit ad et anim proident ullamco reprehenderit irure proident nulla elit cillum dolore eu aliquip incididunt culpa irure cillum sunt aliqua excepteur pariatur nulla sint eiusmod ea eu commodo ullamco consequat tempor est cillum tempor exercitation mollit exercitation cupidatat"
+        },
+        {
+          "id": "612e84905f3d978b54a4a9a3",
+          "name": "Планшет Lenovo Tab M10 TB-X606X 4GB/128GB LTE / ZA5V0111UA",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6277/615/preview_b/tabm10tbx606x4gb128gbza5v0111ua_lenovo_5fc0c19d14433.png",
+            "https://cdn21vek.by/img/galleries/6277/615/preview_b/tabm10tbx606x4gb128gbza5v0111ua_lenovo_5fc0c1cf3b5a0.png",
+            "https://cdn21vek.by/img/galleries/6277/615/preview_b/tabm10tbx606x4gb128gbza5v0111ua_lenovo_5fc0c1d03dcb8.png"
+          ],
+          "rating": 1,
+          "availableAmount": 15,
+          "price": 457.75,
+          "description": "in sint adipisicing ea ullamco minim officia laboris pariatur id incididunt aliqua Lorem consequat est ipsum velit culpa sit exercitation commodo ut magna fugiat irure id exercitation occaecat ipsum aliqua occaecat do enim mollit adipisicing proident occaecat non do velit"
+        },
+        {
+          "id": "612e84904ae540ac1b58a6c7",
+          "name": "Планшет Samsung Galaxy Tab A7 64GB LTE / SM-T505NZAESER (темно-серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6185/27/preview_b/galaxytaba764gbltesmt505nzaeser_samsung_5f8d8510c38bd.jpeg",
+            "https://cdn21vek.by/img/galleries/6185/27/preview_b/galaxytaba764gbltesmt505nzaeser_samsung_5f8d858ea1922.jpeg",
+            "https://cdn21vek.by/img/galleries/6185/90/preview_b/galaxytaba732gbltesmt505nzdaser_samsung_5f76c6bcb3c10.png"
+          ],
+          "rating": 2,
+          "availableAmount": 17,
+          "price": 468.12,
+          "description": "aliqua aute ipsum quis non eiusmod excepteur ex sunt voluptate reprehenderit officia exercitation proident ad dolor reprehenderit dolore excepteur reprehenderit quis voluptate qui est ipsum est occaecat reprehenderit aliqua fugiat minim voluptate nisi nisi id occaecat pariatur magna nostrud dolore"
+        },
+        {
+          "id": "612e84900418bd04f7513063",
+          "name": "Планшет Samsung Galaxy Tab A7 64GB WiFi / SM-T500NZDESER (золото)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6185/32/preview_b/galaxytaba764gbwifismt500nzdeser_samsung_5f9b10e9c348f.jpeg",
+            "https://cdn21vek.by/img/galleries/6185/32/preview_b/galaxytaba764gbwifismt500nzdeser_samsung_5f9b10f3eb9dd.jpeg",
+            "https://cdn21vek.by/img/galleries/6185/32/preview_b/galaxytaba764gbwifismt500nzdeser_samsung_5f9b10f64a987.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 9,
+          "price": 964.41,
+          "description": "ipsum incididunt dolor adipisicing consectetur nulla do elit ut sunt in consequat Lorem commodo ex exercitation non proident enim eu ullamco eiusmod culpa exercitation Lorem reprehenderit amet sint do do sint sit voluptate mollit non nostrud exercitation tempor do deserunt"
+        },
+        {
+          "id": "612e849095c849059d7b3983",
+          "name": "Планшет Apple iPad Air 10.9 Wi-Fi 256GB / MYG02 (зеленый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6341/456/preview_b/ipadair109wifi256gbmyg02_apple_60251a5e61377.jpeg",
+            "https://cdn21vek.by/img/galleries/6341/456/preview_b/ipadair109wifi256gbmyg02_apple_60251a6583513.png",
+            "https://cdn21vek.by/img/galleries/6172/869/preview_b/ipadair109wifi64gbmyfr2_apple_5f633b37b62a6.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 13,
+          "price": 641.68,
+          "description": "adipisicing eiusmod occaecat amet culpa cillum laboris deserunt mollit incididunt voluptate aute nostrud do irure cillum consequat labore et laboris fugiat ad ipsum do dolor duis nisi reprehenderit dolor excepteur aliqua voluptate pariatur consequat eu ad id do laboris veniam"
+        },
+        {
+          "id": "612e84909d892e0034debe1c",
+          "name": "Планшет Prestigio Q Pro 8 4G 16GB / PMT4238_4G_D_RD (красный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6261/626/preview_b/qpro84g16gbpmt42384gdrd_prestigio_5fae86fea76eb.jpeg",
+            "https://cdn21vek.by/img/galleries/6261/626/preview_b/qpro84g16gbpmt42384gdrd_prestigio_5fae870596bf6.jpeg",
+            "https://cdn21vek.by/img/galleries/6261/626/preview_b/qpro84g16gbpmt42384gdrd_prestigio_5fae8706dc88b.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 14,
+          "price": 568.29,
+          "description": "anim dolore magna nisi veniam excepteur quis deserunt anim ullamco eiusmod occaecat dolor esse est sint mollit in mollit proident laboris reprehenderit minim aliquip cillum dolor culpa cillum nisi aute ea commodo voluptate sit esse anim minim mollit elit duis"
+        },
+        {
+          "id": "612e84906e3ea7699c581ac8",
+          "name": "Планшет Lenovo Yoga Smart Tab YT-X705F 3G+32G / ZA3V0019UA",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6163/267/preview_b/yogasmarttabytx705f3g32gza3v0019ua_lenovo_5f59d8a961e24.jpeg",
+            "https://cdn21vek.by/img/galleries/6163/267/preview_b/yogasmarttabytx705f3g32gza3v0019ua_lenovo_5f59d8b8bbfda.jpeg",
+            "https://cdn21vek.by/img/galleries/6163/267/preview_b/yogasmarttabytx705f3g32gza3v0019ua_lenovo_5f59d8ba6d8b7.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 13,
+          "price": 265.53,
+          "description": "ad commodo non eu consectetur consequat excepteur anim et velit ex nostrud sit elit excepteur laboris sit id proident deserunt ipsum non tempor laborum ea ad elit cupidatat fugiat cillum non non et sunt esse minim voluptate commodo commodo enim"
+        },
+        {
+          "id": "612e84904b6139dd597bf98c",
+          "name": "Планшет Apple iPad 10.2 Wi-Fi 32GB / MYLC2 (золото)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6172/772/preview_b/ipad102wifi32gbmylc2_apple_5f6336dec2d70.jpeg",
+            "https://cdn21vek.by/img/galleries/6172/772/preview_b/ipad102wifi32gbmylc2_apple_5f6336e9ccc8b.jpeg",
+            "https://cdn21vek.by/img/galleries/6172/772/preview_b/ipad102wifi32gbmylc2_apple_5f6336eca0f4e.png"
+          ],
+          "rating": 5,
+          "availableAmount": 19,
+          "price": 959.44,
+          "description": "ut nulla pariatur sint incididunt exercitation officia minim voluptate commodo anim non aliqua id qui consectetur cupidatat tempor deserunt incididunt incididunt culpa ad reprehenderit nostrud irure elit anim ea minim elit et consequat qui proident aute sint nulla aliqua ex"
+        }
+      ],
+      "ebooks": [
+        {
+          "id": "612e8c387ca4b10a58b33e3c",
+          "name": "Электронная книга PocketBook 740 Color / PB741-N-CIS (Moon Silver)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6458/540/preview_b/740colorpb741ncis_pocketbook_60649477245c6.png",
+            "https://cdn21vek.by/img/galleries/6458/540/preview_b/740colorpb741ncis_pocketbook_606494895a0a2.png",
+            "https://cdn21vek.by/img/galleries/6458/540/preview_b/740colorpb741ncis_pocketbook_6064948ea3826.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 16,
+          "price": 734.18,
+          "description": "ullamco sit cillum dolor cupidatat anim pariatur magna sint aliqua excepteur nostrud cupidatat dolor eu ut dolor ex ex labore occaecat esse amet elit fugiat adipisicing nulla proident ut exercitation ipsum exercitation nulla eu duis qui qui fugiat ea officia"
+        },
+        {
+          "id": "612e8c383ce06c61f154c6bc",
+          "name": "Электронная книга PocketBook 616 / PB616-H-CIS (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/670/827/preview_b/616pb616hcis_pocketbook_5b8010c51d77f.jpeg",
+            "https://cdn21vek.by/img/galleries/670/827/preview_b/616pb616hcis_pocketbook_5b8010c82022e.jpeg",
+            "https://cdn21vek.by/img/galleries/670/827/preview_b/616pb616hcis_pocketbook_5b8010cfa7c5d.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 5,
+          "price": 783.79,
+          "description": "in magna Lorem laboris dolore culpa cillum eiusmod ipsum nulla irure deserunt Lorem voluptate exercitation deserunt cupidatat anim nisi Lorem cillum nisi culpa id consectetur adipisicing tempor Lorem cupidatat nostrud adipisicing ea ex excepteur cupidatat ut mollit eiusmod esse dolor"
+        },
+        {
+          "id": "612e8c388079cd9692407290",
+          "name": "Электронная книга PocketBook Basic 3 / PB614-2-D-CIS (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/503/504/preview_b/basic3pb6142dcis_pocketbook_5a151d125f437.jpeg",
+            "https://cdn21vek.by/img/galleries/503/504/preview_b/basic3pb6142dcis_pocketbook_5a151d11cf6a5.jpeg",
+            "https://cdn21vek.by/img/galleries/503/504/preview_b/basic3pb6142dcis_pocketbook_5a151d1215baa.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 19,
+          "price": 383.16,
+          "description": "Lorem anim laborum labore amet consequat laborum laborum occaecat incididunt ut ipsum sit enim in commodo sint in proident sint ad nostrud Lorem ut occaecat sit aute nostrud aliquip ad veniam sunt voluptate ipsum Lorem ullamco qui laborum sunt voluptate"
+        },
+        {
+          "id": "612e8c388752d048001ebbff",
+          "name": "Электронная книга Amazon Kindle 2019 (8Gb, белый)",
+          "imageUrls": ["", "", ""],
+          "rating": 5,
+          "availableAmount": 12,
+          "price": 514.71,
+          "description": "est in consectetur occaecat voluptate laboris do esse sunt do exercitation culpa quis in labore nisi Lorem consequat eu ut enim nisi proident excepteur in reprehenderit culpa mollit dolor magna anim occaecat cillum aute non dolor aliquip labore in aliqua"
+        },
+        {
+          "id": "612e8c3837d21885179baf60",
+          "name": "",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6056/87/preview_b/kindle2019_amazon_01_5efb1d6e81a13.jpeg",
+            "https://cdn21vek.by/img/galleries/6056/87/preview_b/kindle2019_amazon_01_5efb1d70a316b.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 15,
+          "price": 697.41,
+          "description": "occaecat tempor mollit ullamco mollit ut ad est aliqua tempor dolor ullamco esse eu tempor id excepteur ea magna Lorem eu voluptate nisi duis exercitation nisi consectetur ullamco quis voluptate exercitation culpa sint fugiat magna ipsum cupidatat nisi ex nostrud"
+        },
+        {
+          "id": "612e8c38ee7fbc2e6cbbd92f",
+          "name": "Электронная книга Amazon Kindle 2019 (8Gb, черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6056/86/preview_b/kindle2019_amazon_5efb1baf8e41a.jpeg",
+            "https://cdn21vek.by/img/galleries/6056/86/preview_b/kindle2019_amazon_5efb1bb8551f3.jpeg",
+            "https://cdn21vek.by/img/galleries/6056/86/preview_b/kindle2019_amazon_5efb1bb8ce3b1.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 11,
+          "price": 527.35,
+          "description": "est sit amet quis duis eu minim adipisicing excepteur fugiat pariatur nostrud qui nulla minim id consequat occaecat irure nisi sunt nisi incididunt et cillum consectetur consectetur cupidatat proident occaecat sint et enim veniam in deserunt nostrud incididunt qui dolor"
+        },
+        {
+          "id": "612e8c388935311e3f5714c0",
+          "name": "Электронная книга Digma E60C (коричневый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6174/125/preview_b/e60c_digma_5f6c4a54ea181.jpeg",
+            "https://cdn21vek.by/img/galleries/6174/125/preview_b/e60c_digma_5f6c4a5ce8bbe.jpeg",
+            "https://cdn21vek.by/img/galleries/6174/125/preview_b/e60c_digma_5f6c4a5d56163.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 8,
+          "price": 656.59,
+          "description": "veniam veniam commodo elit ad aute dolor eiusmod esse sint nostrud ut qui occaecat veniam quis duis ea adipisicing ex irure eu duis ad adipisicing ipsum fugiat elit dolor sint non tempor incididunt irure veniam velit consequat irure ea sunt"
+        },
+        {
+          "id": "612e8c38f5057334542f825d",
+          "name": "Электронная книга Onyx Boox Caesar 4 (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5986/331/preview_b/booxcaesar4_onyx_5eb928f7d557b.jpeg",
+            "https://cdn21vek.by/img/galleries/5986/331/preview_b/booxcaesar4_onyx_5eb928fb3a39f.jpeg",
+            "https://cdn21vek.by/img/galleries/5986/331/preview_b/booxcaesar4_onyx_5eb928fb6559c.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 11,
+          "price": 626.09,
+          "description": "aliquip cillum ullamco eiusmod fugiat labore in magna amet aliqua dolore tempor pariatur voluptate proident exercitation officia eu et labore laboris qui exercitation veniam cillum est qui in in consectetur sit tempor commodo proident elit ipsum irure ex reprehenderit mollit"
+        },
+        {
+          "id": "612e8c38a0a5eb8389ca2705",
+          "name": "Электронная книга PocketBook 633 Color / PB633-N-CIS",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6131/420/preview_b/633colorpb633ncis_pocketbook_601d1947576a6.jpeg",
+            "https://cdn21vek.by/img/galleries/6131/420/preview_b/633colorpb633ncis_pocketbook_601d194b50a61.jpeg",
+            "https://cdn21vek.by/img/galleries/6131/420/preview_b/633colorpb633ncis_pocketbook_601d194e4f82d.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 7,
+          "price": 380.78,
+          "description": "ex aute velit nisi labore magna irure occaecat tempor enim excepteur esse ipsum irure ullamco ad ut nostrud do sint occaecat ea occaecat minim sint consequat sunt deserunt deserunt irure id deserunt exercitation sint commodo qui ullamco commodo dolore labore"
+        },
+        {
+          "id": "612e8c38018ca8ec5a446b78",
+          "name": "Электронная книга Amazon Kindle Paperwhite (8Gb, слива)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6400/69/preview_b/kindlepaperwhite_amazon_06_6033d351d0ce6.jpeg",
+            "https://cdn21vek.by/img/galleries/6400/69/preview_b/kindlepaperwhite_amazon_06_6033d36118804.jpeg",
+            "https://cdn21vek.by/img/galleries/6400/69/preview_b/kindlepaperwhite_amazon_06_6033d362784f3.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 11,
+          "price": 564.33,
+          "description": "dolor do minim non culpa eu sunt deserunt non amet quis nisi laboris nostrud nulla enim duis incididunt ad ullamco sit consequat laborum culpa labore cupidatat exercitation irure culpa reprehenderit culpa Lorem deserunt veniam consequat aute officia nulla ipsum sint"
+        },
+        {
+          "id": "612e8c388d5cc95ce5858dc7",
+          "name": "Электронная книга Onyx Boox Faust 2",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6340/461/preview_b/booxfaust2_onyx_602512daa49b0.jpeg",
+            "https://cdn21vek.by/img/galleries/6340/461/preview_b/booxfaust2_onyx_602512e944810.jpeg",
+            "https://cdn21vek.by/img/galleries/6340/461/preview_b/booxfaust2_onyx_602512ea265d7.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 12,
+          "price": 635.33,
+          "description": "consequat minim esse dolor sint enim nisi laborum nulla quis anim non nisi esse deserunt duis enim dolore officia exercitation ipsum reprehenderit aliqua fugiat ea enim nulla elit quis ex in reprehenderit commodo incididunt et do aliqua quis eiusmod dolor"
+        },
+        {
+          "id": "612e8c38c955998c25ea6a28",
+          "name": "Электронная книга PocketBook 616 / PB616-S-CIS (серебристый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/817/957/preview_b/616pb616scis_pocketbook_5c34ad5cd0639.jpeg",
+            "https://cdn21vek.by/img/galleries/817/957/preview_b/616pb616scis_pocketbook_5c34ad6b7af50.jpeg",
+            "https://cdn21vek.by/img/galleries/817/957/preview_b/616pb616scis_pocketbook_5c34ad6bbb898.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 10,
+          "price": 825.47,
+          "description": "aute dolore culpa sunt occaecat consequat anim elit voluptate id elit quis voluptate culpa Lorem quis amet commodo et adipisicing consectetur enim eiusmod tempor commodo velit excepteur ex excepteur adipisicing excepteur labore irure sint reprehenderit eu cupidatat voluptate ex in"
+        },
+        {
+          "id": "612e8c3874d52b75c5bde820",
+          "name": "Электронная книга Amazon Kindle Paperwhite 2018 8GB (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5847/290/preview_b/kindlepaperwhite20188gb_amazon_5e188158e7220.jpeg",
+            "https://cdn21vek.by/img/galleries/5847/290/preview_b/kindlepaperwhite20188gb_amazon_5e18816b41f2e.jpeg",
+            "https://cdn21vek.by/img/galleries/5847/290/preview_b/kindlepaperwhite20188gb_amazon_5e18816b8011c.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 17,
+          "price": 569.7,
+          "description": "incididunt ut reprehenderit exercitation velit amet aliqua pariatur anim amet Lorem enim eiusmod ea aute sit voluptate eiusmod fugiat Lorem culpa consequat do ad dolore velit mollit enim ex dolore elit culpa aute laborum magna proident sint ex dolor ut"
+        },
+        {
+          "id": "612e8c387152abcd0b4fc4cd",
+          "name": "Электронная книга Onyx Boox Note 3 (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6329/340/preview_b/booxnote3_onyx_6001a46bedd27.jpeg",
+            "https://cdn21vek.by/img/galleries/6329/340/preview_b/booxnote3_onyx_6001a46c88cc5.jpeg",
+            "https://cdn21vek.by/img/galleries/6329/340/preview_b/booxnote3_onyx_6001a46c2cb09.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 16,
+          "price": 820.68,
+          "description": "incididunt sint sint ut nostrud nulla incididunt minim id quis est quis fugiat enim tempor dolor id elit et anim do non exercitation ad minim aute sunt labore voluptate incididunt officia labore ex consequat enim deserunt labore exercitation anim tempor"
+        },
+        {
+          "id": "612e8c3822e970af2b52697e",
+          "name": "Электронная книга PocketBook 606 / PB606-E-CIS (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6585/243/preview_b/606pb606ecis_pocketbook_60decbb19c6d1.jpeg",
+            "https://cdn21vek.by/img/galleries/6585/243/preview_b/606pb606ecis_pocketbook_60decbbc9fddf.jpeg",
+            "https://cdn21vek.by/img/galleries/6585/243/preview_b/606pb606ecis_pocketbook_60decbc15b57d.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 19,
+          "price": 464.03,
+          "description": "laborum eiusmod dolore aliquip ea anim labore aliqua tempor minim Lorem nulla ullamco eiusmod sit adipisicing eiusmod duis amet dolor commodo mollit labore sint exercitation nisi enim ut irure veniam eu minim consequat sit minim aute reprehenderit ut consequat amet"
+        }
+      ],
+      "powerbanks": [
+        {
+          "id": "612e92b25b83c50464c0f8b5",
+          "name": "Портативное зарядное устройство Xiaomi Redmi Powerbank 20000mAh / VXN4285GL (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5845/527/preview_b/redmipowerbank20000mahvxn4285gl_xiaomi_5e1701051ffe7.jpeg",
+            "https://cdn21vek.by/img/galleries/5845/527/preview_b/redmipowerbank20000mahvxn4285gl_xiaomi_5e170109f1f9c.jpeg",
+            "https://cdn21vek.by/img/galleries/5845/527/preview_b/redmipowerbank20000mahvxn4285gl_xiaomi_5e17010a0b292.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 6,
+          "price": 31.55,
+          "description": "cupidatat nostrud adipisicing Lorem enim incididunt et nisi sint laborum exercitation laboris sunt sint velit ullamco commodo eiusmod nisi incididunt ad deserunt non exercitation ut nisi ex nisi reprehenderit eiusmod ex commodo qui laboris esse anim minim ad exercitation non"
+        },
+        {
+          "id": "612e92b292e8d04814f44d74",
+          "name": "Портативное зарядное устройство Xiaomi Redmi Powerbank 10000mAh / VXN4286GL (белый, с кабелем)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5913/116/preview_b/redmipowerbank10000mahvxn4286gl_xiaomi_5e68afb73bebb.jpeg",
+            "https://cdn21vek.by/img/galleries/5913/116/preview_b/redmipowerbank10000mahvxn4286gl_xiaomi_5e68afbd650d7.jpeg",
+            "https://cdn21vek.by/img/galleries/5913/116/preview_b/redmipowerbank10000mahvxn4286gl_xiaomi_5e68afbd933f2.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 12,
+          "price": 62.4,
+          "description": "dolor exercitation aliquip labore consectetur irure reprehenderit commodo deserunt adipisicing do quis voluptate veniam tempor esse eiusmod exercitation pariatur velit ut veniam cillum pariatur est ea sint est deserunt deserunt commodo exercitation id est ad elit do irure cillum laboris"
+        },
+        {
+          "id": "612e92b22408231db631f0da",
+          "name": "Портативное зарядное устройство Xiaomi Mi Power Bank 3 10000mAh / VXN4274GL (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5870/623/preview_b/mipowerbank310000mahvxn4274gl_xiaomi_5f193b511e661.jpeg",
+            "https://cdn21vek.by/img/galleries/5870/623/preview_b/mipowerbank310000mahvxn4274gl_xiaomi_5f193b583028c.jpeg",
+            "https://cdn21vek.by/img/galleries/5870/623/preview_b/mipowerbank310000mahvxn4274gl_xiaomi_5f193b5c8384f.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 19,
+          "price": 43.91,
+          "description": "aliqua pariatur amet consectetur eu laborum est consequat in laborum nisi dolore anim eiusmod do nulla quis ex eiusmod culpa exercitation dolore ipsum veniam cillum nulla proident ullamco aliqua dolor dolore magna sunt dolor sit cillum ad cillum voluptate irure"
+        },
+        {
+          "id": "612e92b2d35930c90eeb4736",
+          "name": "Портативное зарядное устройство Xiaomi Redmi Power Bank 10000mAh / VXN4305GL (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5967/968/preview_b/redmipowerbank10000mahvxn4305gl_xiaomi_5ecfd0ccda9a0.jpeg",
+            "https://cdn21vek.by/img/galleries/5967/968/preview_b/redmipowerbank10000mahvxn4305gl_xiaomi_5ecfd1469cf93.jpeg",
+            "https://cdn21vek.by/img/galleries/5967/968/preview_b/redmipowerbank10000mahvxn4305gl_xiaomi_5ecfd146af1c7.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 5,
+          "price": 44.31,
+          "description": "esse incididunt veniam laborum Lorem occaecat aliquip quis proident velit labore fugiat pariatur adipisicing in laborum non in laborum quis excepteur ex tempor eu ex enim consectetur sint nisi sunt et elit nulla exercitation amet aliqua magna in labore sint"
+        },
+        {
+          "id": "612e92b2e1fd394ca2b55b68",
+          "name": "Портативное зарядное устройство Xiaomi Mi Power Bank 2 5000mAh VXN4226CN / VXN4236GL (серебристый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/622/798/preview_b/mipowerbank25000mahvxn4226cn_xiaomi_5b3291f70e482.jpeg",
+            "https://cdn21vek.by/img/galleries/622/798/preview_b/mipowerbank25000mahvxn4226cn_xiaomi_5b32920600796.jpeg",
+            "https://cdn21vek.by/img/galleries/622/798/preview_b/mipowerbank25000mahvxn4226cn_xiaomi_5b3292066e70a.jpeg",
+            "https://cdn21vek.by/img/galleries/622/798/preview_b/mipowerbank25000mahvxn4226cn_xiaomi_5b3292073ce74.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 14,
+          "price": 84.51,
+          "description": "consequat sunt duis voluptate do nulla eiusmod eiusmod minim et labore laborum excepteur dolore ad fugiat ea adipisicing sunt aliqua commodo consectetur minim ex ut reprehenderit adipisicing ut dolor proident ut cupidatat ad irure sunt ea do anim ut id"
+        },
+        {
+          "id": "612e92b2eb247e85b07f8f94",
+          "name": "Портативное зарядное устройство Canyon CNE-CPBP10B (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5895/969/preview_b/cnecpbp10b_canyon_5e4650dfad5b5.png",
+            "https://cdn21vek.by/img/galleries/5895/969/preview_b/cnecpbp10b_canyon_5e4650eb83eef.png",
+            "https://cdn21vek.by/img/galleries/5895/969/preview_b/cnecpbp10b_canyon_5e4650ec13c87.png"
+          ],
+          "rating": 1,
+          "availableAmount": 13,
+          "price": 85.99,
+          "description": "commodo proident est reprehenderit sint irure magna sunt esse ipsum do pariatur cillum et do ut dolore minim velit deserunt dolore enim aliqua esse officia fugiat dolore ex cupidatat occaecat enim cupidatat proident exercitation proident culpa pariatur anim quis pariatur"
+        },
+        {
+          "id": "612e92b2b25e58232af8ece2",
+          "name": "Портативное зарядное устройство Canyon CNE-CPBP20W (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5970/548/preview_b/cnecpbp20w_canyon_5eb404aedeb05.png",
+            "https://cdn21vek.by/img/galleries/5970/548/preview_b/cnecpbp20w_canyon_5eb404b8d14c8.png"
+          ],
+          "rating": 4,
+          "availableAmount": 20,
+          "price": 70.42,
+          "description": "minim ex mollit labore nisi deserunt cupidatat nisi excepteur ad nisi elit proident officia magna aute eiusmod eiusmod non tempor sit exercitation elit laborum ex aliquip veniam ad do enim deserunt minim aliquip aliquip consequat est qui ut ex et"
+        },
+        {
+          "id": "612e92b2e759380cada29abd",
+          "name": "Портативное зарядное устройство Ritmix RPB-10007 Paint",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5791/762/preview_b/rpb10007paint_ritmix_5ddd0e3577ff5.png",
+            "https://cdn21vek.by/img/galleries/5791/762/preview_b/rpb10007paint_ritmix_5ddd0e3a69d29.png"
+          ],
+          "rating": 0,
+          "availableAmount": 16,
+          "price": 82.1,
+          "description": "do veniam culpa reprehenderit officia labore ipsum eiusmod laborum est commodo reprehenderit commodo nulla voluptate velit excepteur ullamco culpa do exercitation nulla culpa in mollit amet elit ullamco fugiat dolor dolore enim duis culpa cillum sit quis fugiat voluptate id"
+        },
+        {
+          "id": "612e92b231a24341efaf1753",
+          "name": "Портативное зарядное устройство Canyon CNE-CPBP20B (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5927/796/preview_b/cnecpbp20b_canyon_5e67c03ba65c3.png",
+            "https://cdn21vek.by/img/galleries/5927/796/preview_b/cnecpbp20b_canyon_5e67c0461fbd3.png",
+            "https://cdn21vek.by/img/galleries/5927/796/preview_b/cnecpbp20b_canyon_5e67c0468def3.png"
+          ],
+          "rating": 4,
+          "availableAmount": 9,
+          "price": 68.23,
+          "description": "elit et enim labore incididunt et et nulla ullamco non ea qui mollit culpa tempor voluptate ipsum non sunt Lorem reprehenderit reprehenderit qui dolor cupidatat consequat exercitation excepteur dolore ullamco veniam excepteur aliquip elit quis velit consectetur velit ipsum dolor"
+        },
+        {
+          "id": "612e92b298ab3b13c232a9eb",
+          "name": "Портативное зарядное устройство Ritmix RPB-10005 (Black/Indigo)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5719/667/preview_b/rpb10005_ritmix_01_5dc400bac08be.jpeg",
+            "https://cdn21vek.by/img/galleries/5719/667/preview_b/rpb10005_ritmix_01_5dc400c4c6ea3.jpeg",
+            "https://cdn21vek.by/img/galleries/5719/667/preview_b/rpb10005_ritmix_01_5dc400c4d74de.png"
+          ],
+          "rating": 5,
+          "availableAmount": 18,
+          "price": 31.87,
+          "description": "aliquip non dolor dolore eiusmod aute eiusmod laboris excepteur ipsum occaecat reprehenderit mollit amet consectetur excepteur quis cillum occaecat consectetur voluptate labore esse do laboris adipisicing nulla exercitation enim qui cupidatat nulla irure incididunt id Lorem aliquip mollit enim cupidatat"
+        },
+        {
+          "id": "612e92b2448fae88beee621d",
+          "name": "Портативное зарядное устройство Prestigio Graphene Fast Charging / PPB121G-SG",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6291/191/preview_b/graphenefastchargingpowerbankppb121gsg_prestigio_5ff4455c4383b.jpeg",
+            "https://cdn21vek.by/img/galleries/6291/191/preview_b/graphenefastchargingpowerbankppb121gsg_prestigio_5ff445619ecb7.jpeg",
+            "https://cdn21vek.by/img/galleries/6291/191/preview_b/graphenefastchargingpowerbankppb121gsg_prestigio_600587c436135.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 9,
+          "price": 86.22,
+          "description": "exercitation ex esse incididunt ea ea ipsum laboris et enim irure elit officia dolore occaecat labore Lorem officia est ad proident esse adipisicing id nisi aute commodo in sit fugiat proident et sint Lorem esse dolore in incididunt mollit culpa"
+        },
+        {
+          "id": "612e92b2c8871c466a9a1eb6",
+          "name": "Портативное зарядное устройство ZMI QB822 20000mAh / ZMKQB822CNQS",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5892/622/preview_b/qb82220000mahzmkqb822cnqs_zmi_5e42da30412b4.jpeg",
+            "https://cdn21vek.by/img/galleries/5892/622/preview_b/qb82220000mahzmkqb822cnqs_zmi_5e42da3498c74.jpeg",
+            "https://cdn21vek.by/img/galleries/5892/622/preview_b/qb82220000mahzmkqb822cnqs_zmi_5e42da34e875a.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 7,
+          "price": 34.02,
+          "description": "dolor reprehenderit ullamco pariatur duis aliqua tempor laboris incididunt ad aute laboris in velit pariatur ipsum est occaecat ut adipisicing est enim exercitation cupidatat id laboris excepteur nisi cillum officia pariatur sunt qui dolore eu esse reprehenderit laboris ipsum irure"
+        }
+      ],
+      "cameras": [
+        {
+          "id": "612fca7233f999f9f3d671e8",
+          "name": "Видеокамера Sony ZV-1 Kit Lite / ZV1KIT1DN.YC",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6250/366/preview_b/zv1zv1kit1dnyc_sony_60ded148ec3df.jpeg",
+            "https://cdn21vek.by/img/galleries/6250/366/preview_b/zv1zv1kit1dnyc_sony_60ded14834261.jpeg",
+            "https://cdn21vek.by/img/galleries/6250/366/preview_b/zv1zv1kit1dnyc_sony_60ded25424206.jpeg"
+          ],
+          "rating": 4,
+          "price": 2997.26,
+          "availableAmount": 7,
+          "description": "ad et velit id pariatur tempor ea esse veniam cillum tempor aliquip qui non eu minim quis ea non esse cillum exercitation enim ex sit pariatur mollit fugiat do consequat quis duis aliquip eiusmod aliquip culpa id irure duis veniam"
+        },
+        {
+          "id": "612fca7253f271efba615f6f",
+          "name": "Видеокамера Sony FDRAX700B.CEE",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/739/245/preview_b/fdrax700bcee_sony_5c763f4fc0d25.jpeg",
+            "https://cdn21vek.by/img/galleries/739/245/preview_b/fdrax700bcee_sony_5c763f500c5ef.jpeg",
+            "https://cdn21vek.by/img/galleries/739/245/preview_b/fdrax700bcee_sony_5c763f50913de.jpeg"
+          ],
+          "rating": 3,
+          "price": 2875.67,
+          "availableAmount": 10,
+          "description": "magna cillum labore sunt anim pariatur minim proident irure cillum tempor consequat amet occaecat eiusmod veniam voluptate anim sint officia id id qui ut adipisicing aliquip tempor deserunt qui ea id Lorem anim eiusmod consectetur commodo elit excepteur ipsum Lorem"
+        },
+        {
+          "id": "612fca72b30a4da2267182c2",
+          "name": "Видеокамера Sony ZV-1 Kit Pro / ZV1KIT2DN.YC",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6250/369/preview_b/zv1zv1kit2dnyc_sony_60ded1c8dad18.jpeg",
+            "https://cdn21vek.by/img/galleries/6250/369/preview_b/zv1zv1kit2dnyc_sony_60dd7cdd758f2.jpeg",
+            "https://cdn21vek.by/img/galleries/6250/369/preview_b/zv1zv1kit2dnyc_sony_60dd7cddb4d70.jpeg"
+          ],
+          "rating": 4,
+          "price": 2081.82,
+          "availableAmount": 11,
+          "description": "aliquip deserunt aliqua aute magna do sit consequat fugiat ea magna ut incididunt enim qui Lorem aliqua enim ea quis in quis esse mollit sint duis deserunt nulla sit cillum esse dolore non eiusmod nulla adipisicing aliquip eu aliquip incididunt"
+        },
+        {
+          "id": "612fca7237ba93b39964de64",
+          "name": "Видеокамера Sony ZV-1 / ZV1W.CE3",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6275/394/preview_b/zv1zv1wce3_sony_5fbe0ee7881a0.jpeg",
+            "https://cdn21vek.by/img/galleries/6275/394/preview_b/zv1zv1wce3_sony_5fbe0eec8593b.jpeg",
+            "https://cdn21vek.by/img/galleries/6275/394/preview_b/zv1zv1wce3_sony_5fbe0eecead35.jpeg",
+            "https://cdn21vek.by/img/galleries/6275/394/preview_b/zv1zv1wce3_sony_5fbe0eed2fc78.jpeg",
+            "https://cdn21vek.by/img/galleries/6275/394/preview_b/zv1zv1wce3_sony_5fbe1382be2aa.jpeg",
+            "https://cdn21vek.by/img/galleries/6275/394/preview_b/zv1zv1wce3_sony_5fbe1383c0ba3.jpeg"
+          ],
+          "rating": 5,
+          "price": 2767.1,
+          "availableAmount": 3,
+          "description": "duis ipsum cupidatat fugiat non occaecat duis magna et sint qui enim cupidatat duis ad id consequat sint in ipsum nulla anim nisi qui cillum aliqua occaecat magna mollit Lorem Lorem aute et exercitation anim ea consequat consectetur eiusmod pariatur"
+        }
+      ],
+      "tvs": [
+        {
+          "id": "612fcd83023a93dd7a6a21a6",
+          "name": "Телевизор LG OLED88Z19LA",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6473/214/preview_b/oled88z19la_lg_6093d85acca10.jpeg",
+            "https://cdn21vek.by/img/galleries/6473/214/preview_b/oled88z19la_lg_6093d866dba33.jpeg",
+            "https://cdn21vek.by/img/galleries/6473/214/preview_b/oled88z19la_lg_6093d866411e6.jpeg",
+            "https://cdn21vek.by/img/galleries/6473/214/preview_b/oled88z19la_lg_6093d8642f652.jpeg"
+          ],
+          "rating": 1,
+          "price": 2420.7,
+          "availableAmount": 18,
+          "description": "aliqua voluptate id occaecat incididunt labore ipsum aute pariatur sint occaecat eiusmod labore officia nostrud occaecat adipisicing elit laborum consectetur id laborum nisi officia excepteur officia nulla qui esse adipisicing tempor anim duis ad irure est est esse excepteur veniam"
+        },
+        {
+          "id": "612fcd830167df6c40f34803",
+          "name": "Телевизор Samsung QE85QN900AUXRU",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6487/900/preview_b/qe85qn900auxru_samsung_6086f6ac3bdd7.png",
+            "https://cdn21vek.by/img/galleries/6488/93/preview_b/qe65qn900auxru_samsung_6086f00dd20f5.png",
+            "https://cdn21vek.by/img/galleries/6488/93/preview_b/qe65qn900auxru_samsung_6086f0aedea48.jpeg",
+            "https://cdn21vek.by/img/galleries/6488/93/preview_b/qe65qn900auxru_samsung_6086f0b2303e3.png"
+          ],
+          "rating": 0,
+          "price": 3526.2,
+          "availableAmount": 11,
+          "description": "anim minim quis adipisicing do cupidatat labore cillum duis qui reprehenderit cillum amet officia proident tempor adipisicing amet officia ad eu consequat do dolor in ea irure duis esse adipisicing et non et labore magna excepteur culpa est excepteur tempor"
+        },
+        {
+          "id": "612fcd836259d6b455214ba9",
+          "name": "Телевизор LG 86QNED996PB",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6653/256/preview_b/86qned996pb_lg_60e2ec32e4c12.jpeg",
+            "https://cdn21vek.by/img/galleries/6653/253/preview_b/75qned996pb_lg_60e2e8a74475c.jpeg",
+            "https://cdn21vek.by/img/galleries/6653/253/preview_b/75qned996pb_lg_60e2e8a644c61.jpeg"
+          ],
+          "rating": 0,
+          "price": 2034.63,
+          "availableAmount": 11,
+          "description": "Lorem ut adipisicing occaecat sit incididunt eiusmod velit consequat amet Lorem exercitation elit cupidatat do esse consequat et nulla et sit est do do in irure nostrud mollit occaecat duis do labore deserunt non aliquip exercitation esse tempor non cillum"
+        },
+        {
+          "id": "612fcd83af4ce4f1d502601d",
+          "name": "Телевизор Samsung QE75QN900AUXRU",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6488/93/preview_b/qe65qn900auxru_samsung_6086f00dd20f5.png",
+            "https://cdn21vek.by/img/galleries/6488/93/preview_b/qe65qn900auxru_samsung_6086f0b0d112f.png",
+            "https://cdn21vek.by/img/galleries/6488/93/preview_b/qe65qn900auxru_samsung_6086f0b2303e3.png"
+          ],
+          "rating": 4,
+          "price": 1296.44,
+          "availableAmount": 18,
+          "description": "incididunt anim ex eu deserunt consectetur aliqua nostrud aute aliqua voluptate tempor pariatur incididunt eu qui consequat excepteur sit velit est consequat nisi labore cupidatat ipsum exercitation exercitation et tempor eu incididunt culpa culpa aliquip sunt ullamco ex magna consequat"
+        },
+        {
+          "id": "612fcd83316f1ae7ae096e77",
+          "name": "Телевизор LG OLED77G1RLA",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6473/211/preview_b/oled77g1rla_lg_6093e15b5b3ed.jpeg",
+            "https://cdn21vek.by/img/galleries/6473/211/preview_b/oled77g1rla_lg_6093e1ee67b8b.png",
+            "https://cdn21vek.by/img/galleries/6473/211/preview_b/oled77g1rla_lg_6093e1edcbbf5.png",
+            "https://cdn21vek.by/img/galleries/6473/211/preview_b/oled77g1rla_lg_6093e5096fbfe.jpeg"
+          ],
+          "rating": 1,
+          "price": 4991.59,
+          "availableAmount": 11,
+          "description": "culpa eu nulla officia proident veniam fugiat laboris minim ut quis non sunt tempor esse Lorem ipsum esse dolore commodo amet aute do in et qui eu et aliqua labore ea sunt in nostrud duis aliqua elit tempor labore veniam"
+        },
+        {
+          "id": "612fcd83edb42a61b13e2754",
+          "name": "Телевизор Samsung QE75LST7TAUXRU",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6487/956/preview_b/qe75lst7tauxru_samsung_607d8b47cb0bf.jpeg",
+            "https://cdn21vek.by/img/galleries/6488/135/preview_b/qe55lst7tauxru_samsung_607d85915f145.png",
+            "https://cdn21vek.by/img/galleries/6488/135/preview_b/qe55lst7tauxru_samsung_607d8593833fa.png"
+          ],
+          "rating": 4,
+          "price": 4990.4,
+          "availableAmount": 11,
+          "description": "nostrud enim id officia pariatur consectetur nulla cupidatat do mollit exercitation veniam nostrud qui occaecat officia culpa minim incididunt qui reprehenderit aliqua duis sunt id pariatur eiusmod laborum deserunt eu reprehenderit duis mollit ipsum dolore veniam amet labore excepteur ullamco"
+        },
+        {
+          "id": "612fcd836e899062a4bfb2ed",
+          "name": "Телевизор LG 86NANO996PB",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6519/596/preview_b/86nano996pb_lg_60d2f9f7e7dc4.jpeg",
+            "https://cdn21vek.by/img/galleries/6519/596/preview_b/86nano996pb_lg_60d2fa03a517b.jpeg",
+            "https://cdn21vek.by/img/galleries/6519/596/preview_b/86nano996pb_lg_60d2fa0358ff1.jpeg",
+            "https://cdn21vek.by/img/galleries/6519/596/preview_b/86nano996pb_lg_60d2fa04b98ef.jpeg"
+          ],
+          "rating": 5,
+          "price": 3487.3,
+          "availableAmount": 18,
+          "description": "incididunt sit eiusmod deserunt irure officia ex aliquip proident ex labore consectetur aliquip id amet qui eu dolore exercitation ipsum eiusmod reprehenderit consectetur Lorem irure fugiat reprehenderit do aute cillum labore nisi minim labore aliquip anim cupidatat ea esse voluptate"
+        },
+        {
+          "id": "612fcd8326d6b0d32e381271",
+          "name": "Телевизор Sony KD-77AG9BR2",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6207/719/preview_b/kd77ag9br2_sony_60db3f1849e1b.jpeg",
+            "https://cdn21vek.by/img/galleries/1153/463/preview_b/kd65ag9br2_sony_60d5e81de74a7.jpeg",
+            "https://cdn21vek.by/img/galleries/1153/463/preview_b/kd65ag9br2_sony_60d5e82067f61.jpeg"
+          ],
+          "rating": 2,
+          "price": 3826.8,
+          "availableAmount": 18,
+          "description": "id et qui quis qui cupidatat aliquip irure tempor nostrud Lorem aute anim irure voluptate eu non reprehenderit ea veniam magna anim ad excepteur voluptate minim incididunt tempor dolore do incididunt nulla nulla tempor tempor esse officia ullamco adipisicing exercitation"
+        },
+        {
+          "id": "612fcd83be798139fb56de4e",
+          "name": "Телевизор Samsung QE82Q800TAUXRU",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5944/328/preview_b/qe65q800tauxru_samsung_5e85a75bce31d.jpeg",
+            "https://cdn21vek.by/img/galleries/5944/328/preview_b/qe65q800tauxru_samsung_5e85a7c41492e.png",
+            "https://cdn21vek.by/img/galleries/5944/328/preview_b/qe65q800tauxru_samsung_5e85a7c66b632.png"
+          ],
+          "rating": 2,
+          "price": 3114.09,
+          "availableAmount": 18,
+          "description": "mollit esse do elit reprehenderit ut enim magna nisi laborum mollit cupidatat est pariatur ipsum nulla aliqua minim fugiat mollit anim esse ipsum proident adipisicing eiusmod qui consequat Lorem cupidatat ad ullamco cillum qui labore nostrud ad qui eu non"
+        },
+        {
+          "id": "612fcd837097fd1e15b6f517",
+          "name": "Телевизор Samsung QE85Q95TAUXRU",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5946/502/preview_b/qe55q95tauxru_samsung_5e85acf1a6d7b.jpeg",
+            "https://cdn21vek.by/img/galleries/5946/502/preview_b/qe55q95tauxru_samsung_5e85ad05d8bdf.jpeg",
+            "https://cdn21vek.by/img/galleries/5946/502/preview_b/qe55q95tauxru_samsung_5e85ad0660803.jpeg",
+            "https://cdn21vek.by/img/galleries/5946/502/preview_b/qe55q95tauxru_samsung_5e85ad0786526.png"
+          ],
+          "rating": 5,
+          "price": 4411.72,
+          "availableAmount": 11,
+          "description": "mollit consectetur in ipsum fugiat nostrud est cillum eu magna ex duis voluptate veniam duis consectetur dolor laborum ut amet elit ex ipsum adipisicing Lorem reprehenderit aliqua consequat nisi officia reprehenderit magna proident fugiat anim pariatur voluptate commodo sint ipsum"
+        },
+        {
+          "id": "612fcd83693ae8ebb36e9877",
+          "name": "Телевизор LG OLED77C1RLA",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6425/436/preview_b/oled48c1rla_lg_606709c78bf59.jpeg",
+            "https://cdn21vek.by/img/galleries/6425/436/preview_b/oled48c1rla_lg_60756655266de.jpeg",
+            "https://cdn21vek.by/img/galleries/6425/436/preview_b/oled48c1rla_lg_606709f9bb4ff.png"
+          ],
+          "rating": 5,
+          "price": 2719.24,
+          "availableAmount": 11,
+          "description": "in excepteur proident dolor excepteur cillum ipsum dolor consectetur reprehenderit irure occaecat labore voluptate reprehenderit pariatur reprehenderit reprehenderit amet veniam proident est laborum culpa fugiat sint do veniam Lorem anim deserunt amet exercitation quis consequat amet et aliquip Lorem et"
+        },
+        {
+          "id": "612fcd83e5a287f2486c1d1f",
+          "name": "Телевизор LG 75QNED966PA",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6653/248/preview_b/75qned966pa_lg_60e2e0e06b86a.jpeg",
+            "https://cdn21vek.by/img/galleries/6653/248/preview_b/75qned966pa_lg_60e2e0ef9e656.jpeg",
+            "https://cdn21vek.by/img/galleries/6653/248/preview_b/75qned966pa_lg_60e2e0f3a59ec.jpeg"
+          ],
+          "rating": 4,
+          "price": 2010.54,
+          "availableAmount": 18,
+          "description": "sunt dolor nostrud excepteur do officia ipsum aute dolore exercitation ut aute laboris in eiusmod pariatur magna occaecat cillum sunt irure mollit do et non officia consectetur consequat irure culpa eu sunt est est amet voluptate culpa mollit excepteur officia"
+        },
+        {
+          "id": "612fcd832532eecb6b55be09",
+          "name": "Телевизор Sony KD-65AG9BR2",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1153/463/preview_b/kd65ag9br2_sony_60d5e8173a480.jpeg",
+            "https://cdn21vek.by/img/galleries/1153/463/preview_b/kd65ag9br2_sony_60d5e81de74a7.jpeg",
+            "https://cdn21vek.by/img/galleries/1153/463/preview_b/kd65ag9br2_sony_60d5e82067f61.jpeg"
+          ],
+          "rating": 3,
+          "price": 4341.99,
+          "availableAmount": 18,
+          "description": "enim qui irure consectetur ea non ea minim commodo ea proident sunt sit anim id proident consectetur nulla sint occaecat in id officia proident cillum elit velit commodo adipisicing exercitation duis veniam nulla ad incididunt minim aliqua mollit irure labore"
+        },
+        {
+          "id": "612fcd83230b25836fa3c66f",
+          "name": "Телевизор Samsung QE75Q800TAUXRU",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5944/328/preview_b/qe65q800tauxru_samsung_5e85a75bce31d.jpeg",
+            "https://cdn21vek.by/img/galleries/5944/328/preview_b/qe65q800tauxru_samsung_5e85a7c41492e.png",
+            "https://cdn21vek.by/img/galleries/5944/328/preview_b/qe65q800tauxru_samsung_5e85a7c7550f8.png"
+          ],
+          "rating": 5,
+          "price": 1706,
+          "availableAmount": 10,
+          "description": "dolor exercitation velit amet tempor minim minim labore eu duis aute enim Lorem anim incididunt consequat consectetur labore do magna consectetur exercitation amet veniam adipisicing irure aliquip velit nulla ad ipsum veniam ea in enim aliquip quis deserunt tempor duis"
+        },
+        {
+          "id": "612fcd83c13b287cc6ad0bc3",
+          "name": "Телевизор Samsung QE65QN800AUXRU",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6488/96/preview_b/qe65qn800auxru_samsung_608703ee92e1d.png",
+            "https://cdn21vek.by/img/galleries/6488/96/preview_b/qe65qn800auxru_samsung_608704ba04cbc.png",
+            "https://cdn21vek.by/img/galleries/6488/96/preview_b/qe65qn800auxru_samsung_608704bb44b70.png"
+          ],
+          "rating": 5,
+          "price": 2599.22,
+          "availableAmount": 18,
+          "description": "ullamco labore reprehenderit ad qui dolor quis non Lorem et qui velit pariatur amet consequat Lorem id adipisicing nulla nulla aute est sunt deserunt in eiusmod amet elit sit laboris duis ex ullamco eiusmod proident non ipsum dolor magna anim"
+        },
+        {
+          "id": "612fcd832b0e8899ddb9dd7d",
+          "name": "Телевизор LG 86NANO926PB",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6473/191/preview_b/86nano926pb_lg_6078060b63886.png",
+            "https://cdn21vek.by/img/galleries/6425/431/preview_b/75nano926pb_lg_606705ab51803.png",
+            "https://cdn21vek.by/img/galleries/6425/431/preview_b/75nano926pb_lg_606705ab29f9c.png"
+          ],
+          "rating": 1,
+          "price": 4162.3,
+          "availableAmount": 10,
+          "description": "cillum amet do nisi ullamco irure ullamco aliquip cillum minim cillum ullamco voluptate occaecat quis enim ipsum pariatur proident sint sit id fugiat veniam magna voluptate anim irure non consectetur incididunt sint labore pariatur dolor deserunt elit consectetur officia officia"
+        },
+        {
+          "id": "612fcd83dd0e81d25d39d8d8",
+          "name": "Телевизор Samsung QE75QN85AAUXRU",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6488/144/preview_b/qe55qn85aauxru_samsung_607da09c2d04b.png",
+            "https://cdn21vek.by/img/galleries/6488/144/preview_b/qe55qn85aauxru_samsung_607da10ebc95d.png",
+            "https://cdn21vek.by/img/galleries/6488/144/preview_b/qe55qn85aauxru_samsung_607da10ef1798.png"
+          ],
+          "rating": 3,
+          "price": 4991.76,
+          "availableAmount": 18,
+          "description": "reprehenderit tempor dolore anim cupidatat reprehenderit ipsum dolore dolore Lorem nisi dolore eu consectetur amet ut ex aliqua minim magna cillum laboris occaecat commodo laboris consectetur anim id magna aute anim consectetur occaecat pariatur consectetur cupidatat mollit aliquip id sint"
+        },
+        {
+          "id": "612fcd8387c8562f1d247066",
+          "name": "Телевизор Sony XR-55A80J",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6598/162/preview_b/xr55a80j_sony_60d5f594ef7f9.jpeg",
+            "https://cdn21vek.by/img/galleries/6598/162/preview_b/xr55a80j_sony_60d5f59eebb78.jpeg",
+            "https://cdn21vek.by/img/galleries/6598/162/preview_b/xr55a80j_sony_60d5f59f85ae1.jpeg"
+          ],
+          "rating": 0,
+          "price": 1955.62,
+          "availableAmount": 10,
+          "description": "reprehenderit ea et reprehenderit esse occaecat labore officia eiusmod ad ullamco ullamco duis excepteur labore consectetur excepteur eiusmod voluptate non occaecat duis enim esse sunt reprehenderit ullamco nisi aliquip esse adipisicing culpa deserunt sunt laborum aliquip irure pariatur duis officia"
+        }
+      ],
+      "headphones": [
+        {
+          "id": "612fe1616934a86513a6d84e",
+          "name": "Наушники Beyerdynamic T5 3rd Generation",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6723/927/preview_b/t53rdgeneration_beyerdynamic_610d05857dbce.jpeg",
+            "https://cdn21vek.by/img/galleries/6723/927/preview_b/t53rdgeneration_beyerdynamic_610d05863345c.jpeg",
+            "https://cdn21vek.by/img/galleries/6723/927/preview_b/t53rdgeneration_beyerdynamic_610d058730b2a.jpeg"
+          ],
+          "rating": 2,
+          "price": 589.42,
+          "availableAmount": 15,
+          "description": "fugiat fugiat non cupidatat eiusmod reprehenderit nisi esse exercitation id labore exercitation consectetur ex proident et exercitation duis adipisicing sunt eu deserunt ut dolore elit ad nisi culpa magna consequat minim deserunt qui fugiat amet elit cupidatat fugiat amet dolore"
+        },
+        {
+          "id": "612fe16149835143d4659ebd",
+          "name": "Беспроводные наушники Bang & Olufsen BeoPlay H95 Gold Tone / 1266106",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6418/345/preview_b/beoplayh95goldtone1266106_bang_olufsen_60476067bd53c.jpeg",
+            "https://cdn21vek.by/img/galleries/6418/345/preview_b/beoplayh95goldtone1266106_bang_olufsen_6047606815ff7.jpeg",
+            "https://cdn21vek.by/img/galleries/6418/345/preview_b/beoplayh95goldtone1266106_bang_olufsen_6047606890147.jpeg"
+          ],
+          "rating": 1,
+          "price": 161.44,
+          "availableAmount": 15,
+          "description": "Lorem ex fugiat culpa eu consectetur ea eu ullamco Lorem nisi laboris elit mollit commodo eiusmod consectetur laboris aliquip irure ut irure aute in incididunt aute proident elit velit adipisicing laboris veniam aute veniam tempor veniam do elit excepteur aliquip"
+        },
+        {
+          "id": "612fe1614bbf9556142a57bc",
+          "name": "Беспроводные наушники Bang & Olufsen BeoPlay H95 Grey Mist / 1266101",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6418/346/preview_b/beoplayh95greymist1266101_bang_olufsen_60476264b22ff.jpeg",
+            "https://cdn21vek.by/img/galleries/6418/346/preview_b/beoplayh95greymist1266101_bang_olufsen_6047626c28abc.jpeg",
+            "https://cdn21vek.by/img/galleries/6418/346/preview_b/beoplayh95greymist1266101_bang_olufsen_604762702af05.jpeg"
+          ],
+          "rating": 5,
+          "price": 738.89,
+          "availableAmount": 18,
+          "description": "incididunt incididunt esse ullamco qui ad veniam magna nostrud culpa nostrud ut quis nulla ex duis nostrud exercitation anim nostrud elit ad ad exercitation aliqua consequat minim fugiat duis ex et excepteur adipisicing excepteur dolor consectetur fugiat in duis ex"
+        },
+        {
+          "id": "612fe161e5e9370ab84acd13",
+          "name": "Беспроводные наушники Apple AirPods Max / MGYJ3 (Silver)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6331/669/preview_b/airpodsmaxmgyj3_apple_5ffd4c3d2b4a6.jpeg",
+            "https://cdn21vek.by/img/galleries/6331/669/preview_b/airpodsmaxmgyj3_apple_5ffd4c3d48bdc.jpeg",
+            "https://cdn21vek.by/img/galleries/6331/669/preview_b/airpodsmaxmgyj3_apple_5ffd4c3d6b757.jpeg"
+          ],
+          "rating": 3,
+          "price": 539.33,
+          "availableAmount": 15,
+          "description": "ea reprehenderit sit sit amet exercitation qui consectetur ex dolor fugiat sint elit aliquip pariatur anim culpa mollit nostrud veniam voluptate Lorem nisi minim dolor sit nulla qui magna excepteur ad nulla magna exercitation consectetur duis nulla dolor incididunt qui"
+        },
+        {
+          "id": "612fe161fdb8cbdf86ec2aa0",
+          "name": "Беспроводные наушники Apple AirPods Max / MGYL3 (Sky Blue)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6331/982/preview_b/airpodsmaxmgyl3_apple_601bfba5d4b40.jpeg",
+            "https://cdn21vek.by/img/galleries/6331/982/preview_b/airpodsmaxmgyl3_apple_601bfba5e72a2.jpeg",
+            "https://cdn21vek.by/img/galleries/6331/982/preview_b/airpodsmaxmgyl3_apple_6062f0d9b2fce.jpeg"
+          ],
+          "rating": 0,
+          "price": 229.6,
+          "availableAmount": 18,
+          "description": "voluptate minim tempor deserunt ad ullamco ullamco eiusmod labore mollit excepteur velit sunt ullamco excepteur pariatur ullamco officia cupidatat proident commodo sint sunt excepteur excepteur tempor pariatur mollit non deserunt sint eu excepteur occaecat incididunt consequat laborum minim id Lorem"
+        },
+        {
+          "id": "612fe1613eb90f86c4923d5b",
+          "name": "Наушники Beyerdynamic Amiron Home",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5877/623/preview_b/amironhome_beyerdynamic_5e42ae4cb4019.jpeg",
+            "https://cdn21vek.by/img/galleries/5877/623/preview_b/amironhome_beyerdynamic_5e42af00159f6.jpeg",
+            "https://cdn21vek.by/img/galleries/5877/623/preview_b/amironhome_beyerdynamic_5e42ae4cc8957.jpeg"
+          ],
+          "rating": 0,
+          "price": 743.72,
+          "availableAmount": 15,
+          "description": "pariatur sint culpa non sunt Lorem nulla esse fugiat mollit culpa Lorem ex labore minim do excepteur eu in ad nulla occaecat fugiat velit id tempor et eiusmod cupidatat cupidatat anim minim enim nostrud nulla incididunt fugiat ullamco cupidatat ad"
+        },
+        {
+          "id": "612fe161d5d0cae1559888c5",
+          "name": "Беспроводные наушники Yamaha YH-L700A (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6766/655/preview_b/yhl700a_yamaha_611b82df39e3b.jpeg",
+            "https://cdn21vek.by/img/galleries/6766/655/preview_b/yhl700a_yamaha_611b82e0e270a.jpeg",
+            "https://cdn21vek.by/img/galleries/6766/655/preview_b/yhl700a_yamaha_611b82e27e9b5.jpeg"
+          ],
+          "rating": 3,
+          "price": 257.1,
+          "availableAmount": 18,
+          "description": "nisi cillum nisi duis quis ullamco duis nostrud eiusmod eu proident excepteur ipsum sit veniam exercitation ut officia dolore commodo mollit aliquip laborum laborum deserunt do velit aliqua pariatur anim est sunt cupidatat voluptate minim laborum qui proident incididunt est"
+        },
+        {
+          "id": "612fe161e0943f6283061e13",
+          "name": "Наушники Beyerdynamic DT 1990 Pro 250 Ohm",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/421/390/preview_b/dt1990pro250ohm_beyerdynamic_58ca46daa8f4e.jpeg",
+            "https://cdn21vek.by/img/galleries/421/390/preview_b/dt1990pro250ohm_beyerdynamic_58ca46dae2fde.jpeg",
+            "https://cdn21vek.by/img/galleries/421/390/preview_b/dt1990pro250ohm_beyerdynamic_58cbbd7846cb1.jpeg"
+          ],
+          "rating": 0,
+          "price": 899.86,
+          "availableAmount": 18,
+          "description": "eu deserunt qui ex amet et aliquip aliqua mollit consequat laborum est ullamco excepteur amet labore nisi enim esse est laborum esse ullamco non magna do est minim do proident officia eiusmod occaecat sint cillum proident do deserunt culpa amet"
+        },
+        {
+          "id": "612fe16186e9864442553883",
+          "name": "Беспроводные наушники Bang & Olufsen BeoPlay H9 3rd Gen Matte Black / 1646300",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6200/47/preview_b/beoplayh93rdgenmatteblack1646300_bang_olufsen_5f7edcc3f30ea.jpeg",
+            "https://cdn21vek.by/img/galleries/6200/47/preview_b/beoplayh93rdgenmatteblack1646300_bang_olufsen_5f7edcc40f3be.jpeg",
+            "https://cdn21vek.by/img/galleries/6200/47/preview_b/beoplayh93rdgenmatteblack1646300_bang_olufsen_5f7edcc41f059.jpeg"
+          ],
+          "rating": 1,
+          "price": 852.66,
+          "availableAmount": 15,
+          "description": "laborum cillum nisi elit id adipisicing amet eiusmod est enim velit esse commodo id ad irure deserunt fugiat nulla amet incididunt aliquip mollit ex sunt magna velit fugiat tempor dolore nisi voluptate aliqua culpa irure minim magna velit amet incididunt"
+        },
+        {
+          "id": "612fe1615f96021b13624c00",
+          "name": "Беспроводные наушники Bang & Olufsen BeoPlay H9 3rd Gen Argilla Bright / 1646301",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6200/50/preview_b/beoplayh93rdgenargillabright1646301_bang_olufsen_5f7d92ef0e48f.jpeg",
+            "https://cdn21vek.by/img/galleries/6200/50/preview_b/beoplayh93rdgenargillabright1646301_bang_olufsen_5f7d92ef20edd.jpeg",
+            "https://cdn21vek.by/img/galleries/6200/50/preview_b/beoplayh93rdgenargillabright1646301_bang_olufsen_5f7d92ef54eaa.jpeg"
+          ],
+          "rating": 1,
+          "price": 733.17,
+          "availableAmount": 3,
+          "description": "enim tempor sint nostrud commodo qui ipsum fugiat consectetur eiusmod nulla esse in et tempor Lorem minim dolore esse in deserunt consequat incididunt do cupidatat in id nisi anim commodo aliquip ex laborum sint consectetur cupidatat duis duis nulla reprehenderit"
+        },
+        {
+          "id": "612fe161851b4d9275f2b841",
+          "name": "Беспроводные наушники Bang & Olufsen BeoPlay E8 Sport Anthracite Oxygen / 1235411",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6754/36/preview_b/beoplaye8sportanthraciteoxygen1235411_bang_olufsen_610bbf33ef652.jpeg",
+            "https://cdn21vek.by/img/galleries/6754/36/preview_b/beoplaye8sportanthraciteoxygen1235411_bang_olufsen_610bbf34454d2.jpeg",
+            "https://cdn21vek.by/img/galleries/6754/36/preview_b/beoplaye8sportanthraciteoxygen1235411_bang_olufsen_610bbf34dfc9c.jpeg"
+          ],
+          "rating": 2,
+          "price": 960.74,
+          "availableAmount": 18,
+          "description": "quis velit cupidatat duis eu occaecat nulla minim dolor ut ex labore reprehenderit quis ullamco tempor commodo do exercitation est occaecat mollit mollit cupidatat aute excepteur fugiat est eiusmod laborum eiusmod anim velit reprehenderit sit incididunt duis veniam nisi consequat"
+        },
+        {
+          "id": "612fe1610c3fda92825c6f48",
+          "name": "Беспроводные наушники Sony WH-1000XM4W (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6654/338/preview_b/wh1000xm4w_sony_60e2e36a9adfe.jpeg",
+            "https://cdn21vek.by/img/galleries/6654/338/preview_b/wh1000xm4w_sony_60e2e36ad9499.jpeg",
+            "https://cdn21vek.by/img/galleries/6654/338/preview_b/wh1000xm4w_sony_60e2e36b5b979.jpeg"
+          ],
+          "rating": 1,
+          "price": 355.89,
+          "availableAmount": 18,
+          "description": "aute aliquip labore in in incididunt id anim labore esse magna labore elit tempor proident do eu eiusmod aliqua culpa nisi esse sint labore magna ea labore anim in excepteur est aute aliquip commodo nisi commodo eiusmod laboris aliquip aute"
+        },
+        {
+          "id": "612fe16173d10f4feed8a351",
+          "name": "Беспроводные наушники Bose Noise Cancelling Headphones 700 (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6053/740/preview_b/noisecancellingheadphones700_bose_02_5ef9c9dce4330.jpeg",
+            "https://cdn21vek.by/img/galleries/6053/740/preview_b/noisecancellingheadphones700_bose_02_5ef9c9e07d644.jpeg"
+          ],
+          "rating": 3,
+          "price": 921,
+          "availableAmount": 3,
+          "description": "duis enim sunt elit cillum laboris mollit Lorem excepteur ut voluptate Lorem est velit cupidatat id magna ea nostrud veniam duis ipsum aliquip sit aute sunt anim culpa id pariatur magna proident ipsum id proident non ipsum nostrud do Lorem"
+        },
+        {
+          "id": "612fe1615f15a3b98704a501",
+          "name": "Наушники-гарнитура Beyerdynamic MMX 300 2nd Generation",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5877/648/preview_b/mmx3002ndgeneration_beyerdynamic_5e4501676d882.jpeg",
+            "https://cdn21vek.by/img/galleries/5877/648/preview_b/mmx3002ndgeneration_beyerdynamic_5e45016787077.jpeg",
+            "https://cdn21vek.by/img/galleries/5877/648/preview_b/mmx3002ndgeneration_beyerdynamic_5e45016a8a00b.jpeg"
+          ],
+          "rating": 1,
+          "price": 862.9,
+          "availableAmount": 5,
+          "description": "incididunt fugiat mollit deserunt eiusmod consequat nostrud cupidatat ullamco cupidatat eu ad ea amet aute nulla ut cillum elit ad consequat non aliquip in excepteur non elit ad qui velit id magna laborum occaecat anim id elit sint sint excepteur"
+        },
+        {
+          "id": "612fe1618ee5d43107954693",
+          "name": "Очки-гарнитура Bose Frames Soprano / 851337-0100 (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6417/427/preview_b/framessoprano8513370100_bose_60e6dcbf90a3e.jpeg",
+            "https://cdn21vek.by/img/galleries/6417/427/preview_b/framessoprano8513370100_bose_60e6ddb70cf11.jpeg",
+            "https://cdn21vek.by/img/galleries/6417/427/preview_b/framessoprano8513370100_bose_60e6dcc001398.jpeg"
+          ],
+          "rating": 4,
+          "price": 688.88,
+          "availableAmount": 18,
+          "description": "irure voluptate veniam officia enim elit laboris sunt anim proident ex commodo nisi minim eiusmod qui ut do culpa proident reprehenderit pariatur veniam sint et sunt do et ea nulla magna tempor dolor et reprehenderit deserunt cillum sit dolor nisi"
+        }
+      ]
     },
     "computers-peripherals": {
-      "laptops": [],
-      "computers": [],
+      "laptops": [
+        {
+          "id": "612fe4ecea58ead53cd93899",
+          "name": "Ноутбук Dell Precision (5550-279172)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6736/465/preview_b/precision5550279172_dell_610d2a0ba4892.jpeg",
+            "https://cdn21vek.by/img/galleries/6736/465/preview_b/precision5550279172_dell_610d2a9899b03.jpeg",
+            "https://cdn21vek.by/img/galleries/6736/465/preview_b/precision5550279172_dell_610d2aa01c52d.jpeg",
+            "https://cdn21vek.by/img/galleries/6736/465/preview_b/precision5550279172_dell_610d2ab287462.jpeg"
+          ],
+          "rating": 5,
+          "price": 9834,
+          "availableAmount": 18,
+          "description": "excepteur nostrud enim ullamco culpa reprehenderit officia exercitation ipsum officia aliqua fugiat deserunt sunt amet consectetur ut dolor commodo commodo pariatur Lorem dolore ex duis laboris proident cupidatat nisi sint occaecat ea sint minim laborum commodo veniam quis exercitation irure"
+        },
+        {
+          "id": "612fe4ecf68b66736021e152",
+          "name": "Ноутбук Apple MacBook Pro 16' Touch Bar 2019 512GB / MVVL2 (серебристый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5784/834/preview_b/macbookpro16touchbar2019512gbmvvl2_apple_5ddd180886249.jpeg",
+            "https://cdn21vek.by/img/galleries/5784/834/preview_b/macbookpro16touchbar2019512gbmvvl2_apple_5ddd18124fb8d.jpeg",
+            "https://cdn21vek.by/img/galleries/5784/834/preview_b/macbookpro16touchbar2019512gbmvvl2_apple_5ddd181533ff6.jpeg",
+            "https://cdn21vek.by/img/galleries/5784/834/preview_b/macbookpro16touchbar2019512gbmvvl2_apple_5ddd181671d8a.jpeg"
+          ],
+          "rating": 5,
+          "price": 2847,
+          "availableAmount": 5,
+          "description": "minim ad aliquip consectetur aute veniam ullamco consectetur proident mollit amet commodo id pariatur enim tempor laborum exercitation est aliquip irure nostrud reprehenderit commodo ad cillum nulla qui enim exercitation ut incididunt id est eu magna ipsum officia culpa ea"
+        },
+        {
+          "id": "612fe4ec127d3932c92c35b3",
+          "name": "Ноутбук Lenovo ThinkPad X1 Carbon Gen 9 (20XW005TRT)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6595/513/preview_b/thinkpadx1carbongen920xw005trt_lenovo_61041ade24efd.jpeg",
+            "https://cdn21vek.by/img/galleries/6595/513/preview_b/thinkpadx1carbongen920xw005trt_lenovo_61041af4e8af9.jpeg",
+            "https://cdn21vek.by/img/galleries/6595/513/preview_b/thinkpadx1carbongen920xw005trt_lenovo_61041af62f483.jpeg",
+            "https://cdn21vek.by/img/galleries/6595/513/preview_b/thinkpadx1carbongen920xw005trt_lenovo_61041af7ac5fa.jpeg"
+          ],
+          "rating": 0,
+          "price": 5010,
+          "availableAmount": 5,
+          "description": "amet nostrud excepteur nisi est pariatur sunt id non nulla pariatur quis do veniam mollit minim minim culpa et est duis ipsum consequat occaecat in ullamco reprehenderit cupidatat velit nostrud labore qui mollit est et incididunt deserunt magna duis tempor"
+        },
+        {
+          "id": "612fe4ecbf9776bdd90e3d73",
+          "name": "Ноутбук HP Zbook 15 Power G7 (1J3Y6EA)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6525/147/preview_b/zbook15powerg71j3y6ea_hp_60c9c1819def3.png",
+            "https://cdn21vek.by/img/galleries/6525/147/preview_b/zbook15powerg71j3y6ea_hp_60c9c186ec29c.jpeg",
+            "https://cdn21vek.by/img/galleries/6525/147/preview_b/zbook15powerg71j3y6ea_hp_60c9c1879cc03.jpeg"
+          ],
+          "rating": 4,
+          "price": 5410,
+          "availableAmount": 18,
+          "description": "voluptate consequat dolor quis consectetur commodo consequat Lorem cillum anim sint ipsum commodo anim exercitation ex occaecat sunt adipisicing dolore do est enim ea tempor ea elit ullamco est duis magna nisi duis est elit consequat commodo sit cillum deserunt"
+        },
+        {
+          "id": "612fe4eca466c77bf2b9dba4",
+          "name": "Ноутбук HP ZBook 17 Fury G7 (119Y5EA)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6425/542/preview_b/zbook17furyg7119y5ea_hp_611ccf7ad0a02.jpeg",
+            "https://cdn21vek.by/img/galleries/6425/542/preview_b/zbook17furyg7119y5ea_hp_611ccf85bd3d9.jpeg",
+            "https://cdn21vek.by/img/galleries/6425/542/preview_b/zbook17furyg7119y5ea_hp_611ccf888524e.jpeg",
+            "https://cdn21vek.by/img/galleries/6425/542/preview_b/zbook17furyg7119y5ea_hp_611ccf8b6416f.jpeg"
+          ],
+          "rating": 0,
+          "price": 1444,
+          "availableAmount": 7,
+          "description": "excepteur incididunt proident anim cupidatat mollit irure nostrud eiusmod veniam nisi magna nisi sit reprehenderit nulla tempor aliqua ad ullamco laborum ad exercitation tempor non laborum ex mollit elit consectetur aliqua aute cupidatat qui nisi aliqua cupidatat ullamco exercitation anim"
+        },
+        {
+          "id": "612fe4ec8ff37ba0fc2893e4",
+          "name": "Ноутбук Lenovo ThinkPad T15 G2 (20W4007WRT)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6598/552/preview_b/thinkpadt15g220w4007wrt_lenovo_6114f224acbbe.jpeg",
+            "https://cdn21vek.by/img/galleries/6598/552/preview_b/thinkpadt15g220w4007wrt_lenovo_6114f263cabf3.jpeg",
+            "https://cdn21vek.by/img/galleries/6598/552/preview_b/thinkpadt15g220w4007wrt_lenovo_6114f26799e18.jpeg",
+            "https://cdn21vek.by/img/galleries/6598/552/preview_b/thinkpadt15g220w4007wrt_lenovo_6114f2696dce4.jpeg"
+          ],
+          "rating": 0,
+          "price": 5248,
+          "availableAmount": 7,
+          "description": "ad tempor sunt commodo esse duis fugiat culpa commodo elit non qui fugiat ipsum et ullamco qui consectetur ullamco officia proident nostrud voluptate anim nulla proident aute pariatur ullamco mollit qui minim voluptate nisi aliquip et id labore cillum sint"
+        },
+        {
+          "id": "612fe4ec83f45e0cc80df11d",
+          "name": "Ноутбук HP EliteBook x360 1030 G7 (1J6L4EA)",
+          "imageUrls": [],
+          "rating": 4,
+          "price": 5324,
+          "availableAmount": 18,
+          "description": "aliquip duis incididunt aliquip proident mollit proident ex occaecat ullamco duis ad anim id aliqua nulla aute duis in non esse mollit sunt Lorem nostrud officia aliquip consectetur culpa culpa cillum laborum ex deserunt excepteur deserunt anim ex labore nulla"
+        },
+        {
+          "id": "612fe4ec62681c0297ce2b0f",
+          "name": "Ноутбук Apple MacBook Pro 13' M1 2020 256GB / Z11D0003C (серебристый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6461/610/preview_b/macbookpro13m12020256gbz11d0003c_apple_606b2dc911948.jpeg",
+            "https://cdn21vek.by/img/galleries/6461/610/preview_b/macbookpro13m12020256gbz11d0003c_apple_606b2dd55a4af.jpeg",
+            "https://cdn21vek.by/img/galleries/6461/610/preview_b/macbookpro13m12020256gbz11d0003c_apple_606b2dd5cccfc.jpeg",
+            "https://cdn21vek.by/img/galleries/6461/610/preview_b/macbookpro13m12020256gbz11d0003c_apple_606b2dd6dff81.jpeg"
+          ],
+          "rating": 0,
+          "price": 7269,
+          "availableAmount": 18,
+          "description": "ex veniam minim amet sunt sint amet elit minim consectetur velit sit laborum sunt incididunt anim do id in sit esse amet dolore fugiat non ut duis reprehenderit anim aute officia quis ipsum nisi veniam ipsum aute velit ad aliquip"
+        },
+        {
+          "id": "612fe4ec77b1c9ff34c54803",
+          "name": "Ноутбук Asus UX535LI-E2222T",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6736/443/preview_b/ux535lie2222t_asus_6103f517b8af7.jpeg",
+            "https://cdn21vek.by/img/galleries/6736/443/preview_b/ux535lie2222t_asus_6103f59f9aed6.jpeg",
+            "https://cdn21vek.by/img/galleries/6736/443/preview_b/ux535lie2222t_asus_6103f5af4c109.jpeg"
+          ],
+          "rating": 2,
+          "price": 8700,
+          "availableAmount": 7,
+          "description": "elit consectetur exercitation eu enim anim veniam sunt ex eu est excepteur incididunt in sint consectetur aute ad veniam reprehenderit veniam cillum cillum veniam enim sunt voluptate id pariatur elit ea adipisicing et duis officia ad voluptate consectetur exercitation reprehenderit"
+        },
+        {
+          "id": "612fe4ecaa8edb468001d84b",
+          "name": "Ноутбук Dell Latitude 14 (7410-212278)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6144/674/preview_b/latitude7410212278_dell_609a5f1df3f0f.jpeg",
+            "https://cdn21vek.by/img/galleries/6144/674/preview_b/latitude7410212278_dell_609a5fa4a35fd.png",
+            "https://cdn21vek.by/img/galleries/6144/674/preview_b/latitude7410212278_dell_609a5fa7e395b.png",
+            "https://cdn21vek.by/img/galleries/6144/674/preview_b/latitude7410212278_dell_609a5f968ab9d.jpeg"
+          ],
+          "rating": 0,
+          "price": 5475,
+          "availableAmount": 9,
+          "description": "deserunt voluptate ut pariatur mollit et sit id proident eu minim laboris dolor commodo irure enim Lorem aute et aute laborum fugiat elit voluptate magna pariatur deserunt veniam aute dolor et mollit velit labore nisi eiusmod esse enim in eu"
+        },
+        {
+          "id": "612fe4ec9bb64516c92d86d1",
+          "name": "Ноутбук HP Spectre x360 13 (3B0H3EA)",
+          "imageUrls": [],
+          "rating": 4,
+          "price": 5757,
+          "availableAmount": 18,
+          "description": "labore irure nulla consequat laborum irure tempor do amet adipisicing enim irure ipsum enim excepteur ex fugiat laborum tempor Lorem exercitation qui fugiat consequat officia anim cupidatat do mollit aliqua commodo elit proident duis eu occaecat irure commodo eiusmod pariatur"
+        },
+        {
+          "id": "612fe4ecccfc73e6ba638bce",
+          "name": "Ноутбук Dell Latitude (7310-212279)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6144/646/preview_b/latitude7310212279_dell_5f8da2ed27c45.jpeg",
+            "https://cdn21vek.by/img/galleries/6144/646/preview_b/latitude7310212279_dell_5f8da3199a455.jpeg",
+            "https://cdn21vek.by/img/galleries/6144/646/preview_b/latitude7310212279_dell_5f8da31d9c3bc.jpeg",
+            "https://cdn21vek.by/img/galleries/6144/646/preview_b/latitude7310212279_dell_5f8da320ebf3e.jpeg"
+          ],
+          "rating": 3,
+          "price": 9265,
+          "availableAmount": 18,
+          "description": "do est pariatur in nostrud laboris ut ex in consectetur minim voluptate dolore amet sunt deserunt consequat occaecat ex anim aute sint enim minim ut sunt aute nulla culpa aliquip nulla ut dolor non nisi nisi et in sit officia"
+        },
+        {
+          "id": "612fe4ecf622511779f25dfc",
+          "name": "Игровой ноутбук Dell Inspiron G7 17 (7700-215329)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6255/145/preview_b/inspirong7177700215329_dell_6017f2b1752fa.jpeg",
+            "https://cdn21vek.by/img/galleries/6255/145/preview_b/inspirong7177700215329_dell_6017f4f17fc03.jpeg",
+            "https://cdn21vek.by/img/galleries/6255/145/preview_b/inspirong7177700215329_dell_6017f4f2830e6.jpeg",
+            "https://cdn21vek.by/img/galleries/6255/145/preview_b/inspirong7177700215329_dell_6017f4f390c04.jpeg"
+          ],
+          "rating": 4,
+          "price": 2021,
+          "availableAmount": 18,
+          "description": "adipisicing culpa adipisicing reprehenderit cupidatat mollit velit laboris tempor Lorem occaecat do Lorem laborum id occaecat eu mollit elit quis aliqua irure duis id eiusmod sit nostrud quis pariatur tempor voluptate dolor eiusmod elit enim voluptate proident cillum officia nulla"
+        },
+        {
+          "id": "612fe4ec04807a94ee414026",
+          "name": "Игровой ноутбук Asus Rog Strix G15 G513QM-HF121",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6870/47/preview_b/rogstrixg15g513qmhf121_asus_612f76efed032.jpeg",
+            "https://cdn21vek.by/img/galleries/6870/47/preview_b/rogstrixg15g513qmhf121_asus_612f777b591e6.jpeg",
+            "https://cdn21vek.by/img/galleries/6870/47/preview_b/rogstrixg15g513qmhf121_asus_612f77854c77e.jpeg",
+            "https://cdn21vek.by/img/galleries/6870/47/preview_b/rogstrixg15g513qmhf121_asus_612f7796d2761.jpeg"
+          ],
+          "rating": 2,
+          "price": 2608,
+          "availableAmount": 9,
+          "description": "nulla culpa fugiat nisi proident ad magna reprehenderit nulla ea minim amet aute irure sint amet minim occaecat sit reprehenderit qui labore duis anim ullamco do do ipsum laboris anim sit occaecat quis nulla magna laborum deserunt aliqua magna tempor"
+        },
+        {
+          "id": "612fe4ecbe8833c5e72318e6",
+          "name": "Ноутбук Apple MacBook Pro 13' M1 2020 256GB / MYD82 (серый космос)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6268/637/preview_b/macbookpro13m12020256gbmyd82_apple_5fbe5e5edf498.jpeg",
+            "https://cdn21vek.by/img/galleries/6268/637/preview_b/macbookpro13m12020256gbmyd82_apple_5fbe5e676c227.jpeg",
+            "https://cdn21vek.by/img/galleries/6268/637/preview_b/macbookpro13m12020256gbmyd82_apple_5fbe5e689ba18.jpeg",
+            "https://cdn21vek.by/img/galleries/6268/637/preview_b/macbookpro13m12020256gbmyd82_apple_5fbe5e699f0ae.jpeg",
+            "https://cdn21vek.by/img/galleries/6268/638/preview_b/macbookpro13m12020256gbmyda2_apple_602cde7d2be57.png"
+          ],
+          "rating": 5,
+          "price": 9196,
+          "availableAmount": 2,
+          "description": "ut reprehenderit cupidatat reprehenderit aute consectetur labore sint incididunt occaecat deserunt eu quis ut in nostrud incididunt veniam ex deserunt ex quis mollit adipisicing tempor laboris ipsum ullamco irure velit fugiat occaecat enim esse velit ut aute ipsum incididunt nisi"
+        },
+        {
+          "id": "612fe4ec5c0c6f8908c68dcc",
+          "name": "Игровой ноутбук Dream Machines RG3060-17BY26",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6827/282/preview_b/rg306017by26_dream_machines_6124ac0ee69b5.png",
+            "https://cdn21vek.by/img/galleries/6827/282/preview_b/rg306017by26_dream_machines_6124ac1b6dba9.png",
+            "https://cdn21vek.by/img/galleries/6827/282/preview_b/rg306017by26_dream_machines_6124ac1d0a677.jpeg",
+            "https://cdn21vek.by/img/galleries/6827/282/preview_b/rg306017by26_dream_machines_6124ac1f9ec66.jpeg"
+          ],
+          "rating": 5,
+          "price": 8561,
+          "description": "minim commodo pariatur ea excepteur dolore veniam enim est incididunt velit aliqua aliquip commodo nisi sunt ullamco duis cupidatat duis aliqua veniam nisi eu ipsum do deserunt non proident ut sit commodo aliqua eiusmod Lorem pariatur nostrud ipsum sint eu"
+        },
+        {
+          "id": "612fe4ec1f3a1332b8a808de",
+          "name": "Игровой ноутбук Acer ConceptD 3 CN315-72G-565R (NX.C5XEU.003)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6448/854/preview_b/conceptd3cn31572g565r_acer_60a3a27bd00ad.jpeg",
+            "https://cdn21vek.by/img/galleries/6448/854/preview_b/conceptd3cn31572g565r_acer_60a3a28eebadd.jpeg",
+            "https://cdn21vek.by/img/galleries/6448/854/preview_b/conceptd3cn31572g565r_acer_60a3a290163f3.jpeg",
+            "https://cdn21vek.by/img/galleries/6448/854/preview_b/conceptd3cn31572g565r_acer_60a3a291d2dbe.jpeg"
+          ],
+          "rating": 5,
+          "price": 2231,
+          "availableAmount": 1,
+          "description": "voluptate laborum sit sunt exercitation cupidatat et sunt fugiat nulla ex ullamco elit adipisicing exercitation eu veniam do in excepteur nulla aliquip qui dolore adipisicing deserunt occaecat irure adipisicing Lorem elit velit eu duis dolore nulla aute reprehenderit nisi ut"
+        },
+        {
+          "id": "612fe4ecf1f618a0d114f4d1",
+          "name": "Ноутбук HP Victus Laptop 16 (4D4U7EA)",
+          "imageUrls": [],
+          "rating": 2,
+          "price": 8936,
+          "availableAmount": 11,
+          "description": "duis sunt ad exercitation ut enim consequat et reprehenderit aliquip ipsum elit tempor dolor nisi do amet esse labore labore do amet do do non id nostrud dolor commodo dolore velit ipsum amet ipsum do nostrud labore quis ea elit"
+        }
+      ],
+      "computers": [
+        {
+          "id": "612fecfeaf71e5e9648b7db5",
+          "name": "Системный блок Lenovo ThinkStation P340 Tiny (30DES23S00)",
+          "imageUrls": [],
+          "rating": 2,
+          "availableAmount": 20,
+          "price": 2683,
+          "description": "nisi labore consequat quis aliquip duis deserunt consectetur laborum cillum eiusmod consectetur labore cupidatat velit commodo labore incididunt magna adipisicing ex ullamco qui aliqua voluptate enim occaecat sint dolore ex sit mollit elit quis ea culpa labore consectetur dolore duis"
+        },
+        {
+          "id": "612fecfe8f76b2edc8649c25",
+          "name": "Игровой системный блок Z-Tech 7-58X-32-240-1000-450-N-370050",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6465/500/preview_b/758x322401000450n370050n_ztech_606c8011c1915.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe282e7a.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe2d5259.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 5,
+          "price": 9152,
+          "description": "aliqua eiusmod deserunt eiusmod sunt deserunt enim eu officia culpa laboris consectetur adipisicing ullamco eiusmod nulla aute excepteur duis ullamco exercitation nulla voluptate in esse pariatur veniam est voluptate mollit excepteur excepteur sit aliquip elit elit pariatur dolore ad dolor"
+        },
+        {
+          "id": "612fecfe183d6b36c88129c3",
+          "name": "Игровой системный блок Z-Tech 5-56X-32-240-1000-450-N-370050n",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6465/500/preview_b/758x322401000450n370050n_ztech_606c8011c1915.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe282e7a.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe2d5259.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 19,
+          "price": 4543,
+          "description": "culpa amet deserunt reprehenderit nulla cillum in aute consectetur excepteur veniam nulla reprehenderit nulla culpa Lorem ex irure tempor aute id labore dolor esse occaecat reprehenderit minim quis duis elit minim elit deserunt aliquip voluptate nostrud adipisicing velit exercitation labore"
+        },
+        {
+          "id": "612fecfe95e0f5e6b9f864e7",
+          "name": "Системный блок Z-Tech I5-106-32-240-1000-460-N-370050n",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6465/500/preview_b/758x322401000450n370050n_ztech_606c8011c1915.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe282e7a.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe2d5259.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 2,
+          "price": 6557,
+          "description": "do enim consectetur voluptate et enim est cupidatat ut ea ut duis nostrud eiusmod adipisicing fugiat amet nisi ut voluptate deserunt pariatur enim occaecat nulla magna amet laborum Lorem sunt commodo cillum consequat dolor enim minim pariatur eu cupidatat non"
+        },
+        {
+          "id": "612fecfe933eb817162033a0",
+          "name": "Игровой системный блок Z-Tech 5-36-32-240-1000-450-N-370050n",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6465/500/preview_b/758x322401000450n370050n_ztech_606c8011c1915.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe282e7a.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe2d5259.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 2,
+          "price": 2208,
+          "description": "sint qui minim occaecat cillum tempor non do do cupidatat adipisicing nisi excepteur ea aliqua aliqua dolore dolore enim et esse magna cillum aute dolor aliqua tempor velit nulla labore veniam occaecat excepteur Lorem pariatur sint consequat sint sint labore"
+        },
+        {
+          "id": "612fecfe6c78b9e5d00b341a",
+          "name": "Игровой системный блок Z-Tech I5-106-16-240-1000-460-N-370050n",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6465/500/preview_b/758x322401000450n370050n_ztech_606c8011c1915.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe282e7a.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe2d5259.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 3,
+          "price": 4436,
+          "description": "fugiat irure commodo nisi excepteur eu id est sint officia magna eiusmod magna enim ad voluptate sit voluptate aliqua quis eu pariatur amet nisi adipisicing ipsum ut incididunt nostrud fugiat anim proident reprehenderit deserunt et eiusmod ea excepteur esse magna"
+        },
+        {
+          "id": "612fecfe72a4904b878b5f1c",
+          "name": "Игровой системный блок Jet Gamer 9i10900KFD32SD96X306L2W7",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6482/947/preview_b/gamer9i10900kfd32sd96x306l2w7_jet_6076a9f183349.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300c3d235.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300ba9341.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300bdcd88.png"
+          ],
+          "rating": 0,
+          "availableAmount": 2,
+          "price": 2417,
+          "description": "proident aliquip voluptate proident sunt nisi laborum excepteur est sunt voluptate esse exercitation sit adipisicing mollit veniam anim amet officia ipsum tempor est proident incididunt exercitation nulla aliqua qui aliquip exercitation et fugiat nisi ullamco elit voluptate consectetur labore fugiat"
+        },
+        {
+          "id": "612fecfef1c4cdbaae6a9c41",
+          "name": "Игровой системный блок Jet Gamer 9i10900KFD32SD48X306L2W7",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6482/947/preview_b/gamer9i10900kfd32sd96x306l2w7_jet_6076a9f183349.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300c3d235.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300ba9341.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300bdcd88.png"
+          ],
+          "rating": 3,
+          "availableAmount": 23,
+          "price": 5565,
+          "description": "nulla laboris magna est nulla nostrud aliqua ea exercitation in duis adipisicing ullamco elit ut consectetur occaecat quis qui adipisicing labore labore fugiat pariatur cupidatat pariatur qui elit in eu excepteur mollit adipisicing anim id duis amet Lorem excepteur consequat"
+        },
+        {
+          "id": "612fecfeac420495193be546",
+          "name": "Игровой системный блок Z-Tech 5-36X-32-240-1000-450-N-370050n",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6465/500/preview_b/758x322401000450n370050n_ztech_606c8011c1915.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe282e7a.jpeg",
+            "https://cdn21vek.by/img/galleries/6114/904/preview_b/i5104f162401000460n290050n_ztech_5f7b3fe2d5259.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 25,
+          "price": 3408,
+          "description": "aute cillum incididunt esse voluptate sit dolor excepteur est ullamco tempor aute eiusmod ullamco dolor reprehenderit cillum id duis ea proident deserunt sunt amet mollit tempor duis eu in aute adipisicing exercitation ipsum culpa quis et consequat laboris tempor in"
+        },
+        {
+          "id": "612fecfef87d1811167dc8c2",
+          "name": "Игровой системный блок Jet Gamer 9i10900KFD32SD24X306L2W7",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6482/947/preview_b/gamer9i10900kfd32sd96x306l2w7_jet_6076a9f183349.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300c3d235.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300ba9341.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300bdcd88.png"
+          ],
+          "rating": 4,
+          "availableAmount": 5,
+          "price": 8010,
+          "description": "anim commodo officia eu ex duis sit cupidatat sit minim ea laborum ex quis minim nulla velit tempor consectetur anim ipsum amet eiusmod aliquip magna id enim sunt cillum duis ex pariatur proident Lorem voluptate id nisi anim dolor esse"
+        },
+        {
+          "id": "612fecfe77ad121410ce32e5",
+          "name": "Игровой системный блок Z-Tech I5-106K-16-240-1000-Z490-N-360059n",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6309/302/preview_b/i5106k162401000z490n360059n_ztech_5fe0a02342ab8.jpeg",
+            "https://cdn21vek.by/img/galleries/6200/831/preview_b/i7107162401000z490n310059n_ztech_5f7ee3348d943.jpeg",
+            "https://cdn21vek.by/img/galleries/6200/831/preview_b/i7107162401000z490n310059n_ztech_5f7ee3349eab7.jpeg",
+            "https://cdn21vek.by/img/galleries/6200/831/preview_b/i7107162401000z490n310059n_ztech_608aa00e7bacf.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 25,
+          "price": 8913,
+          "description": "eu eu nulla labore incididunt consectetur anim ullamco elit fugiat reprehenderit ex fugiat pariatur consectetur reprehenderit voluptate proident magna cillum excepteur cillum sit ut aliqua Lorem ea ea aliquip esse amet minim qui magna sint ullamco aute commodo exercitation in"
+        },
+        {
+          "id": "612fecfea3d13b318d1db6ab",
+          "name": "Игровой системный блок Jet Gamer 7i10700KFD32SD96X306L2W7",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6482/947/preview_b/gamer9i10900kfd32sd96x306l2w7_jet_6076a9f183349.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300c3d235.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300ba9341.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300bdcd88.png"
+          ],
+          "rating": 1,
+          "availableAmount": 10,
+          "price": 4473,
+          "description": "nulla excepteur eu fugiat consectetur in pariatur sint ex sit excepteur laboris non duis sit et non mollit eu in ea excepteur id veniam consectetur fugiat dolore enim est minim aliquip cillum officia cupidatat labore enim mollit ut labore nostrud"
+        },
+        {
+          "id": "612fecfe5c8f3b97bf082c12",
+          "name": "Игровой системный блок Jet Gamer 7R3700XD32SD96X306L3W7",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6541/68/preview_b/gamer7r3700xd32sd96x306l3w7_jet_609fa1df68554.png",
+            "https://cdn21vek.by/img/galleries/6533/104/preview_b/gamer5i9400fd16sd24x306l3w7_jet_609bbc0c74a4a.png",
+            "https://cdn21vek.by/img/galleries/6533/104/preview_b/gamer5i9400fd16sd24x306l3w7_jet_609bbc0ca35a6.png",
+            "https://cdn21vek.by/img/galleries/6533/104/preview_b/gamer5i9400fd16sd24x306l3w7_jet_609bbc0d149ce.png",
+            "https://cdn21vek.by/img/galleries/6533/104/preview_b/gamer5i9400fd16sd24x306l3w7_jet_609bbc0d45cd9.png"
+          ],
+          "rating": 0,
+          "availableAmount": 14,
+          "price": 4889,
+          "description": "proident magna dolor pariatur consequat sunt non est magna nulla sint culpa nostrud eiusmod aute officia ex elit minim excepteur est quis anim in quis laborum aute veniam enim sunt ullamco sint ipsum nulla irure non ad cillum deserunt laborum"
+        },
+        {
+          "id": "612fecfee18cba1678fd7b4f",
+          "name": "Игровой системный блок Jet Gamer 5R5600XD32SD96X306L3W7",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6541/68/preview_b/gamer7r3700xd32sd96x306l3w7_jet_609fa1df68554.png",
+            "https://cdn21vek.by/img/galleries/6533/104/preview_b/gamer5i9400fd16sd24x306l3w7_jet_609bbc0c74a4a.png",
+            "https://cdn21vek.by/img/galleries/6533/104/preview_b/gamer5i9400fd16sd24x306l3w7_jet_609bbc0ca35a6.png",
+            "https://cdn21vek.by/img/galleries/6533/104/preview_b/gamer5i9400fd16sd24x306l3w7_jet_609bbc0d149ce.png",
+            "https://cdn21vek.by/img/galleries/6533/104/preview_b/gamer5i9400fd16sd24x306l3w7_jet_609bbc0d45cd9.png"
+          ],
+          "rating": 2,
+          "availableAmount": 23,
+          "price": 3008,
+          "description": "consequat aliquip quis incididunt ea non laborum ut magna commodo veniam voluptate mollit deserunt ipsum ipsum et labore cillum est enim cupidatat nostrud deserunt deserunt id non nostrud sunt ipsum sunt ut culpa quis eiusmod ea veniam culpa eu velit"
+        },
+        {
+          "id": "612fecfe14ccfc970904867f",
+          "name": "Компьютер OPS NewLine WB7A120W",
+          "imageUrls": [],
+          "rating": 2,
+          "availableAmount": 23,
+          "price": 8470,
+          "description": "dolor duis nulla ea eu ea tempor velit nulla velit magna nostrud commodo exercitation est Lorem ullamco adipisicing esse ea in minim nulla commodo reprehenderit aute velit nisi occaecat voluptate magna eiusmod veniam do proident voluptate adipisicing officia enim voluptate"
+        },
+        {
+          "id": "612fecfee1535e7ff740ca00",
+          "name": "Игровой системный блок Jet Gamer 7R3700XD32SD96X306L2W7",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6482/947/preview_b/gamer9i10900kfd32sd96x306l2w7_jet_6076a9f183349.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300c3d235.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300ba9341.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300bdcd88.png"
+          ],
+          "rating": 0,
+          "availableAmount": 17,
+          "price": 6823,
+          "description": "commodo consequat veniam est consequat mollit deserunt duis non dolore exercitation aliqua ullamco reprehenderit nulla amet aliquip laboris laborum adipisicing deserunt excepteur consectetur do velit do sit sit excepteur consectetur consequat veniam aliquip veniam laborum eu fugiat sit id in"
+        },
+        {
+          "id": "612fecfe1a0ec6380516ddde",
+          "name": "Игровой системный блок Jet Gamer 5R5600XD32SD96X306L2W7",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6482/947/preview_b/gamer9i10900kfd32sd96x306l2w7_jet_6076a9f183349.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300c3d235.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300ba9341.png",
+            "https://cdn21vek.by/img/galleries/6100/465/preview_b/gamer5r2600d16sd24x206sl2w7_jet_5f34300bdcd88.png"
+          ],
+          "rating": 1,
+          "availableAmount": 13,
+          "price": 7187,
+          "description": "enim ullamco laboris aliqua consequat ut consectetur ea consectetur duis aliquip do esse commodo in aute irure enim occaecat enim eiusmod amet excepteur excepteur sit quis quis enim laborum nulla et exercitation duis velit nisi aute ea magna ipsum adipisicing"
+        }
+      ],
       "consoles": [],
       "hardware": [],
       "peripherals": [],
