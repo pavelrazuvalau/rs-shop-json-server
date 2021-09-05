@@ -76,13 +76,125 @@ function getAllGoods(server) {
 function reduceAvailableCount(server, items) {
   const allGoods = getAllGoods(server);
 
-  items.forEach(purchasedItem => {
-    const item = allGoods.find(it => it.id === purchasedItem.id);
+  items.forEach((purchasedItem) => {
+    const item = allGoods.find((it) => it.id === purchasedItem.id);
     item.availableAmount -= purchasedItem.amount;
-  })
+  });
 }
 
 module.exports = (server) => {
+  /**
+    * @swagger
+    *
+    * tags:
+    *   name: users
+    *   description: API for managing users
+    *
+    * components:
+    *   schemas:
+    *     UserLogin:
+    *       type: object
+    *       properties:
+    *         login:
+    *           type: string
+    *           description: user login
+    *         password:
+    *           type: string
+    *           description: user password
+    *     UserRegister:
+    *       type: object
+    *       properties:
+    *         firstName:
+    *           type: string
+    *         lastName:
+    *           type: string
+    *         login:
+    *           type: string
+    *         password:
+    *           type: string
+    *     TokenResponse:
+    *       type: object
+    *       properties:
+    *         token:
+    *           type: string
+    *           description: user token
+    *     OrderItem:
+    *       type: object
+    *       properties:
+    *         id:
+    *           type: string
+    *         amount:
+    *           type: number
+    *     UserOrderRequest:
+    *       type: object
+    *       properties:
+    *         items:
+    *           type: array
+    *           items:
+    *             $ref: '#/components/schemas/OrderItem'
+    *         details:
+    *           type: object
+    *           properties:
+    *             name:
+    *               type: string
+    *             address:
+    *               type: string
+    *             phone:
+    *               type: string
+    *             timeToDeliver:
+    *               type: string
+    *             comment:
+    *               type: string
+    *     UserOrder:
+    *       allOf:
+    *         - $ref: '#/components/schemas/UserOrderRequest'
+    *         - type: object
+    *           properties:
+    *             id:
+    *               type: string 
+    *     UserInfo:
+    *       type: object
+    *       properties:
+    *         firstName:
+    *           type: string
+    *         lastName:
+    *           type: string
+    *         cart:
+    *           type: array
+    *           items:
+    *             type: string
+    *         favorites:
+    *           type: array
+    *           items:
+    *             type: string
+    *         orders:
+    *           type: array
+    *           items:
+    *             $ref: '#/components/schemas/UserOrder'
+  */
+
+  /**
+    * @swagger
+    * /users/login:
+    *   post:
+    *     tags: [users]
+    *     description: Performs user login
+    *     requestBody:
+    *       required: true
+    *       content:
+    *         application/json:
+    *           schema:
+    *             $ref: '#/components/schemas/UserLogin'
+    *     responses:
+    *       200:
+    *         description: user logged in successfully
+    *         content:
+    *           application/json:
+    *             schema:
+    *               $ref: '#/components/schemas/TokenResponse'
+    *       401:
+    *         description: wrong credentials entered
+  */
   router.post('/users/login', (req, res) => {
     const { body } = req;
 
@@ -102,6 +214,21 @@ module.exports = (server) => {
     }
   });
 
+  /**
+    * @swagger
+    * /users/userInfo:
+    *   get:
+    *     tags: [users]
+    *     description: Gets current user info
+    *     responses:
+    *       200:
+    *         content:
+    *           application/json:
+    *             schema:
+    *               $ref: '#/components/schemas/UserInfo'
+    *       401:
+    *         description: user token is missing
+  */
   router.get('/users/userInfo', (req, res) => {
     const matchedUser = getUserByToken(req, res, server);
 
@@ -114,6 +241,25 @@ module.exports = (server) => {
     res.json(user);
   });
 
+  /**
+    * @swagger
+    * /users/register:
+    *   post:
+    *     tags: [users]
+    *     description: Register new user
+    *     requestBody:
+    *       required: true
+    *       content:
+    *         application/json:
+    *           schema:
+    *             $ref: '#/components/schemas/UserRegister'
+    *     responses:
+    *       200:
+    *         content:
+    *           application/json:
+    *             schema:
+    *               $ref: '#/components/schemas/TokenResponse'
+  */
   router.post('/users/register', (req, res) => {
     const token = makeToken();
 
@@ -131,22 +277,118 @@ module.exports = (server) => {
     res.json({ token });
   });
 
+  /**
+    * @swagger
+    * /users/favorites:
+    *   post:
+    *     tags: [users]
+    *     description: Adds item to the favorites list
+    *     requestBody:
+    *       required: true
+    *       content:
+    *         application/json:
+    *           schema:
+    *             type: object
+    *             properties:
+    *               id:
+    *                 type: string
+    *     responses:
+    *       200:
+    *         description: item added to favorites
+    *       401:
+    *         description: user token is missing
+  */
   router.post('/users/favorites', (req, res) => {
     handleAddingToLists(server, 'favorites', true, req, res);
   });
 
+  /**
+    * @swagger
+    * /users/favorites?id=itemId:
+    *   delete:
+    *     tags: [users]
+    *     description: Removes item from the favorites list
+    *     parameters:
+    *       - in: query
+    *         name: id
+    *         required: true
+    *         schema:
+    *           type: number
+    *     responses:
+    *       200:
+    *         description: item removed from favorites
+    *       401:
+    *         description: user token is missing
+  */
   router.delete('/users/favorites', (req, res) => {
     handleAddingToLists(server, 'favorites', false, req, res);
   });
 
+  /**
+    * @swagger
+    * /users/cart:
+    *   post:
+    *     tags: [users]
+    *     description: Adds item to the user cart
+    *     requestBody:
+    *       required: true
+    *       content:
+    *         application/json:
+    *           schema:
+    *             type: object
+    *             properties:
+    *               id:
+    *                 type: string
+    *     responses:
+    *       200:
+    *         description: item added to the user cart
+    *       401:
+    *         description: user token is missing
+  */  
   router.post('/users/cart', (req, res) => {
     handleAddingToLists(server, 'cart', true, req, res);
   });
 
+  /**
+    * @swagger
+    * /users/cart?id=itemId:
+    *   delete:
+    *     tags: [users]
+    *     description: Removes item from the user cart
+    *     parameters:
+    *       - in: query
+    *         name: id
+    *         required: true
+    *         schema:
+    *           type: number
+    *     responses:
+    *       200:
+    *         description: item removed from the user cart
+    *       401:
+    *         description: user token is missing
+  */
   router.delete('/users/cart', (req, res) => {
     handleAddingToLists(server, 'cart', false, req, res);
   });
 
+  /**
+    * @swagger
+    * /users/order:
+    *   post:
+    *     tags: [users]
+    *     description: Submits user order
+    *     requestBody:
+    *       required: true
+    *       content:
+    *         application/json:
+    *           schema:
+    *             $ref: '#/components/schemas/UserOrderRequest'
+    *     responses:
+    *       200:
+    *         description: order submitted
+    *       401:
+    *         description: user token is missing
+  */  
   router.post('/users/order', (req, res) => {
     const { body } = req;
     const matchedUser = getUserByToken(req, res, server);
@@ -182,6 +424,24 @@ module.exports = (server) => {
     res.send(200);
   });
 
+  /**
+    * @swagger
+    * /users/order:
+    *   put:
+    *     tags: [users]
+    *     description: Edits user order
+    *     requestBody:
+    *       required: true
+    *       content:
+    *         application/json:
+    *           schema:
+    *             $ref: '#/components/schemas/UserOrder'
+    *     responses:
+    *       200:
+    *         description: order edited
+    *       401:
+    *         description: user token is missing
+  */  
   router.put('/users/order', (req, res) => {
     const { body } = req;
     const matchedUser = getUserByToken(req, res, server);
@@ -209,8 +469,26 @@ module.exports = (server) => {
     res.send(200);
   });
 
+  /**
+    * @swagger
+    * /users/order?id=orderId:
+    *   delete:
+    *     tags: [users]
+    *     description: Removes user order
+    *     parameters:
+    *       - in: query
+    *         name: id
+    *         required: true
+    *         schema:
+    *           type: number
+    *     responses:
+    *       200:
+    *         description: order removed
+    *       401:
+    *         description: user token is missing
+  */
   router.delete('/users/order', (req, res) => {
-    const { body } = req;
+    const { query } = url.parse(req.originalUrl, true);
     const matchedUser = getUserByToken(req, res, server);
 
     if (!matchedUser) {
@@ -223,7 +501,7 @@ module.exports = (server) => {
         user.token === matchedUser.token
           ? {
               ...user,
-              orders: user.orders.filter((order) => order.id !== body.id),
+              orders: user.orders.filter((order) => order.id !== query.id),
             }
           : user
       ),
