@@ -82,6 +82,10 @@ function getAllGoods(server, req) {
   *           type: number
   *         description:
   *           type: string
+  *         isInCart:
+  *           type: boolean
+  *         isFavorite:
+  *           type: boolean
 */
 module.exports = (server) => {
   /**
