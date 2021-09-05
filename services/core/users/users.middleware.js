@@ -14,9 +14,9 @@ function makeToken(length = 24) {
 }
 
 function getUserByToken(req, res, server) {
-  const authorizationHeader = req.header('Authorization').split(' ');
-  const authorizationMethod = authorizationHeader[0];
-  const reqToken = authorizationHeader[1];
+  const authorizationHeader = req.header('Authorization') && req.header('Authorization').split(' ');
+  const authorizationMethod = authorizationHeader && authorizationHeader[0];
+  const reqToken = authorizationHeader && authorizationHeader[1];
 
   if (!reqToken || authorizationMethod !== 'Bearer') {
     return res.status(401).send('Unauthorized');
@@ -89,6 +89,10 @@ function reduceAvailableCount(server, items) {
     *   description: API for managing users
     *
     * components:
+    *   securitySchemes:
+    *     BearerAuth:
+    *       type: http
+    *       scheme: bearer
     *   schemas:
     *     UserLogin:
     *       type: object
@@ -218,6 +222,8 @@ module.exports = (server) => {
     *   get:
     *     tags: [users]
     *     description: Gets current user info
+    *     security:
+    *       - BearerAuth: []
     *     responses:
     *       200:
     *         content:
@@ -281,6 +287,8 @@ module.exports = (server) => {
     *   post:
     *     tags: [users]
     *     description: Adds item to the favorites list
+    *     security:
+    *       - BearerAuth: []
     *     requestBody:
     *       required: true
     *       content:
@@ -306,6 +314,8 @@ module.exports = (server) => {
     *   delete:
     *     tags: [users]
     *     description: Removes item from the favorites list
+    *     security:
+    *       - BearerAuth: []
     *     parameters:
     *       - in: query
     *         name: id
@@ -328,6 +338,8 @@ module.exports = (server) => {
     *   post:
     *     tags: [users]
     *     description: Adds item to the user cart
+    *     security:
+    *       - BearerAuth: []
     *     requestBody:
     *       required: true
     *       content:
@@ -353,6 +365,8 @@ module.exports = (server) => {
     *   delete:
     *     tags: [users]
     *     description: Removes item from the user cart
+    *     security:
+    *       - BearerAuth: []
     *     parameters:
     *       - in: query
     *         name: id
@@ -375,6 +389,8 @@ module.exports = (server) => {
     *   post:
     *     tags: [users]
     *     description: Submits user order
+    *     security:
+    *       - BearerAuth: []
     *     requestBody:
     *       required: true
     *       content:
@@ -428,6 +444,8 @@ module.exports = (server) => {
     *   put:
     *     tags: [users]
     *     description: Edits user order
+    *     security:
+    *       - BearerAuth: []
     *     requestBody:
     *       required: true
     *       content:
@@ -473,6 +491,8 @@ module.exports = (server) => {
     *   delete:
     *     tags: [users]
     *     description: Removes user order
+    *     security:
+    *       - BearerAuth: []
     *     parameters:
     *       - in: query
     *         name: id
