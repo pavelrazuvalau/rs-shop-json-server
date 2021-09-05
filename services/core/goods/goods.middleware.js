@@ -225,12 +225,12 @@ module.exports = (server) => {
 
     /**
     * @swagger
-    * /goods/item?id=itemId:
+    * /goods/item/{itemId}:
     *   get:
     *     tags: [goods]
     *     description: Gets shop item by id
     *     parameters:
-    *       - in: query
+    *       - in: path
     *         name: id
     *         required: true
     *         schema:
