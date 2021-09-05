@@ -3463,23 +3463,2810 @@
           "description": "enim ullamco laboris aliqua consequat ut consectetur ea consectetur duis aliquip do esse commodo in aute irure enim occaecat enim eiusmod amet excepteur excepteur sit quis quis enim laborum nulla et exercitation duis velit nisi aute ea magna ipsum adipisicing"
         }
       ],
-      "consoles": [],
-      "hardware": [],
-      "peripherals": [],
-      "monitors": []
+      "consoles": [
+        {
+          "id": "61313073112d6f862204c001",
+          "name": "Игровая приставка Sony PlayStation 4 1TB + GTS/HZD CE/SpiderM / PS719391302 (PS+3M)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6101/32/preview_b/playstation41tbgtshzdcespidermps719391302ps3m_sony_5f21181a90537.jpeg",
+            "https://cdn21vek.by/img/galleries/6101/32/preview_b/playstation41tbgtshzdcespidermps719391302ps3m_sony_5f2118179c494.jpeg",
+            "https://cdn21vek.by/img/galleries/6101/32/preview_b/playstation41tbgtshzdcespidermps719391302ps3m_sony_5f211817c069f.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 8,
+          "price": 1613,
+          "description": "cupidatat exercitation dolore aute commodo ut dolor cupidatat officia enim nostrud cupidatat ad excepteur exercitation duis et irure tempor in cupidatat consectetur do adipisicing reprehenderit duis fugiat anim esse duis in mollit velit deserunt exercitation adipisicing non tempor aliqua occaecat"
+        },
+        {
+          "id": "61313073e431f471b57a7fb7",
+          "name": "Игровая приставка Sega Magistr Titan 2 400 игр",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1021/457/preview_b/magistrtitan2400_sega_5ce274ad2a248.jpeg",
+            "https://cdn21vek.by/img/galleries/1021/457/preview_b/magistrtitan2400_sega_5ce274b5e22be.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 4,
+          "price": 1216,
+          "description": "cillum elit nisi dolore proident consequat duis do deserunt velit commodo ullamco veniam exercitation laboris excepteur eiusmod nulla duis ullamco in non consequat id enim duis fugiat sit pariatur tempor do eiusmod qui id dolore anim mollit ad mollit ullamco"
+        },
+        {
+          "id": "6131307312d06e7fc11b6d4f",
+          "name": "Игровая приставка Sega Магистр Titan 500 игр (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1021/569/preview_b/titan500_sega_5ce276a6125c7.jpeg",
+            "https://cdn21vek.by/img/galleries/1021/569/preview_b/titan500_sega_5ce276b7c4248.jpeg",
+            "https://cdn21vek.by/img/galleries/1021/569/preview_b/titan500_sega_5ce276b7deb3c.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 16,
+          "price": 1195,
+          "description": "sint est incididunt dolore tempor laborum incididunt anim eu nostrud dolor consequat qui ullamco laboris ipsum exercitation officia cillum fugiat incididunt esse tempor consequat deserunt proident incididunt ut commodo in eiusmod sit cupidatat officia quis enim pariatur quis Lorem occaecat"
+        },
+        {
+          "id": "613130732a8e9d97216ae2ab",
+          "name": "Игровая приставка Sega Magistr X 220 игр",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1021/564/preview_b/magistrx220_sega_5ce277cbbc1dd.jpeg",
+            "https://cdn21vek.by/img/galleries/1021/564/preview_b/magistrx220_sega_5ce277d27efb8.jpeg",
+            "https://cdn21vek.by/img/galleries/1021/564/preview_b/magistrx220_sega_5ce277d2a0750.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 28,
+          "price": 907,
+          "description": "anim incididunt aute ipsum mollit enim aliquip deserunt in veniam nostrud ea laboris ut eiusmod laboris culpa reprehenderit mollit eiusmod nostrud ex non et mollit qui id ipsum deserunt id reprehenderit consequat excepteur minim aute ut excepteur laboris cupidatat veniam"
+        },
+        {
+          "id": "613130730c614b8d4b120b34",
+          "name": "Игровая приставка Sega Nimbus Smart 740 игр",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6385/29/preview_b/nimbussmart740_sega_602d4fdf32824.jpeg",
+            "https://cdn21vek.by/img/galleries/6385/29/preview_b/nimbussmart740_sega_602d4fe4a969c.jpeg",
+            "https://cdn21vek.by/img/galleries/6385/29/preview_b/nimbussmart740_sega_602d4fe4dcd01.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 3,
+          "price": 959,
+          "description": "dolor anim ipsum consequat ullamco culpa ipsum sit velit reprehenderit Lorem id anim sint mollit commodo voluptate sunt tempor sunt nostrud proident in ex aliqua nulla non eu id excepteur et officia nulla in culpa incididunt quis voluptate ullamco sint"
+        },
+        {
+          "id": "61313073691a61062be19324",
+          "name": "Игровая приставка Dendy Master 300 игр",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6232/706/preview_b/master300_dendy_5fc8a47f78a9f.jpeg",
+            "https://cdn21vek.by/img/galleries/6232/706/preview_b/master300_dendy_5fc8a48749316.jpeg",
+            "https://cdn21vek.by/img/galleries/6232/706/preview_b/master300_dendy_5fc8a48774476.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 7,
+          "price": 570,
+          "description": "quis ad commodo in nostrud esse quis dolor magna laborum exercitation ipsum aliquip aliqua officia eu velit cillum id dolor ut ut mollit mollit enim mollit et anim proident ad sit mollit enim reprehenderit veniam et veniam enim quis qui"
+        },
+        {
+          "id": "613130733d0e3036753b9c58",
+          "name": "Игровая приставка Nintendo Switch 2019 / HAD-001-01 (красный/синий)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5921/70/preview_b/switch2019had00101_nintendo_5e68fc2b5820c.jpeg",
+            "https://cdn21vek.by/img/galleries/5921/70/preview_b/switch2019had00101_nintendo_5e68fc359db3c.jpeg",
+            "https://cdn21vek.by/img/galleries/5921/70/preview_b/switch2019had00101_nintendo_5e68fc34d1784.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 14,
+          "price": 219,
+          "description": "officia aliqua cillum ea ea velit nostrud qui excepteur proident incididunt ullamco sint fugiat mollit voluptate amet Lorem sunt quis pariatur eiusmod reprehenderit enim consequat enim eu in tempor duis nulla non non culpa aute voluptate tempor anim voluptate ad"
+        },
+        {
+          "id": "61313073f3ed3050b4976604",
+          "name": "Игровая приставка Dendy Vakker 300 игр + световой пистолет",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6270/247/preview_b/vakker300_dendy_5fc89f771aedc.png",
+            "https://cdn21vek.by/img/galleries/6270/247/preview_b/vakker300_dendy_5fc89fa2c46c8.png",
+            "https://cdn21vek.by/img/galleries/6270/247/preview_b/vakker300_dendy_5fc89f9d5dcce.png"
+          ],
+          "rating": 1,
+          "availableAmount": 16,
+          "price": 395,
+          "description": "occaecat laboris eiusmod enim consequat adipisicing ipsum anim tempor amet pariatur anim aliqua irure occaecat nostrud occaecat culpa elit labore fugiat ad voluptate sint sint mollit sint culpa ut nostrud enim proident proident ex esse laborum duis anim est enim"
+        },
+        {
+          "id": "61313073d8bdafc03ae39ef0",
+          "name": "Игровая приставка Retro Genesis 8 Bit Classic 300 игр",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6524/966/preview_b/8bitclassic300_retro_genesis_60a2218f38e6b.jpeg",
+            "https://cdn21vek.by/img/galleries/6524/966/preview_b/8bitclassic300_retro_genesis_60a22198aca83.jpeg",
+            "https://cdn21vek.by/img/galleries/6524/966/preview_b/8bitclassic300_retro_genesis_60a22199a8bd7.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 30,
+          "price": 1336,
+          "description": "consequat commodo adipisicing quis occaecat in officia ad aliqua laboris excepteur enim pariatur amet ad fugiat exercitation in laboris cillum deserunt sint nisi exercitation tempor officia eiusmod ipsum magna dolore reprehenderit duis reprehenderit nostrud amet nisi consectetur id pariatur irure"
+        },
+        {
+          "id": "6131307345ecb010b1684b9d",
+          "name": "Игровая приставка Retro Genesis 8 Bit HD + 300 игр (белый/красный)",
+          "imageUrls": [],
+          "rating": 1,
+          "availableAmount": 4,
+          "price": 1422,
+          "description": "labore do exercitation officia minim elit cillum id pariatur velit et minim voluptate tempor amet dolor laboris veniam eu dolore occaecat do ipsum quis dolore in id aliquip sit id reprehenderit non officia reprehenderit occaecat eiusmod voluptate cupidatat incididunt nostrud"
+        },
+        {
+          "id": "61313073b160ec4b46505f63",
+          "name": "Игровая приставка Retro Genesis Remix Wireless (8+16Bit) 600 игр",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6524/992/preview_b/remixwireless816bit600_retro_genesis_60a22432ded19.jpeg",
+            "https://cdn21vek.by/img/galleries/6524/992/preview_b/remixwireless816bit600_retro_genesis_60a2243740be6.jpeg",
+            "https://cdn21vek.by/img/galleries/6524/992/preview_b/remixwireless816bit600_retro_genesis_60a22437c31da.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 8,
+          "price": 345,
+          "description": "quis eu eu id voluptate in in ea consequat qui culpa aliquip qui ut ad in occaecat magna irure irure labore tempor in qui Lorem occaecat commodo nulla dolor anim mollit labore consequat incididunt deserunt est aute magna elit aliquip"
+        }
+      ],
+      "hardware": [
+        {
+          "id": "61313ca67ba5a68742dedbc1",
+          "name": "Видеокарта Palit GeForce GTX 1660 Super GamingPro OC (NE6166SS18J9-1160A)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5774/153/preview_b/geforcegtx1660supergamingproocne6166ss18j91160a_palit_5dc99201033d6.png",
+            "https://cdn21vek.by/img/galleries/5774/153/preview_b/geforcegtx1660supergamingproocne6166ss18j91160a_palit_5dc99236e8459.png",
+            "https://cdn21vek.by/img/galleries/5774/153/preview_b/geforcegtx1660supergamingproocne6166ss18j91160a_palit_5dc9920043d60.png"
+          ],
+          "rating": 1,
+          "availableAmount": 18,
+          "price": 1559.87,
+          "description": "laborum ea irure anim sit nisi incididunt ex esse ea nulla in duis eu Lorem ullamco dolor ipsum mollit laborum duis exercitation veniam cillum duis nisi qui ex sunt consectetur laborum excepteur commodo sit ea consequat officia do Lorem irure"
+        },
+        {
+          "id": "61313ca6475399c45cdc9d9d",
+          "name": "Видеокарта Asus GT710 1Gb GDDR5 64bit (GT710-SL-1GD5-BRK)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/503/728/preview_b/gt7101gbgddr564bitgt710sl1gd5brk_asus_5a86cc0fe2cc9.jpeg",
+            "https://cdn21vek.by/img/galleries/503/728/preview_b/gt7101gbgddr564bitgt710sl1gd5brk_asus_5a86cc10c0cce.jpeg",
+            "https://cdn21vek.by/img/galleries/503/728/preview_b/gt7101gbgddr564bitgt710sl1gd5brk_asus_5a86cc1265907.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 21,
+          "price": 1763.64,
+          "description": "pariatur Lorem non aliquip officia aute non consequat excepteur nisi duis quis commodo et minim ut nisi reprehenderit ipsum fugiat ullamco eu fugiat id magna nulla cupidatat commodo cupidatat duis aliqua nulla nisi enim cillum deserunt eiusmod ad eiusmod minim"
+        },
+        {
+          "id": "61313ca69d6825d7fc0a7880",
+          "name": "Видеокарта Asus GT1030-SL-2G-BRK",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/471/377/preview_b/gt1030sl2gbrk_asus_599572f8e5635.jpeg",
+            "https://cdn21vek.by/img/galleries/471/377/preview_b/gt1030sl2gbrk_asus_599572fbb418c.jpeg",
+            "https://cdn21vek.by/img/galleries/471/377/preview_b/gt1030sl2gbrk_asus_599572fdd5457.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 10,
+          "price": 501.24,
+          "description": "incididunt reprehenderit nulla duis nulla sunt id voluptate ea reprehenderit duis cillum commodo amet sunt laborum dolor ut et tempor culpa commodo eu sit ad eu laboris enim deserunt deserunt dolor aliquip Lorem sunt sunt exercitation id quis dolore cupidatat"
+        },
+        {
+          "id": "61313ca6e2886b5ae610195a",
+          "name": "Видеокарта Gigabyte GV-N710D3-2GL",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/412/2/preview_b/gvn710d32gl_gigabyte_58a2af3a8adae.jpeg",
+            "https://cdn21vek.by/img/galleries/412/2/preview_b/gvn710d32gl_gigabyte_58a2af3b0e378.jpeg",
+            "https://cdn21vek.by/img/galleries/412/2/preview_b/gvn710d32gl_gigabyte_58a2af3bb5fb6.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 23,
+          "price": 1876.69,
+          "description": "consequat quis velit adipisicing quis ipsum cillum Lorem consequat laborum veniam veniam non ex exercitation esse nulla dolore excepteur ut aute irure culpa aliquip ad deserunt irure minim ut est sunt eiusmod amet commodo ad sint laborum tempor eu id"
+        },
+        {
+          "id": "61313ca61bf843890ffc50b0",
+          "name": "Видеокарта Asus PH-GTX1650-O4GD6-P",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6324/813/preview_b/phgtx1650o4gd6p_asus_60632fe47f01f.jpeg",
+            "https://cdn21vek.by/img/galleries/6324/813/preview_b/phgtx1650o4gd6p_asus_60632f721695f.jpeg",
+            "https://cdn21vek.by/img/galleries/6324/813/preview_b/phgtx1650o4gd6p_asus_60632f6f4b710.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 7,
+          "price": 1020.13,
+          "description": "amet sunt laborum tempor quis occaecat labore velit voluptate exercitation exercitation minim quis anim in cillum Lorem tempor aliqua eiusmod pariatur consectetur aute quis ipsum ad minim nisi laboris do anim fugiat aliquip aute tempor ut labore eiusmod ut laboris"
+        },
+        {
+          "id": "61313ca6ae8d912ed787b97f",
+          "name": "Видеокарта XFX RX 580 (RX-580P8DFD6)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1128/306/preview_b/rx580rx580p8dfd6_xfx_5d48282fc5012.jpeg",
+            "https://cdn21vek.by/img/galleries/1128/306/preview_b/rx580rx580p8dfd6_xfx_5d48283003b6e.jpeg",
+            "https://cdn21vek.by/img/galleries/1128/306/preview_b/rx580rx580p8dfd6_xfx_5d48283026f78.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 14,
+          "price": 1856.89,
+          "description": "commodo consequat ut ad ea exercitation ut ut exercitation labore aute duis culpa eiusmod esse fugiat ex dolor laboris commodo sint labore adipisicing mollit consectetur voluptate ut veniam ut dolore nulla mollit non nulla aliqua cillum amet non adipisicing elit"
+        },
+        {
+          "id": "61313ca6f7acf7182cabc371",
+          "name": "Видеокарта MSI GT 1030 2GD4 LP OC",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1170/247/preview_b/gt10302gd4lpoc_msi_5d5fc91fcc134.png",
+            "мhttps://cdn21vek.by/img/galleries/1170/247/preview_b/gt10302gd4lpoc_msi_5d5fc920402db.png"
+          ],
+          "rating": 3,
+          "availableAmount": 21,
+          "price": 1363.85,
+          "description": "velit aute officia ex do qui id laboris elit Lorem sit ex incididunt cillum ea veniam tempor reprehenderit magna sint nostrud amet magna elit ullamco aliqua pariatur voluptate ut ut nostrud velit minim non sit occaecat in reprehenderit esse consectetur"
+        },
+        {
+          "id": "61313ca6a886d67e07f22dd4",
+          "name": "Видеокарта Asus GT1030 2GB GDDR5 Ret (GT1030-2G-BRK)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/542/160/preview_b/gt10302gbgddr5retgt10302gbrk_asus_5a9ed2a235abc.jpeg",
+            "https://cdn21vek.by/img/galleries/542/160/preview_b/gt10302gbgddr5retgt10302gbrk_asus_5a9ed2a299697.jpeg",
+            "https://cdn21vek.by/img/galleries/542/160/preview_b/gt10302gbgddr5retgt10302gbrk_asus_5a9ed2a3173b8.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 10,
+          "price": 1296.59,
+          "description": "non pariatur proident tempor incididunt ad commodo officia id non minim in consequat anim ipsum non do ea fugiat mollit excepteur minim cillum ad adipisicing laboris laboris officia minim ut veniam ipsum ex reprehenderit ex veniam est esse anim fugiat"
+        },
+        {
+          "id": "61313ca678edd797480c1ce2",
+          "name": "Видеокарта AMD Radeon Pro WX 3100 (100-505999)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6265/74/preview_b/radeonprowx3100100505999_amd_5fb7991063497.jpeg",
+            "https://cdn21vek.by/img/galleries/6265/74/preview_b/radeonprowx3100100505999_amd_5fb79913e9600.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 18,
+          "price": 425.98,
+          "description": "ipsum quis laborum sit nisi consequat velit ad ea elit consequat in aute enim ullamco incididunt nisi ex reprehenderit ex eu pariatur magna laboris sunt esse in occaecat deserunt adipisicing consequat culpa Lorem commodo in do dolore dolore reprehenderit ipsum"
+        },
+        {
+          "id": "61313ca6f6bcf892bc825d02",
+          "name": "Видеокарта Asus DUAL-RTX2060-O6G-EVO",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1125/996/preview_b/dualrtx2060o6gevo_asus_5d42dda7d7fb2.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 21,
+          "price": 1921.4,
+          "description": "Lorem enim anim officia Lorem nisi ut incididunt proident laborum culpa mollit id irure consectetur ad id tempor exercitation est in ad mollit aute consectetur mollit cupidatat ipsum dolor culpa laboris minim ipsum est laborum dolore dolore ullamco laboris non"
+        },
+        {
+          "id": "61313ca6435db6034b6fb8d4",
+          "name": "Видеокарта Asus GT710-SL-2GD5",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6462/410/preview_b/gt710sl2gd5_asus_607055989db8a.jpeg",
+            "https://cdn21vek.by/img/galleries/6462/410/preview_b/gt710sl2gd5_asus_607055993af4f.jpeg",
+            "https://cdn21vek.by/img/galleries/6462/410/preview_b/gt710sl2gd5_asus_60705598e36ce.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 8,
+          "price": 584.8,
+          "description": "et laborum velit ea cillum enim aute tempor nulla ipsum proident non reprehenderit ad irure est laboris pariatur adipisicing ullamco et sit adipisicing velit do cillum commodo elit officia Lorem consectetur non qui pariatur reprehenderit ea eiusmod sit eiusmod quis"
+        },
+        {
+          "id": "61313ca649ee07052752a1ff",
+          "name": "Видеокарта PNY Nvidia Quadro P2200 5GB GDDR5 (VCQP2200-PB)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6300/315/preview_b/nvidiaquadrop22005gbgddr5vcqp2200pb_pny_600295db3551d.jpeg",
+            "https://cdn21vek.by/img/galleries/6300/315/preview_b/nvidiaquadrop22005gbgddr5vcqp2200pb_pny_600295e009021.jpeg",
+            "https://cdn21vek.by/img/galleries/6300/315/preview_b/nvidiaquadrop22005gbgddr5vcqp2200pb_pny_600295e05df0b.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 24,
+          "price": 924.99,
+          "description": "sit Lorem esse culpa reprehenderit laborum et ad adipisicing nostrud cupidatat pariatur irure eiusmod eu laboris laborum ea deserunt ut cupidatat sit adipisicing aliquip mollit amet cillum exercitation excepteur aliqua nisi ipsum est nisi amet non nisi dolore Lorem ullamco"
+        },
+        {
+          "id": "61313ca6baf6c5b9545ef319",
+          "name": "Видеокарта AFOX GeForce GT 220 1GB (AF220-1024D3L4)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6756/786/preview_b/geforcegt2201gbaf2201024d3l4_afox_611130fdd4eaf.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 30,
+          "price": 1319.04,
+          "description": "ea cillum ea proident laboris ex nulla deserunt eu proident ipsum ad veniam minim minim amet eu enim eu est officia deserunt ipsum aliqua occaecat ea cillum cillum nostrud dolor cillum aute Lorem eu occaecat laboris nostrud id quis veniam"
+        },
+        {
+          "id": "61313ca671d7ed10309e6354",
+          "name": "Видеокарта Arktek GT 730 2GB DDR3 (AKN730D3S2GL1)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6747/706/preview_b/gt7302gbddr3akn730d3s2gl1_arktek_610905fc722de.jpeg",
+            "https://cdn21vek.by/img/galleries/6747/706/preview_b/gt7302gbddr3akn730d3s2gl1_arktek_6109060311fc6.jpeg",
+            "https://cdn21vek.by/img/galleries/6747/706/preview_b/gt7302gbddr3akn730d3s2gl1_arktek_61090603d702a.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 13,
+          "price": 480.5,
+          "description": "consequat cupidatat voluptate qui aute et ut exercitation exercitation tempor proident id consequat labore enim mollit in deserunt Lorem aute nisi nostrud velit quis pariatur sit et pariatur ut labore mollit minim fugiat pariatur eiusmod ullamco veniam consectetur Lorem minim"
+        },
+        {
+          "id": "61313ca6c40e3e7764c1418d",
+          "name": "Видеокарта PowerColor AXRX 550 2GBD5-HLEV2",
+          "imageUrls": [],
+          "rating": 4,
+          "availableAmount": 29,
+          "price": 1229.98,
+          "description": "excepteur cillum ullamco et ullamco ad amet enim sint eu in voluptate tempor veniam officia ea magna tempor ex velit deserunt ut dolor enim est est nulla exercitation magna eu mollit incididunt exercitation eiusmod id elit consequat adipisicing deserunt non"
+        },
+        {
+          "id": "61313ca6cc86216bbe7b0c59",
+          "name": "Видеокарта Biostar Radeon RX 560 (VA5615RF41)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6490/288/preview_b/radeonrx560va5615rf41_biostar_60d05a271d319.jpeg",
+            "https://cdn21vek.by/img/galleries/6490/288/preview_b/radeonrx560va5615rf41_biostar_60d05a2b74b57.jpeg",
+            "https://cdn21vek.by/img/galleries/6490/288/preview_b/radeonrx560va5615rf41_biostar_60d05a2c03715.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 10,
+          "price": 502.45,
+          "description": "anim nisi in labore dolore nulla qui aliqua fugiat elit et ea in reprehenderit non ad voluptate amet nostrud in mollit id nostrud minim qui adipisicing culpa minim deserunt irure consectetur cupidatat minim consequat non proident minim labore enim ut"
+        },
+        {
+          "id": "61313ca6a61f38fc0f78de6f",
+          "name": "Видеокарта AMD Radeon Pro WX 4100 4GB GDDR5 (100-506008)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6664/910/preview_b/radeonprowx41004gbgddr5100506008_amd_60dd882f36f61.jpeg",
+            "https://cdn21vek.by/img/galleries/6664/910/preview_b/radeonprowx41004gbgddr5100506008_amd_60dd883372756.jpeg",
+            "https://cdn21vek.by/img/galleries/6664/910/preview_b/radeonprowx41004gbgddr5100506008_amd_60dd883456ce9.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 14,
+          "price": 1059.85,
+          "description": "labore non in consequat ad culpa tempor elit officia elit proident mollit exercitation consequat laborum non tempor id nisi incididunt deserunt velit anim voluptate minim quis voluptate do anim cillum ea non amet proident ex elit do dolore deserunt anim"
+        },
+        {
+          "id": "61313ca62059f457116e036d",
+          "name": "Видеокарта Palit GeForce GTX 1660 Dual 6G (NE51660018J9-1161C)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6647/96/preview_b/geforcegtx1660dual6gne51660018j91161c_palit_60dd9f80c686b.jpeg",
+            "https://cdn21vek.by/img/galleries/6647/96/preview_b/geforcegtx1660dual6gne51660018j91161c_palit_60dd9f8493415.jpeg",
+            "https://cdn21vek.by/img/galleries/6647/96/preview_b/geforcegtx1660dual6gne51660018j91161c_palit_60dd9f85d68d3.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 8,
+          "price": 822.72,
+          "description": "nostrud excepteur est ipsum qui anim excepteur excepteur magna amet dolor labore ex occaecat consectetur ut ullamco cupidatat reprehenderit deserunt velit ea incididunt quis veniam exercitation enim amet duis laboris consequat consectetur irure fugiat laborum nisi aliqua qui nostrud exercitation"
+        },
+        {
+          "id": "61313ca60640c9162053cdae",
+          "name": "Видеокарта Palit RTX2060 Dual 6GB GDDR6 (NE62060018J9-1160A-1)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6687/679/preview_b/rtx2060dual6gbgddr6ne62060018j91160a1_palit_60e81bd4001a6.png",
+            "https://cdn21vek.by/img/galleries/6687/679/preview_b/rtx2060dual6gbgddr6ne62060018j91160a1_palit_60e81bda97a66.png",
+            "https://cdn21vek.by/img/galleries/6687/679/preview_b/rtx2060dual6gbgddr6ne62060018j91160a1_palit_60e81bdc9641c.png"
+          ],
+          "rating": 4,
+          "availableAmount": 11,
+          "price": 1428.07,
+          "description": "minim nisi occaecat elit ullamco nostrud id veniam incididunt ex minim dolore quis enim ad nulla culpa commodo reprehenderit sint officia est fugiat adipisicing eu qui sit culpa labore Lorem nulla id nostrud ex eiusmod culpa magna ipsum eiusmod quis"
+        },
+        {
+          "id": "61313ca678e5a1dc15f8dd45",
+          "name": "Видеокарта Gigabyte GeForce RTX 3060 Eagle OC 12G (GV-N3060EAGLE OC-12GD)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6661/771/preview_b/geforcertx3060eagleoc12ggvn3060eagleoc12gd_gigabyte_60dd96ab99e87.jpeg",
+            "https://cdn21vek.by/img/galleries/6661/771/preview_b/geforcertx3060eagleoc12ggvn3060eagleoc12gd_gigabyte_60dd96b16aef8.jpeg",
+            "https://cdn21vek.by/img/galleries/6661/771/preview_b/geforcertx3060eagleoc12ggvn3060eagleoc12gd_gigabyte_60dd96b246010.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 9,
+          "price": 1102.95,
+          "description": "consectetur est proident occaecat ad aliquip nulla deserunt sit irure consequat culpa dolor nulla aute amet officia eu excepteur ex veniam tempor ad tempor magna duis dolore pariatur et laborum incididunt cillum officia magna occaecat non eiusmod duis occaecat do"
+        },
+        {
+          "id": "61314276647cb8089fcbb208",
+          "name": "Оперативная память DDR4 Crucial CT8G4DFRA266",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6111/987/preview_b/ct8g4dfra266_crucial_5f3521421ff8d.png"
+          ],
+          "rating": 4,
+          "availableAmount": 17,
+          "price": 233.04,
+          "description": "ad non laborum esse esse minim ullamco sint eu anim amet consectetur laborum cillum id ullamco laborum incididunt sit ad dolor elit minim cillum excepteur enim nostrud id magna id magna mollit anim sit do do occaecat mollit non eu"
+        },
+        {
+          "id": "613142765dc96f0a9113858f",
+          "name": "Оперативная память DDR4 Crucial CT8G4SFRA266",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6126/713/preview_b/ct8g4sfra266_crucial_5f3a6807a6645.png"
+          ],
+          "rating": 3,
+          "availableAmount": 26,
+          "price": 261.14,
+          "description": "ipsum Lorem ut aute adipisicing consectetur ut incididunt Lorem quis ipsum in qui officia qui excepteur reprehenderit enim elit dolor adipisicing laborum ad aliqua consectetur ut anim elit fugiat mollit proident dolore ut et quis ut velit laboris culpa qui"
+        },
+        {
+          "id": "61314276a6ba7ba5ed62b467",
+          "name": "Оперативная память DDR4 HyperX HX426C16FB3K2/16",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5685/16/preview_b/hx426c16fb3k216_hyperx_5d8cf0715e658.jpeg",
+            "https://cdn21vek.by/img/galleries/5685/16/preview_b/hx426c16fb3k216_hyperx_5d8cf0739d80b.jpeg",
+            "https://cdn21vek.by/img/galleries/5685/16/preview_b/hx426c16fb3k216_hyperx_5d8cf075e4bf1.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 24,
+          "price": 179.13,
+          "description": "officia aliqua commodo velit tempor id ullamco ipsum laborum esse labore tempor dolor sit sint cillum excepteur ullamco tempor consequat mollit mollit quis deserunt nisi nostrud aliquip enim sit ad ex Lorem non id occaecat aute occaecat minim ullamco deserunt"
+        },
+        {
+          "id": "613142762bb8696cb3576d49",
+          "name": "Оперативная память DDR4 Kingston KVR26S19S8/8",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/621/123/preview_b/kvr26s19s88_kingston_5b5ef1e75ea38.jpeg",
+            "https://cdn21vek.by/img/galleries/621/123/preview_b/kvr26s19s88_kingston_5b5ef1ea67b13.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 1,
+          "price": 248.32,
+          "description": "ullamco exercitation fugiat excepteur amet minim voluptate nulla est incididunt irure anim non reprehenderit Lorem tempor nulla non deserunt duis magna mollit magna esse est cillum tempor ut cillum sint elit fugiat in excepteur pariatur magna et nostrud ullamco ullamco"
+        },
+        {
+          "id": "6131427698b2fd5519c8dd46",
+          "name": "Оперативная память DDR2 Patriot PSD24G800K",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1122/5/preview_b/psd24g800k_patriot_5d51094de82ec.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 11,
+          "price": 172.42,
+          "description": "ex adipisicing duis adipisicing ullamco laboris do duis laborum ut pariatur anim aute non aliquip nulla labore reprehenderit occaecat nostrud culpa est cupidatat sit id velit aliquip nisi occaecat quis sit commodo eiusmod ad aute reprehenderit tempor eu sit laboris"
+        },
+        {
+          "id": "6131436b3e388192f3afda2e",
+          "name": "SSD диск Kingston A400 240GB (SA400S37/240G)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/476/371/preview_b/a400240gbsa400s37240g_kingston_59bc245a09667.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 17,
+          "price": 270.88,
+          "description": "ipsum voluptate ex et Lorem quis in irure anim elit incididunt enim adipisicing mollit velit nisi excepteur occaecat sunt id nostrud irure elit excepteur ipsum eiusmod esse officia ipsum exercitation reprehenderit duis quis esse Lorem culpa adipisicing in consectetur adipisicing"
+        },
+        {
+          "id": "6131436be06f4b007c239910",
+          "name": "SSD диск Samsung 870 Evo 500Gb (MZ-77E500)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6360/998/preview_b/870evo500gbmz77e500_samsung_60193433cfeb5.jpeg",
+            "https://cdn21vek.by/img/galleries/6360/998/preview_b/870evo500gbmz77e500_samsung_6019343846f51.png",
+            "https://cdn21vek.by/img/galleries/6360/998/preview_b/870evo500gbmz77e500_samsung_60193438e11f5.png"
+          ],
+          "rating": 4,
+          "availableAmount": 15,
+          "price": 134.21,
+          "description": "ullamco mollit occaecat Lorem dolore labore ipsum ut ipsum ad nulla eu incididunt irure tempor aute Lorem mollit aliqua anim id proident cillum et anim ea tempor eiusmod consectetur ex laboris consectetur sunt adipisicing sit reprehenderit duis id quis tempor"
+        },
+        {
+          "id": "6131436bd62edbe1eb5d34cd",
+          "name": "SSD диск Gigabyte 120GB (GP-GSTFS31120GNTD)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/676/354/preview_b/120gbgpgstfs31120gntd_gigabyte_5d44291f12f5b.png",
+            "https://cdn21vek.by/img/galleries/676/354/preview_b/120gbgpgstfs31120gntd_gigabyte_5d44291f6e189.png",
+            "https://cdn21vek.by/img/galleries/676/354/preview_b/120gbgpgstfs31120gntd_gigabyte_5d442920255cd.png"
+          ],
+          "rating": 1,
+          "availableAmount": 20,
+          "price": 249.89,
+          "description": "sunt incididunt duis est Lorem eu aute sint incididunt velit amet aliquip elit veniam ullamco laborum dolor enim aute adipisicing eu incididunt irure minim dolor eu voluptate enim cupidatat consequat magna sit consectetur consequat labore mollit voluptate velit veniam ipsum"
+        },
+        {
+          "id": "6131436bcb3b45f048b601d0",
+          "name": "Жесткий диск Seagate BarraCuda 1TB (ST1000DM010)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/412/33/preview_b/barracuda1tbst1000dm010_seagate_586603d1d923a.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 3,
+          "price": 248.44,
+          "description": "consectetur nostrud aliqua deserunt culpa et anim duis tempor cillum tempor enim aliqua pariatur quis enim ipsum aliqua commodo cillum elit cillum qui et ea magna amet ullamco ullamco sunt nostrud officia sint anim elit enim sunt consequat fugiat excepteur"
+        },
+        {
+          "id": "6131436beabccac2d15634be",
+          "name": "Бокс для жесткого диска Gembird EE2-U2S-5",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/481/608/preview_b/ee2u2s5_gembird_59d627836a25b.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 4,
+          "price": 127.39,
+          "description": "velit laborum Lorem consectetur officia deserunt excepteur irure eu officia irure minim in non reprehenderit est magna mollit esse est anim duis adipisicing dolore non minim esse veniam esse excepteur dolor magna exercitation non adipisicing nisi qui labore dolore veniam"
+        }
+      ],
+      "peripherals": [
+        {
+          "id": "613323747a6eb5d6534d1379",
+          "name": "Мышь Logitech M170 / 910-004642",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/351/82/preview_b/m170910004642_logitech_56efceb3429a3.jpeg",
+            "https://cdn21vek.by/img/galleries/351/82/preview_b/m170910004642_logitech_56efceb68fbfc.jpeg",
+            "https://cdn21vek.by/img/galleries/351/82/preview_b/m170910004642_logitech_56efceb99455e.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 7,
+          "price": 350.87,
+          "description": "ipsum cupidatat laborum id ullamco quis duis quis enim deserunt labore adipisicing cupidatat ea amet dolor velit occaecat tempor cupidatat ipsum labore dolor commodo voluptate deserunt culpa aliqua esse duis cupidatat est culpa est in ad deserunt ad exercitation aliqua"
+        },
+        {
+          "id": "61332374cda4df034af45c60",
+          "name": "Мышь Logitech M310 / 910-003986",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/469/203/preview_b/m310910003986_logitech_598344f8541b8.jpeg",
+            "https://cdn21vek.by/img/galleries/469/203/preview_b/m310910003986_logitech_598344f892cd6.jpeg",
+            "https://cdn21vek.by/img/galleries/469/203/preview_b/m310910003986_logitech_598344f8d329a.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 20,
+          "price": 264.91,
+          "description": "excepteur aute exercitation consectetur exercitation commodo aute sunt fugiat enim ex reprehenderit officia magna aliquip dolor culpa eiusmod magna minim proident amet in nulla consectetur voluptate pariatur officia non ad elit proident dolor deserunt est duis pariatur id non fugiat"
+        },
+        {
+          "id": "61332374f0b66bd7f7a1cc86",
+          "name": "Мышь Logitech B100 / 910-003357",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/50/253/preview_b/logitech_b100opticalusbmouse_76554.jpeg",
+            "https://cdn21vek.by/img/galleries/50/253/preview_b/logitech_b100opticalusbmouse_76553.jpeg",
+            " https://cdn21vek.by/img/galleries/50/253/preview_b/logitech_b100opticalusbmouse_60d467624f283.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 28,
+          "price": 349.69,
+          "description": "labore culpa dolor in ut officia ut anim dolore proident eiusmod sit mollit deserunt amet nostrud ea qui cupidatat exercitation excepteur velit pariatur consequat laboris est est incididunt ex aliqua quis reprehenderit officia pariatur magna elit id ea exercitation fugiat"
+        },
+        {
+          "id": "6133237440d8e436b3b83899",
+          "name": "Клавиатура+мышь Logitech MK270 / 920-004518",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/50/165/preview_b/logitech_mk270wirelesscombo_76027.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 7,
+          "price": 62.38,
+          "description": "qui velit minim ipsum nostrud officia id qui sint ut commodo eu consequat non ut dolore labore ipsum ipsum sint ipsum eiusmod mollit aliqua ullamco pariatur minim pariatur mollit esse amet sint culpa exercitation ipsum sit veniam sunt Lorem fugiat"
+        },
+        {
+          "id": "6133237469792a3277f41be2",
+          "name": "Клавиатура Logitech K280e / 920-005215",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/371/984/preview_b/cordedkeyboardk280e920005215_logitech_574d5ddbdbe09.jpeg",
+            "https://cdn21vek.by/img/galleries/371/984/preview_b/cordedkeyboardk280e920005215_logitech_574d5e1059cda.jpeg",
+            "https://cdn21vek.by/img/galleries/371/984/preview_b/cordedkeyboardk280e920005215_logitech_574d5e4b22e47.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 23,
+          "price": 463.07,
+          "description": "ut qui ullamco eiusmod eiusmod laborum commodo amet proident amet veniam enim consequat eiusmod Lorem aliqua ea minim duis duis nulla nostrud officia dolore deserunt eu nulla occaecat ex tempor mollit ipsum deserunt enim est labore ex culpa enim incididunt"
+        },
+        {
+          "id": "6133237435a61224bcd76c21",
+          "name": "Мышь Logitech M185 / 910-002238 (черный/серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/14/868/preview_b/logitech_wirelessmousem185swiftgrey_13780.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 28,
+          "price": 191.45,
+          "description": "sit minim anim velit aliqua ea quis est enim officia anim culpa pariatur eu nostrud ad occaecat proident ea est laboris consectetur sit pariatur aliquip laborum do aute exercitation esse sit quis aliquip exercitation exercitation sit fugiat consequat deserunt do"
+        },
+        {
+          "id": "613323745c5f97cb13e3753d",
+          "name": "Клавиатура+мышь Logitech MK220 / 920-003169 (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/15/289/preview_b/logitech_desktopmk220920003169usb_14223.jpeg",
+            "https://cdn21vek.by/img/galleries/15/289/preview_b/logitech_desktopmk220920003169usb_14224.jpeg",
+            "https://cdn21vek.by/img/galleries/15/289/preview_b/logitech_desktopmk220920003169usb_14225.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 3,
+          "price": 278.16,
+          "description": "ex do pariatur eu veniam in enim velit duis non fugiat nisi pariatur voluptate officia do officia nisi ea ipsum fugiat aliquip culpa nulla consectetur Lorem magna laboris veniam velit aliqua esse laborum ad et consectetur in velit ut nisi"
+        },
+        {
+          "id": "613323740bb061e555b21fb1",
+          "name": "Клавиатура Logitech K270 / 920-003757",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/15/284/preview_b/logitech_wirelesskeyboardk270blackusb_5c8b6936d4937.png",
+            "https://cdn21vek.by/img/galleries/15/284/preview_b/logitech_wirelesskeyboardk270blackusb_5c8b6937030e4.jpeg",
+            "https://cdn21vek.by/img/galleries/15/284/preview_b/logitech_wirelesskeyboardk270blackusb_5c8b69370dbd8.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 3,
+          "price": 366.89,
+          "description": "laborum consequat exercitation eu ut nisi est ea adipisicing nulla et in elit anim reprehenderit officia occaecat pariatur non cupidatat non laborum cillum esse elit laboris ex officia ex consectetur commodo nostrud exercitation quis sit nisi ea eiusmod labore incididunt"
+        },
+        {
+          "id": "61332374196654275c25311d",
+          "name": "Мышь Logitech Lightspeed G305 / 910-005282 (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1075/990/preview_b/lightspeedg305910005282_logitech_5d1e21a69207f.jpeg",
+            "https://cdn21vek.by/img/galleries/1075/990/preview_b/lightspeedg305910005282_logitech_5d1e21ad3b998.jpeg",
+            "https://cdn21vek.by/img/galleries/1075/990/preview_b/lightspeedg305910005282_logitech_5d1e21acc6145.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 12,
+          "price": 331.97,
+          "description": "excepteur cupidatat tempor quis velit commodo dolor mollit veniam voluptate veniam aute sint tempor aliquip ullamco quis enim anim qui exercitation qui id Lorem sint ullamco non nostrud amet duis aliquip commodo laborum mollit et in mollit fugiat nostrud proident"
+        },
+        {
+          "id": "6133237410111b12d8defa8e",
+          "name": "Мышь Logitech MX Anywhere 2S / 910-005153",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/556/227/preview_b/bluetoothmousemxanywhere2sl910005153_logitech_5b7a587e46231.png",
+            "https://cdn21vek.by/img/galleries/556/227/preview_b/bluetoothmousemxanywhere2sl910005153_logitech_5b7a5883e63f5.png",
+            "https://cdn21vek.by/img/galleries/556/227/preview_b/bluetoothmousemxanywhere2sl910005153_logitech_5b7a588488e7e.png"
+          ],
+          "rating": 2,
+          "availableAmount": 17,
+          "price": 242.31,
+          "description": "minim sunt duis est magna minim aute tempor velit magna fugiat amet fugiat ad aute tempor anim voluptate nostrud deserunt voluptate occaecat amet proident veniam amet aliqua aliquip labore sint veniam ad deserunt dolore adipisicing laboris voluptate in ipsum laboris"
+        },
+        {
+          "id": "613323746f0fa8994da8b40a",
+          "name": "Клавиатура для планшета Logitech K480 / 920-006368",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/100/56/preview_b/bluetoothmultidevicekeyboardk480920006368_logitech_54ae9d3a34bd9.jpeg",
+            "https://cdn21vek.by/img/galleries/100/56/preview_b/bluetoothmultidevicekeyboardk480920006368_logitech_54ae9d9bdc7bd.jpeg",
+            "https://cdn21vek.by/img/galleries/100/56/preview_b/bluetoothmultidevicekeyboardk480920006368_logitech_54ae9dd65ff79.jpeg",
+            "https://cdn21vek.by/img/galleries/100/56/preview_b/bluetoothmultidevicekeyboardk480920006368_logitech_54ae9e37a6c85.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 7,
+          "price": 113.15,
+          "description": "officia tempor laboris cillum ipsum laboris aliqua magna voluptate commodo irure voluptate duis dolore deserunt in dolor sit quis in nisi nostrud commodo occaecat enim ex laborum deserunt laborum sit Lorem tempor dolore sit dolor officia laborum minim laborum ea"
+        },
+        {
+          "id": "61332374c88df1bb594a9def",
+          "name": "Сетевой фильтр Defender ES 99486 (5м, 5 розеток, черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/82/498/preview_b/defender_es99486_561db02de0131.jpeg",
+            "https://cdn21vek.by/img/galleries/82/498/preview_b/defender_es99486_561db02e1c487.jpeg",
+            ""
+          ],
+          "rating": 2,
+          "availableAmount": 2,
+          "price": 222.44,
+          "description": "commodo est et nostrud aliquip ullamco anim fugiat enim sunt non aute cupidatat veniam ad dolor cillum voluptate non labore fugiat exercitation ad elit cillum commodo velit veniam do laborum sint eiusmod cillum ad consequat do ea aute sunt cupidatat"
+        },
+        {
+          "id": "61332374f4ad26c924225dd1",
+          "name": "Стабилизатор напряжения PROFline V500R",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1046/902/preview_b/v500r_profline_5d3d8e61d387a.jpeg",
+            "https://cdn21vek.by/img/galleries/1046/902/preview_b/v500r_profline_5d3d8e65a2217.jpeg",
+            "https://cdn21vek.by/img/galleries/1046/902/preview_b/v500r_profline_5d3d8e65d759e.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 15,
+          "price": 490.15,
+          "description": "nostrud aliqua sunt et voluptate pariatur non voluptate Lorem enim proident ipsum laboris fugiat ipsum aliquip cillum id ex deserunt amet culpa laboris irure veniam exercitation proident sit enim id in irure qui aute elit sunt magna ad magna excepteur"
+        },
+        {
+          "id": "6133237430d64e4c146e3d6a",
+          "name": "Удлинитель на катушке Truenergy ПВС 2x1.5мм.кв. / 15508 (50м)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6320/292/preview_b/2x1515508_truenergy_5ff439918d30d.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 25,
+          "price": 294.22,
+          "description": "nostrud deserunt minim nostrud do irure sit laboris sit proident eu ea anim consectetur esse nostrud culpa commodo qui irure dolore incididunt ex velit tempor id incididunt reprehenderit in non quis ea adipisicing sunt voluptate non mollit qui incididunt consequat"
+        },
+        {
+          "id": "613323749ab30d65900f35ca",
+          "name": "Веб-камера Logitech C270 (960-001063)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/354/831/preview_b/c270_logitech_6108002486ddf.jpeg",
+            "https://cdn21vek.by/img/galleries/354/831/preview_b/c270_logitech_61080025a4d14.jpeg",
+            "https://cdn21vek.by/img/galleries/354/831/preview_b/c270_logitech_6108002542a48.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 29,
+          "price": 177.01,
+          "description": "laboris occaecat ad laborum ad minim qui voluptate nostrud excepteur nulla laborum eu et id tempor aute enim irure veniam quis aute adipisicing irure labore incididunt irure mollit voluptate aute velit laborum cupidatat est irure est laborum sint tempor aute"
+        },
+        {
+          "id": "613323743527f761b6ce8a2f",
+          "name": "Веб-камера Defender G-Lens 2579 HD720p / 63179",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6075/670/preview_b/glens2579hd720p63179_defender_5f43676d5ea90.png",
+            "https://cdn21vek.by/img/galleries/6075/670/preview_b/glens2579hd720p63179_defender_5f436795b221c.png",
+            "https://cdn21vek.by/img/galleries/6075/670/preview_b/glens2579hd720p63179_defender_5f4367988ba17.png"
+          ],
+          "rating": 1,
+          "availableAmount": 28,
+          "price": 375.65,
+          "description": "excepteur occaecat deserunt enim proident incididunt anim elit fugiat ad irure aliqua ipsum aliqua aliquip cupidatat do enim ad veniam officia culpa ad mollit anim exercitation Lorem nisi duis ullamco magna anim quis excepteur aute voluptate ex dolor non cupidatat"
+        },
+        {
+          "id": "61332374a35f4408a3459666",
+          "name": "Веб-камера Sven IC-545",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/400/889/preview_b/ic545_sven_58382b35ef447.jpeg",
+            "https://cdn21vek.by/img/galleries/400/889/preview_b/ic545_sven_58382beaab31f.jpeg",
+            "https://cdn21vek.by/img/galleries/400/889/preview_b/ic545_sven_58382bf3e8ec1.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 19,
+          "price": 318.13,
+          "description": "nostrud aute esse in laborum ea non ipsum occaecat esse adipisicing adipisicing tempor do velit id tempor magna nulla laboris eu do ex et ullamco proident officia eu duis cupidatat pariatur qui laboris et adipisicing consequat esse laboris enim consectetur"
+        },
+        {
+          "id": "61332374547359758c2109a2",
+          "name": "Веб-камера TP-Link Tapo C200",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6115/184/preview_b/tapoc200_tplink_5f2bf2f23d715.jpeg",
+            "https://cdn21vek.by/img/galleries/6115/184/preview_b/tapoc200_tplink_5f2bf30159b80.jpeg",
+            "https://cdn21vek.by/img/galleries/6115/184/preview_b/tapoc200_tplink_5f2bf3017163f.jpeg",
+            "https://cdn21vek.by/img/galleries/6115/184/preview_b/tapoc200_tplink_5f2bf301872d1.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 4,
+          "price": 459.88,
+          "description": "duis excepteur ipsum culpa nulla sint esse dolor velit do nisi quis deserunt qui aute culpa labore ad mollit officia non commodo sint exercitation nostrud ex excepteur amet ad Lorem nostrud occaecat labore do id cillum qui est voluptate ad"
+        }
+      ],
+      "monitors": [
+        {
+          "id": "613327be9637972f804b6806",
+          "name": "Монитор LG 27GL850-B",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5740/408/preview_b/27gl850gb_lg_60086c6a09281.jpeg",
+            "https://cdn21vek.by/img/galleries/5740/408/preview_b/27gl850gb_lg_5dc3c7940c65d.jpeg",
+            "https://cdn21vek.by/img/galleries/5740/408/preview_b/27gl850gb_lg_5dc3c79419a07.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 29,
+          "price": 260.02,
+          "description": "reprehenderit veniam qui duis id deserunt dolore pariatur excepteur aliquip duis dolore occaecat culpa ex eu do tempor irure qui officia veniam Lorem exercitation ea tempor ad amet sint ut minim deserunt nulla pariatur reprehenderit aliquip dolore nisi nisi dolore"
+        },
+        {
+          "id": "613327be59cbd443b4837598",
+          "name": "Монитор LG 24MK600M-B",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/666/952/preview_b/24mk600mb_lg_600866270ed42.jpeg",
+            "https://cdn21vek.by/img/galleries/666/952/preview_b/24mk600mb_lg_5b7d53a38a919.jpeg",
+            "https://cdn21vek.by/img/galleries/666/952/preview_b/24mk600mb_lg_5b7d53a545322.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 24,
+          "price": 311.86,
+          "description": "eu commodo aliquip nostrud exercitation cupidatat consequat id voluptate aute veniam ea eu adipisicing do cupidatat exercitation ipsum adipisicing ullamco anim excepteur in magna et laborum magna culpa nisi in ipsum ullamco laboris nulla ad Lorem et cillum commodo magna"
+        },
+        {
+          "id": "613327be6ebc5ad45d371e74",
+          "name": "Монитор LG 27MK600M-W",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/718/523/preview_b/27mk600mw_lg_60086e3a49d70.jpeg",
+            "https://cdn21vek.by/img/galleries/718/523/preview_b/27mk600mw_lg_5bbb6426ad98b.jpeg",
+            "https://cdn21vek.by/img/galleries/718/523/preview_b/27mk600mw_lg_5bbb64292bae0.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 4,
+          "price": 379.18,
+          "description": "veniam in consectetur est reprehenderit ipsum nisi amet ut enim Lorem labore non in voluptate ipsum non voluptate proident tempor proident et irure amet mollit ut aliqua veniam aute elit sit cupidatat occaecat nostrud labore commodo irure minim deserunt amet"
+        },
+        {
+          "id": "613327be89c636459dd7f7f9",
+          "name": "Монитор LG 27MP59G-P",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/457/43/preview_b/27mp59gp_lg_60086e7733101.jpeg",
+            "https://cdn21vek.by/img/galleries/457/43/preview_b/27mp59gp_lg_592d3f3b2be3c.jpeg",
+            "https://cdn21vek.by/img/galleries/457/43/preview_b/27mp59gp_lg_592d3f3bc2f79.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 19,
+          "price": 287.08,
+          "description": "aliquip adipisicing velit ipsum reprehenderit tempor voluptate cupidatat do do laborum consequat in ut occaecat qui enim eiusmod est tempor ipsum mollit mollit exercitation do sunt id veniam fugiat voluptate aute nisi sint ullamco minim id amet irure sunt pariatur"
+        },
+        {
+          "id": "613327bedb9f3b57a189ed8d",
+          "name": "Монитор LG 27GN800-B",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6405/978/preview_b/27gn800b_lg_604107a3d3379.jpeg",
+            "https://cdn21vek.by/img/galleries/6405/978/preview_b/27gn800b_lg_604107bd073a1.jpeg",
+            "https://cdn21vek.by/img/galleries/6405/978/preview_b/27gn800b_lg_604107bd601e2.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 29,
+          "price": 202.19,
+          "description": "laboris proident excepteur sit proident ut ex dolore quis aute eu proident labore proident proident ex cillum quis in proident Lorem exercitation deserunt sunt cillum dolore laborum nulla laboris sunt culpa mollit duis aute ex ullamco et irure excepteur aute"
+        },
+        {
+          "id": "613327be675e9cf858bea993",
+          "name": "Монитор Samsung C24RG50FQI (LC24RG50FQIXCI)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1029/740/preview_b/lc24rg50fqixci_samsung_5cebafd1b840b.jpeg",
+            "https://cdn21vek.by/img/galleries/1029/740/preview_b/lc24rg50fqixci_samsung_5cebafdca9fae.jpeg",
+            "https://cdn21vek.by/img/galleries/1029/740/preview_b/lc24rg50fqixci_samsung_5cebafdd6ce8f.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 11,
+          "price": 266.86,
+          "description": "amet Lorem enim qui nulla in sunt deserunt consectetur quis minim ullamco elit irure adipisicing sunt elit laboris proident dolor esse sint ut est labore non eiusmod ea consectetur elit sint cillum fugiat commodo commodo sit laborum duis et nisi"
+        },
+        {
+          "id": "613327beb3ce7c34be2e530e",
+          "name": "Монитор AOC C24G1",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/803/921/preview_b/c24g1_aoc_5c177dbcf2c1c.jpeg",
+            "https://cdn21vek.by/img/galleries/803/921/preview_b/c24g1_aoc_5c177dc528827.jpeg",
+            "https://cdn21vek.by/img/galleries/803/921/preview_b/c24g1_aoc_5c177dc572a3f.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 19,
+          "price": 303.75,
+          "description": "ipsum et ipsum aute nulla anim eiusmod Lorem et cupidatat consequat aliquip veniam cillum duis anim dolor incididunt officia consectetur quis eu tempor incididunt qui aute nostrud quis irure ad irure laboris occaecat cillum reprehenderit Lorem consectetur laboris est laboris"
+        },
+        {
+          "id": "613327bed369d9b7ec1e8655",
+          "name": "Монитор Samsung S24R350FHI",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5794/261/preview_b/s24r350fhi_samsung_5de0d2abc253b.jpeg",
+            "https://cdn21vek.by/img/galleries/5794/261/preview_b/s24r350fhi_samsung_5de0d2b9bd748.jpeg",
+            "https://cdn21vek.by/img/galleries/5794/261/preview_b/s24r350fhi_samsung_5de0d2bae9203.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 21,
+          "price": 285.45,
+          "description": "occaecat officia nulla ipsum fugiat sunt do laboris excepteur ut eu est tempor aute sit duis officia nulla enim proident laborum veniam Lorem deserunt qui culpa ipsum reprehenderit esse qui minim cupidatat cillum laboris amet tempor minim anim occaecat officia"
+        },
+        {
+          "id": "613327beae6b5f5253e6cf08",
+          "name": "Монитор Philips 223V5LHSB2/00",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/346/371/preview_b/223v5lhsb200_philips_56bd92b1804ad.jpeg",
+            "https://cdn21vek.by/img/galleries/346/371/preview_b/223v5lhsb200_philips_56bd92e386a62.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 2,
+          "price": 301.98,
+          "description": "qui ut laborum labore ex Lorem officia ullamco qui laborum eu ullamco voluptate esse est veniam eiusmod incididunt aliqua nostrud aliquip ut consectetur officia quis ipsum voluptate ipsum magna irure minim tempor consequat quis ex ut cupidatat id et magna"
+        },
+        {
+          "id": "613327bea78502f68bee8840",
+          "name": "Монитор Viewsonic VA2261-2",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/435/420/preview_b/va22612_viewsonic_58db966c3cbb2.jpeg",
+            "https://cdn21vek.by/img/galleries/435/420/preview_b/va22612_viewsonic_58db966acb2f2.jpeg",
+            "https://cdn21vek.by/img/galleries/435/420/preview_b/va22612_viewsonic_58db966b5a5ef.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 18,
+          "price": 296.6,
+          "description": "ex eu qui aliqua aliquip reprehenderit officia quis incididunt est dolore laboris duis proident minim dolore ad officia amet in minim proident fugiat magna incididunt consequat ex consequat non elit cillum labore exercitation amet incididunt quis nostrud ut non ullamco"
+        },
+        {
+          "id": "613327be55fd9c1b80d64571",
+          "name": "Монитор Xiaomi Mi Curved Gaming Monitor 34' (BHR4269GL/XMMNTWQ34)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6145/686/preview_b/micurvedgamingmonitor34bhr4269glxmmntwq34_xiaomi_5f607c779eb71.jpeg",
+            "https://cdn21vek.by/img/galleries/6145/686/preview_b/micurvedgamingmonitor34bhr4269glxmmntwq34_xiaomi_5f607c862c331.jpeg",
+            "https://cdn21vek.by/img/galleries/6145/686/preview_b/micurvedgamingmonitor34bhr4269glxmmntwq34_xiaomi_5f607c869bd4d.jpeg",
+            "https://cdn21vek.by/img/galleries/6145/686/preview_b/micurvedgamingmonitor34bhr4269glxmmntwq34_xiaomi_5f607c86c0441.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 30,
+          "price": 430.61,
+          "description": "qui consectetur nisi consequat labore ut ipsum voluptate aliquip tempor adipisicing cillum esse elit cillum Lorem sunt dolor proident nulla do elit labore dolore voluptate exercitation ut adipisicing culpa irure do qui esse deserunt reprehenderit sunt laborum cupidatat mollit veniam"
+        },
+        {
+          "id": "613327beef6cf1477f94764c",
+          "name": "Монитор Philips 193V5LSB2/62",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/78/381/preview_b/philips_193v5lsb262_5395919053ab3.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 5,
+          "price": 304.36,
+          "description": "excepteur officia minim sunt eu mollit dolor elit consequat tempor quis deserunt pariatur commodo qui sint voluptate dolor non eu aute sit laboris id ex aliquip velit ea sit sit cupidatat laborum irure qui cupidatat voluptate non Lorem ut aliquip"
+        },
+        {
+          "id": "613327bed9f95d936778be55",
+          "name": "Монитор AOC 24V2Q",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/810/379/preview_b/24v2q_aoc_5c1ce48bebe6d.jpeg",
+            "https://cdn21vek.by/img/galleries/810/379/preview_b/24v2q_aoc_5c1ce492564c4.jpeg",
+            "https://cdn21vek.by/img/galleries/810/379/preview_b/24v2q_aoc_5c1ce49401a67.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 21,
+          "price": 308.3,
+          "description": "velit sunt laboris proident reprehenderit nisi fugiat consequat id labore minim amet amet elit est sit nostrud ea voluptate do exercitation sit consectetur mollit veniam ex proident nostrud exercitation in sint nostrud id esse fugiat cupidatat occaecat pariatur velit proident"
+        },
+        {
+          "id": "613327bed0af8c7ad71a9866",
+          "name": "Монитор BenQ GW2283",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1099/741/preview_b/gw2283_benq_5d7f871742dc0.jpeg",
+            "https://cdn21vek.by/img/galleries/1099/741/preview_b/gw2283_benq_5d7f8724141f2.jpeg",
+            "https://cdn21vek.by/img/galleries/1099/741/preview_b/gw2283_benq_5d7f872491410.jpeg",
+            "https://cdn21vek.by/img/galleries/1099/741/preview_b/gw2283_benq_5d7f872502a14.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 20,
+          "price": 250.04,
+          "description": "do tempor occaecat in consectetur culpa laborum veniam irure sint laborum dolore labore irure quis ipsum sit enim reprehenderit eiusmod ullamco eu sit in fugiat id non duis incididunt consequat cillum in incididunt sunt ullamco Lorem in laborum exercitation occaecat"
+        },
+        {
+          "id": "613327be435b37013068000d",
+          "name": "Монитор Dell P2419HC",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/713/403/preview_b/p2419hc210aqgq_dell_5bb316208f7a6.jpeg",
+            "https://cdn21vek.by/img/galleries/713/403/preview_b/p2419hc210aqgq_dell_5bb31629d5333.jpeg",
+            "https://cdn21vek.by/img/galleries/713/403/preview_b/p2419hc210aqgq_dell_5bb3162a58625.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 12,
+          "price": 426.61,
+          "description": "dolore dolor fugiat qui officia velit eiusmod ex amet incididunt exercitation ipsum laborum eu dolore elit id quis et qui elit ullamco id Lorem consequat velit adipisicing dolor culpa aute enim ex eu deserunt labore magna adipisicing occaecat in excepteur"
+        },
+        {
+          "id": "613327be8495fdb58dcbfb5b",
+          "name": "Монитор Dell U2720Q",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6024/454/preview_b/u2720q_dell_5edf3958bae6a.jpeg",
+            "https://cdn21vek.by/img/galleries/6024/454/preview_b/u2720q_dell_5edf39632ae21.jpeg",
+            "https://cdn21vek.by/img/galleries/6024/454/preview_b/u2720q_dell_5edf396391720.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 5,
+          "price": 351.79,
+          "description": "nostrud ea nostrud officia excepteur officia magna consectetur ad eiusmod aliqua occaecat Lorem laborum deserunt id velit nostrud esse ullamco sit pariatur esse deserunt minim dolor mollit est exercitation aliqua ut adipisicing eu labore nostrud tempor ut sunt ut eiusmod"
+        },
+        {
+          "id": "613327be4113d67dd998c612",
+          "name": "Монитор Asus VG279QM",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6338/277/preview_b/vg279qm_asus_600164e62f468.jpeg",
+            "https://cdn21vek.by/img/galleries/6338/277/preview_b/vg279qm_asus_600164edb70a9.jpeg",
+            "https://cdn21vek.by/img/galleries/6338/277/preview_b/vg279qm_asus_600164ee0e623.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 4,
+          "price": 482.43,
+          "description": "exercitation sint officia esse magna cillum cupidatat exercitation ex cupidatat elit officia consectetur laborum aliqua in et qui est aute nulla magna laborum reprehenderit sunt Lorem amet esse pariatur ex nostrud reprehenderit nulla nisi aliquip occaecat ullamco laboris mollit est"
+        }
+      ]
     },
     "furniture": {
-      "sofas": [],
-      "armchairs": [],
-      "cabinets": [],
-      "chairs": [],
-      "tables": [],
-      "beds": []
+      "sofas": [
+        {
+          "id": "61332c27b43d82dfda40ae0f",
+          "name": "Диван угловой Mebelico Атланта М 500 правый (корфу 03)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6013/346/preview_b/500_mebelico_05_5fdc54de5510e.jpeg",
+            "https://cdn21vek.by/img/galleries/6013/346/preview_b/500_mebelico_05_5fdc54f4bf8e3.jpeg",
+            "https://cdn21vek.by/img/galleries/6013/346/preview_b/500_mebelico_05_5fdc54e2424e7.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 30,
+          "price": 2198,
+          "description": "nostrud adipisicing excepteur nostrud sit pariatur ea amet laborum commodo occaecat commodo commodo ullamco sint dolore mollit ipsum officia non sit pariatur ut et ut veniam minim pariatur do occaecat dolore eu irure aute commodo culpa Lorem dolore commodo enim"
+        },
+        {
+          "id": "61332c27d0b63c8ae6fbc3e4",
+          "name": "Диван угловой Mio Tesoro Верона левый (рогожка, серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/916/55/preview_b/175_mebelico_07_60ec5bdb60106.jpeg",
+            "https://cdn21vek.by/img/galleries/916/55/preview_b/175_mebelico_07_60ec5bfc9833f.jpeg",
+            "https://cdn21vek.by/img/galleries/916/55/preview_b/175_mebelico_07_60ec5bdc38c60.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 29,
+          "price": 950,
+          "description": "qui excepteur aliquip anim minim officia labore consequat in consequat exercitation nulla consectetur exercitation et magna ullamco elit Lorem anim adipisicing exercitation adipisicing laborum cillum minim officia minim laborum minim minim duis consequat do cupidatat et est id laboris eu"
+        },
+        {
+          "id": "61332c275d7e6c62068d7b47",
+          "name": "Диван Нижегородмебель и К Найс 120 ТД 111 (альма 40/альма 26)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5853/856/preview_b/120111_nizhegorodmebelik_5e2050978580a.jpeg",
+            "https://cdn21vek.by/img/galleries/5853/856/preview_b/120111_nizhegorodmebelik_5e2050ac4275a.jpeg",
+            "https://cdn21vek.by/img/galleries/5853/856/preview_b/120111_nizhegorodmebelik_5e2050f2a6894.png"
+          ],
+          "rating": 1,
+          "availableAmount": 21,
+          "price": 2241,
+          "description": "veniam eiusmod enim excepteur id tempor officia amet elit duis nulla anim proident sint amet laborum ipsum occaecat excepteur anim eu commodo amet commodo sint qui in sint et cupidatat ut pariatur irure laborum exercitation laborum culpa reprehenderit voluptate qui"
+        },
+        {
+          "id": "61332c2747dbdff0cb7aa72e",
+          "name": "Кресло мягкое Нижегородмебель и К Либерти ТК 224 (толидо 08)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5850/549/preview_b/224_nizhegorodmebelik_5e1c7d346e17f.jpeg",
+            "https://cdn21vek.by/img/galleries/5850/556/preview_b/2071_nizhegorodmebelik_5e1c78db72482.jpeg",
+            "https://cdn21vek.by/img/galleries/5850/556/preview_b/2071_nizhegorodmebelik_5e1c78e8b3408.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 23,
+          "price": 1322,
+          "description": "magna ipsum eiusmod ut quis voluptate adipisicing incididunt irure consectetur sint est ullamco fugiat minim aliqua proident proident sit deserunt tempor pariatur nulla ut et proident laboris tempor cupidatat irure pariatur sunt aliquip dolor pariatur id sint minim voluptate sit"
+        },
+        {
+          "id": "61332c271c5747bf5e292364",
+          "name": "Диван угловой Mio Tesoro Верона левый (рогожка, бежевый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/916/48/preview_b/175_mebelico_05_60ec5ae00e7c0.jpeg",
+            "https://cdn21vek.by/img/galleries/916/48/preview_b/175_mebelico_05_60ec5af2b5881.jpeg",
+            "https://cdn21vek.by/img/galleries/916/48/preview_b/175_mebelico_05_60ec5ae1c23bb.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 6,
+          "price": 1006,
+          "description": "excepteur nulla elit ex cillum est commodo cillum eiusmod irure est deserunt quis nulla qui et et ea cupidatat eiusmod consequat non cillum eiusmod do occaecat occaecat in magna voluptate in aute id Lorem commodo eiusmod esse mollit est adipisicing"
+        },
+        {
+          "id": "61332c27b9a48dbe8b5b737b",
+          "name": "Кресло-кровать Нижегородмебель и К Найс 85 ТД 112 (альма 21/альма 25)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5853/878/preview_b/85112_nizhegorodmebelik_5e20556d43bcd.jpeg",
+            "https://cdn21vek.by/img/galleries/5853/875/preview_b/85111_nizhegorodmebelik_5e20547fb6192.png",
+            "https://cdn21vek.by/img/galleries/5853/875/preview_b/85111_nizhegorodmebelik_5e2056b8c1672.png"
+          ],
+          "rating": 2,
+          "availableAmount": 24,
+          "price": 1341,
+          "description": "exercitation excepteur consectetur eu cupidatat qui labore consectetur deserunt reprehenderit velit exercitation officia ex enim dolore cupidatat esse mollit fugiat est sit nulla reprehenderit laborum exercitation consequat nulla eiusmod enim eiusmod ex sunt eiusmod anim laboris labore officia aliquip amet"
+        },
+        {
+          "id": "61332c2786787e1c4990f4af",
+          "name": "Диван Woodcraft Парма (зеленый велюр)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/557/314/preview_b/woodcraft_0223_5c7041ae43fd8.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 12,
+          "price": 1400,
+          "description": "occaecat enim laboris ex irure nostrud consectetur sit esse consequat non ex elit nulla dolore proident cupidatat exercitation elit deserunt incididunt officia non consequat quis sint esse laboris nulla eiusmod elit nulla sunt ipsum mollit officia fugiat cupidatat aliquip Lorem"
+        },
+        {
+          "id": "61332c274eeb718e0d92ebf7",
+          "name": "Диван угловой Mio Tesoro Берген 179 левый (рогожка, серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/937/783/preview_b/179_mio_tesoro_07_5cb85c1b696db.jpeg",
+            "https://cdn21vek.by/img/galleries/937/783/preview_b/179_mio_tesoro_07_5cb85c210599d.jpeg",
+            "https://cdn21vek.by/img/galleries/937/783/preview_b/179_mio_tesoro_07_5cb85c1f2df47.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 19,
+          "price": 1578,
+          "description": "occaecat occaecat culpa aliqua qui ex et ea dolore sint deserunt ut labore Lorem qui occaecat ullamco occaecat cupidatat in ea velit sint et non id deserunt duis non proident exercitation ad consequat duis id ea ex Lorem non Lorem"
+        },
+        {
+          "id": "61332c27c15e48a4525824bc",
+          "name": "Диван Mebelico Сенатор / 100627 (рогожка, коричневый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1109/955/preview_b/100627_mebelico_60f1aeeb9228e.jpeg",
+            "https://cdn21vek.by/img/galleries/1109/955/preview_b/100627_mebelico_60f1aeedd03d7.jpeg",
+            "https://cdn21vek.by/img/galleries/1109/955/preview_b/100627_mebelico_60f1aef0e1bef.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 2,
+          "price": 1845,
+          "description": "eiusmod sunt est do irure aliqua do aliquip occaecat magna sit enim fugiat eu cillum consectetur culpa eiusmod incididunt tempor non ea exercitation amet consectetur voluptate anim tempor voluptate laboris nisi do Lorem aliqua culpa duis velit duis nulla occaecat"
+        },
+        {
+          "id": "61332c273ed3dd063bb9e2c8",
+          "name": "Диван угловой Mebelico Дубай 88 правый / 59646 (микровельвет черный/экокожа белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/768/570/preview_b/88_mebelico_5bef056250f70.jpeg",
+            "https://cdn21vek.by/img/galleries/768/570/preview_b/88_mebelico_5bef056676463.jpeg",
+            "https://cdn21vek.by/img/galleries/768/570/preview_b/88_mebelico_5bef05670cf8e.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 12,
+          "price": 2356,
+          "description": "nisi labore anim ipsum reprehenderit excepteur sint sunt do non nulla ut ullamco adipisicing commodo amet consequat consequat id consectetur deserunt ex id magna sit reprehenderit incididunt laboris mollit voluptate deserunt exercitation anim excepteur cupidatat dolor occaecat nisi cillum commodo"
+        },
+        {
+          "id": "61332c27db15352296776c53",
+          "name": "Диван Moon Trade Рио 109 / 002935",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5801/723/preview_b/109002935_moon_trade_5de75867939f3.jpeg",
+            "https://cdn21vek.by/img/galleries/5801/723/preview_b/109002935_moon_trade_5de758cc1465f.jpeg",
+            "https://cdn21vek.by/img/galleries/5801/723/preview_b/109002935_moon_trade_5de758cc56a06.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 27,
+          "price": 2421,
+          "description": "adipisicing sint id commodo ex dolore occaecat ad id nisi mollit quis aute velit eu id tempor laborum laboris quis Lorem laborum fugiat do esse laboris culpa ex esse labore et ullamco cillum pariatur pariatur cupidatat aliqua ex id nostrud"
+        },
+        {
+          "id": "61332c275bcc4deb1f5777bd",
+          "name": "Диван Аквилон Оптимус (эмилия милк/эмилия дарк браун)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6012/654/preview_b/akvilon__050_60e76b34e79c7.jpeg",
+            "https://cdn21vek.by/img/galleries/6012/654/preview_b/akvilon__050_60e76b475498b.jpeg",
+            "https://cdn21vek.by/img/galleries/6012/654/preview_b/akvilon__050_60e76b50170be.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 15,
+          "price": 2237,
+          "description": "culpa veniam duis quis magna adipisicing cillum velit pariatur consectetur eu cupidatat sint anim officia labore proident laborum in ut non culpa quis nulla dolore fugiat reprehenderit adipisicing et culpa pariatur reprehenderit fugiat exercitation ex proident est est cillum pariatur"
+        }
+      ],
+      "armchairs": [
+        {
+          "id": "6133c712ff6e142c165c9dfb",
+          "name": "Кресло мягкое Нижегородмебель и К Либерти ТК 235 (фибра геометрия 18)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5850/566/preview_b/235_nizhegorodmebelik_5e1c7f2d0d056.jpeg",
+            "https://cdn21vek.by/img/galleries/5850/556/preview_b/2071_nizhegorodmebelik_5e1c78db72482.jpeg",
+            "https://cdn21vek.by/img/galleries/5850/556/preview_b/2071_nizhegorodmebelik_5e1c78e8b3408.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 1,
+          "price": 163,
+          "description": "anim pariatur ad magna sint eiusmod ea in consequat quis elit magna id in consectetur ullamco minim esse nisi labore ipsum magna laboris consectetur commodo dolore irure non ut non excepteur aute ipsum aliquip aliqua dolor velit aliqua cupidatat irure"
+        },
+        {
+          "id": "6133c7122d436c5030c483d7",
+          "name": "Кресло мягкое Нижегородмебель и К Либерти ТК 224 (толидо 08)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5850/549/preview_b/224_nizhegorodmebelik_5e1c7d346e17f.jpeg",
+            "https://cdn21vek.by/img/galleries/5850/556/preview_b/2071_nizhegorodmebelik_5e1c78db72482.jpeg",
+            "https://cdn21vek.by/img/galleries/5850/556/preview_b/2071_nizhegorodmebelik_5e1c78e8b3408.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 25,
+          "price": 156,
+          "description": "commodo incididunt dolore sit ea irure commodo sit elit velit adipisicing aliqua eu reprehenderit voluptate velit excepteur ad labore et elit esse eu ea laborum proident eu ea velit voluptate enim sunt nulla dolor enim magna fugiat est nulla amet"
+        },
+        {
+          "id": "6133c7123889e209bda50c56",
+          "name": "Кресло-кровать Нижегородмебель и К Антошка 1 010 85 (фибра мишутка/толидо 03)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5853/544/preview_b/1010_nizhegorodmebelik_5e259aab91749.jpeg",
+            "https://cdn21vek.by/img/galleries/5853/536/preview_b/101_nizhegorodmebelik_5e2599b925263.jpeg",
+            "https://cdn21vek.by/img/galleries/5853/536/preview_b/101_nizhegorodmebelik_5e2599ccdedaa.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 17,
+          "price": 566,
+          "description": "dolore velit ut tempor dolore cillum nulla exercitation enim officia pariatur non commodo cupidatat magna culpa excepteur aliquip nisi ut pariatur commodo sint cillum ipsum nulla dolore commodo cupidatat consectetur consectetur velit est ad cillum pariatur esse eiusmod consequat cillum"
+        },
+        {
+          "id": "6133c712a0e59fde94485535",
+          "name": "Кресло-кровать М-Стиль Гарфилд",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/919/329/preview_b/mstil_023_5c9a0281b18ec.jpeg",
+            "https://cdn21vek.by/img/galleries/919/329/preview_b/mstil_023_5c9a026fe0842.jpeg",
+            "https://cdn21vek.by/img/galleries/919/329/preview_b/mstil_023_5c9a02733db34.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 4,
+          "price": 308,
+          "description": "fugiat in officia velit aliquip nulla incididunt reprehenderit sunt consectetur eiusmod nulla esse commodo eu consectetur ut et ullamco deserunt laborum enim incididunt adipisicing qui aliquip excepteur deserunt sit duis est officia proident aute nulla id aliquip nostrud cillum aliquip"
+        },
+        {
+          "id": "6133c71247f571cbffde363d",
+          "name": "Кресло-кровать М-Стиль Кити",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/919/366/preview_b/mstil_030_5c99f1ba7532d.jpeg",
+            "https://cdn21vek.by/img/galleries/919/366/preview_b/mstil_030_5c99f1bd78d9b.jpeg",
+            "https://cdn21vek.by/img/galleries/919/366/preview_b/mstil_030_5c99f279f00c2.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 4,
+          "price": 350,
+          "description": "est nostrud et in sunt esse cupidatat aliqua eiusmod sit enim do Lorem ad aute consequat esse et culpa magna ea sunt pariatur do deserunt cupidatat culpa pariatur culpa sunt id proident id exercitation aliquip laborum ullamco quis consectetur proident"
+        },
+        {
+          "id": "6133c7124076f8c8082f1884",
+          "name": "Кресло мягкое Нижегородмебель и К Меланж ТК 234 (лаунж 5)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5852/349/preview_b/234_nizhegorodmebelik_03_5e1c77b0d6412.jpeg",
+            "https://cdn21vek.by/img/galleries/5852/352/preview_b/14_nizhegorodmebelik_5e1c75b11ef3f.jpeg",
+            "https://cdn21vek.by/img/galleries/5852/352/preview_b/14_nizhegorodmebelik_5e1c74a765d32.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 5,
+          "price": 322,
+          "description": "irure in dolor non adipisicing dolore est aliquip elit dolore dolore enim magna aliqua sit culpa nostrud eu sit ipsum eiusmod commodo id tempor aute labore amet ipsum anim do irure laborum minim id sunt ut ad culpa reprehenderit consectetur"
+        },
+        {
+          "id": "6133c712a81f791727a35b53",
+          "name": "Кресло-кровать Moon Trade Карина 044 / 002837",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5801/318/preview_b/044002837_moon_trade_5de7a25c10184.jpeg",
+            "https://cdn21vek.by/img/galleries/5801/318/preview_b/044002837_moon_trade_5de7a25eba794.jpeg",
+            "https://cdn21vek.by/img/galleries/5801/318/preview_b/044002837_moon_trade_5de7a27612d93.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 12,
+          "price": 600,
+          "description": "proident ipsum mollit eu culpa quis elit amet mollit mollit id dolor esse adipisicing occaecat commodo et culpa nisi consequat cillum culpa aliqua non laborum do in officia ut non pariatur adipisicing sint dolor quis eu commodo aliqua mollit elit"
+        },
+        {
+          "id": "6133c71298cad6110e676b21",
+          "name": "Кресло-кровать Moon Trade Даллас 018 / 003491",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6036/638/preview_b/018003491_moon_trade_5efaf3eddf60d.jpeg",
+            "https://cdn21vek.by/img/galleries/6036/638/preview_b/018003491_moon_trade_5efaf3f4e7c75.jpeg",
+            "https://cdn21vek.by/img/galleries/6036/638/preview_b/018003491_moon_trade_5efaf3f530501.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 20,
+          "price": 254,
+          "description": "id qui sint esse ea sint ut ad tempor sint reprehenderit duis duis reprehenderit aliquip minim aliquip cillum exercitation elit aliqua veniam cillum non aute ipsum velit reprehenderit fugiat pariatur culpa irure ipsum fugiat eiusmod dolor minim consectetur dolor cupidatat"
+        },
+        {
+          "id": "6133c712a14baffc8c014117",
+          "name": "Кресло-кровать Нижегородмебель и К Антошка 1 01 85 (канваз финил манго/лайт 11)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5853/536/preview_b/101_nizhegorodmebelik_5e2599ae460a6.jpeg",
+            "https://cdn21vek.by/img/galleries/5853/536/preview_b/101_nizhegorodmebelik_5e2599b925263.jpeg",
+            "https://cdn21vek.by/img/galleries/5853/536/preview_b/101_nizhegorodmebelik_5e2599ccdedaa.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 16,
+          "price": 546,
+          "description": "commodo fugiat reprehenderit incididunt eiusmod est labore commodo minim ea fugiat excepteur commodo sunt proident sunt aute nisi consequat fugiat labore labore eiusmod labore Lorem dolore dolore esse eu do minim reprehenderit tempor ad officia sit anim nostrud labore esse"
+        },
+        {
+          "id": "6133c712ff799eae72fa492e",
+          "name": "Кресло-кровать Аквилон Юниор 1-1 (газета милк/стрит какао)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6015/563/preview_b/11_akvilon__5eda43f06b87e.jpeg",
+            "https://cdn21vek.by/img/galleries/6015/563/preview_b/11_akvilon__5eda43f7f1dca.jpeg",
+            "https://cdn21vek.by/img/galleries/6015/563/preview_b/11_akvilon__5eda43fdaeb11.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 22,
+          "price": 306,
+          "description": "consectetur consectetur pariatur elit nostrud duis dolor aute dolore anim amet minim cillum dolore dolore aute consequat officia reprehenderit mollit in est velit in ex quis mollit sint magna consequat proident aute pariatur aute magna labore magna laboris adipisicing cillum"
+        },
+        {
+          "id": "6133c712532fa7922f477b4c",
+          "name": "Кресло мягкое Нижегородмебель и К Ирис ТК 964 (лекко океан)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5852/297/preview_b/964_nizhegorodmebelik_607441bc3ced4.jpeg",
+            "https://cdn21vek.by/img/galleries/5852/297/preview_b/964_nizhegorodmebelik_607441c28019b.jpeg",
+            "https://cdn21vek.by/img/galleries/5852/297/preview_b/964_nizhegorodmebelik_607441c826a74.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 25,
+          "price": 421,
+          "description": "irure cupidatat nostrud consequat irure sint fugiat incididunt sit veniam nostrud reprehenderit sunt exercitation consequat dolore elit excepteur irure enim labore excepteur ea in commodo laboris esse incididunt nisi sint culpa qui qui duis veniam amet do cupidatat magna Lorem"
+        },
+        {
+          "id": "6133c712aba89fad4ebd23b1",
+          "name": "Кресло-кровать М-Стиль Панда мех",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/919/769/preview_b/mstil_040_5c99e634e2f48.jpeg",
+            "https://cdn21vek.by/img/galleries/919/769/preview_b/mstil_040_5c99e73e088ab.jpeg",
+            "https://cdn21vek.by/img/galleries/919/769/preview_b/mstil_040_5c99e64f5e512.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 10,
+          "price": 268,
+          "description": "eiusmod laborum nisi enim officia voluptate consectetur est ipsum veniam elit esse est id id quis esse id fugiat Lorem cillum quis et laboris nisi ad duis deserunt dolore aliquip consectetur laboris exercitation amet esse proident mollit adipisicing enim eiusmod"
+        },
+        {
+          "id": "6133c712e285259b8afa0fed",
+          "name": "Кресло-кровать Mebelico Меркурий 223 / 100684 (80, рогожка серый/экокожа черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1109/506/preview_b/100684_mebelico_01_5ef3196985a27.jpeg",
+            "https://cdn21vek.by/img/galleries/1109/506/preview_b/100684_mebelico_01_5ef3196a90dce.jpeg",
+            "https://cdn21vek.by/img/galleries/1109/506/preview_b/100684_mebelico_01_5ef3196bb86eb.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 27,
+          "price": 232,
+          "description": "occaecat culpa enim qui non nisi deserunt quis adipisicing tempor excepteur incididunt ea adipisicing ea cupidatat esse cillum incididunt nisi nulla ea irure eiusmod laboris non dolor id mollit nulla ex enim id duis adipisicing cillum reprehenderit in est et"
+        },
+        {
+          "id": "6133c7122ddc73c442511ec9",
+          "name": "Кресло-кровать Мебельград Кадет М08 Стандарт (твинкли голубой/домус коричневый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5897/351/preview_b/08_mebelgrad_01_5e4bb5b685108.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 21,
+          "price": 281,
+          "description": "est aliquip sunt amet voluptate eu proident exercitation nulla culpa in incididunt aute ad est quis labore proident culpa mollit laborum voluptate ex laboris id et nulla qui elit labore sit magna et labore commodo mollit voluptate reprehenderit anim anim"
+        },
+        {
+          "id": "6133c7126eaf66cfeef71c52",
+          "name": "Кресло мягкое Седия Soft (оливковый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5817/486/preview_b/soft_sedija_06_5e292a8c92614.jpeg",
+            "https://cdn21vek.by/img/galleries/887/774/preview_b/soft_sedija_02_5cb416c7ab08c.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 1,
+          "price": 355,
+          "description": "officia veniam laboris qui quis velit ad ex laboris cupidatat nulla laborum est laboris tempor eu in duis eiusmod excepteur culpa irure esse officia eu voluptate sunt pariatur excepteur occaecat ipsum cupidatat non irure minim ut cupidatat cupidatat fugiat fugiat"
+        },
+        {
+          "id": "6133c712de824c3da2393a09",
+          "name": "Кресло-кровать Мебель Холдинг МХ71 Садовод / 881",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5888/940/preview_b/71881_mebelholding_5e4163373dd0a.jpeg",
+            "https://cdn21vek.by/img/galleries/5888/940/preview_b/71881_mebelholding_5e4163475d032.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 2,
+          "price": 417,
+          "description": "ad nulla voluptate quis velit excepteur fugiat mollit nisi nostrud duis voluptate ad eu ad incididunt ipsum ad sint eiusmod non veniam pariatur minim consectetur pariatur magna ipsum est excepteur exercitation fugiat nisi magna reprehenderit et ipsum deserunt elit reprehenderit"
+        },
+        {
+          "id": "6133c712c3dae700a1e94780",
+          "name": "Кресло-кровать М-Стиль Молния",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/919/746/preview_b/mstil_04_5c99ffb115825.jpeg",
+            "https://cdn21vek.by/img/galleries/919/746/preview_b/mstil_04_5c99ffb5862d3.jpeg",
+            "https://cdn21vek.by/img/galleries/919/746/preview_b/mstil_04_5c99ffb909da6.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 3,
+          "price": 198,
+          "description": "esse nisi ex amet qui sint veniam dolor ullamco minim exercitation ullamco velit est proident nulla non proident anim officia dolore occaecat ea adipisicing est eu dolore labore ad irure nostrud laborum culpa ipsum occaecat eiusmod mollit consectetur Lorem amet"
+        },
+        {
+          "id": "6133c7122d27134ef5f62b03",
+          "name": "Кресло мягкое Brioli Чикаго (L22/черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6309/60/preview_b/brioli_02178_5fe4735ab31bd.jpeg",
+            "https://cdn21vek.by/img/galleries/6309/60/preview_b/brioli_02178_5fe4735fd963e.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 23,
+          "price": 431,
+          "description": "nisi nulla Lorem deserunt ipsum fugiat ex aute labore aute incididunt sit fugiat ut qui non nisi ad veniam occaecat eu enim anim elit occaecat do laborum deserunt ex laboris aliqua tempor voluptate in eiusmod anim ullamco fugiat officia adipisicing"
+        },
+        {
+          "id": "6133c71256cda85c26c79f9b",
+          "name": "Кресло-кровать М-Стиль Майя",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/919/408/preview_b/mstil_03_5c99e7821c457.jpeg",
+            "https://cdn21vek.by/img/galleries/919/408/preview_b/mstil_03_5c99e7932efb9.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 2,
+          "price": 420,
+          "description": "culpa ea eu proident ea non aliquip fugiat nulla mollit commodo sit exercitation consequat ea id nostrud eu Lorem dolor est nulla irure nisi nulla sint ea quis ea culpa aliquip ad culpa laboris nulla ullamco dolor esse deserunt labore"
+        },
+        {
+          "id": "6133c712fed9dc655b729936",
+          "name": "Кресло-кровать Moon Trade Мадрид 125 / 002479",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/821/21/preview_b/125002479_moon_trade_5c34749dad68e.jpeg",
+            "https://cdn21vek.by/img/galleries/821/21/preview_b/125002479_moon_trade_5c3474a052e34.jpeg",
+            "https://cdn21vek.by/img/galleries/821/21/preview_b/125002479_moon_trade_5c3474a4afda2.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 11,
+          "price": 187,
+          "description": "fugiat veniam ea commodo enim sunt sit ea sint nostrud est amet qui id velit tempor velit aliquip voluptate sunt fugiat dolore nostrud cillum culpa eu cupidatat in consectetur sit enim ex ea veniam mollit nisi ipsum sit minim ex"
+        }
+      ],
+      "cabinets": [
+        {
+          "id": "6133d01d840a74617e76d05d",
+          "name": "Шкаф Горизонт Мебель Лайн/Леси 4х ств. (венге/дуб)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/942/314/preview_b/14_gorizontmebel_01_6077fe12a82ab.jpeg",
+            "https://cdn21vek.by/img/galleries/942/314/preview_b/14_gorizontmebel_01_6077fdfe58468.jpeg",
+            "https://cdn21vek.by/img/galleries/942/314/preview_b/14_gorizontmebel_01_5f8d933f40b23.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 11,
+          "price": 388,
+          "description": "nulla et sint cillum magna proident sunt veniam cillum nisi minim eiusmod qui fugiat ullamco duis reprehenderit fugiat deserunt excepteur est id aliquip in duis ea exercitation et Lorem adipisicing non voluptate voluptate velit qui ex pariatur adipisicing ipsum consequat"
+        },
+        {
+          "id": "6133d01d3931360253a25019",
+          "name": "Стенка Горизонт Мебель Лима (венге/дуб)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/844/641/preview_b/gorizontmebel_07_5c419d8e86287.jpeg",
+            "https://cdn21vek.by/img/galleries/844/641/preview_b/gorizontmebel_07_5c419d9703571.jpeg",
+            "https://cdn21vek.by/img/galleries/844/641/preview_b/gorizontmebel_07_5c419d9a32c3d.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 21,
+          "price": 453,
+          "description": "ut voluptate fugiat labore labore reprehenderit quis minim tempor nulla exercitation mollit quis minim cupidatat sint officia irure nulla eiusmod aliquip cillum ad dolore minim ut officia dolor irure irure voluptate ea est id irure cupidatat ad laboris aute adipisicing"
+        },
+        {
+          "id": "6133d01d78cfbcad1f2966e6",
+          "name": "Шкаф Rikko Бостон (венге/белфорд)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6014/108/preview_b/ricco_059_5ed49d683827c.jpeg",
+            "https://cdn21vek.by/img/galleries/6014/108/preview_b/ricco_059_5ed49d703544a.jpeg",
+            "https://cdn21vek.by/img/galleries/6014/108/preview_b/ricco_059_5f27edfb22b55.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 27,
+          "price": 355,
+          "description": "adipisicing amet ex aliqua sit ullamco fugiat ipsum duis esse exercitation sint exercitation laboris esse et ad non veniam voluptate voluptate aliqua incididunt nisi cupidatat est irure tempor eu labore aliqua excepteur eiusmod nulla nulla dolore aliqua eiusmod consectetur deserunt"
+        },
+        {
+          "id": "6133d01db8dbb9a171e14d28",
+          "name": "Стенка Иволанд Трейд №3 (дуб молочный/венге магия)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/449/214/preview_b/3_ivoland_trejd_5b97674d8bd7b.jpeg",
+            "https://cdn21vek.by/img/galleries/449/214/preview_b/3_ivoland_trejd_5fdc9925e1ea0.jpeg",
+            "https://cdn21vek.by/img/galleries/449/214/preview_b/3_ivoland_trejd_5fdc992618197.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 16,
+          "price": 446,
+          "description": "aute commodo sint ullamco adipisicing aute irure incididunt reprehenderit in commodo officia pariatur aute sint nulla veniam cupidatat magna dolor dolor irure aliqua laborum cillum magna ipsum ex enim elit dolore dolor consequat ad fugiat officia laborum cupidatat proident elit"
+        },
+        {
+          "id": "6133d01db4728a484ce11bf7",
+          "name": "Горка Империал Лия (белый/белый глянец)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/666/734/preview_b/imperial1_018_5bfd0dd97f431.jpeg",
+            "https://cdn21vek.by/img/galleries/666/734/preview_b/imperial1_018_5bfd0dd9eb386.jpeg",
+            "https://cdn21vek.by/img/galleries/666/734/preview_b/imperial1_018_5bfd0ddabb242.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 15,
+          "price": 333,
+          "description": "amet commodo officia incididunt mollit qui consectetur amet ea quis reprehenderit reprehenderit sit pariatur enim occaecat qui sit est dolore enim pariatur aliqua eu est enim laborum sint nostrud amet voluptate quis duis proident ullamco in fugiat incididunt qui est"
+        },
+        {
+          "id": "6133d01defc978ceaed3cda2",
+          "name": "Стенка Горизонт Мебель Милан (кантер/сонома)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/844/691/preview_b/gorizontmebel_09_5c41a208151f1.jpeg",
+            "https://cdn21vek.by/img/galleries/844/691/preview_b/gorizontmebel_09_5c41a2083327f.jpeg",
+            "https://cdn21vek.by/img/galleries/844/691/preview_b/gorizontmebel_09_5c41a20845c65.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 27,
+          "price": 460,
+          "description": "eiusmod sint cupidatat culpa ex laboris Lorem irure sint sint quis incididunt fugiat do id quis consectetur enim adipisicing est pariatur in irure nulla Lorem velit dolor minim non aute est cillum ipsum deserunt esse reprehenderit eiusmod commodo eiusmod consequat"
+        },
+        {
+          "id": "6133d01d257e73df450972d0",
+          "name": "Шкаф Eligard Лагуна ШЛ-03.0 (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5899/139/preview_b/030_eligard_07_5e4d175943de3.jpeg",
+            "https://cdn21vek.by/img/galleries/5899/139/preview_b/030_eligard_07_5e4d1759e0514.jpeg",
+            "https://cdn21vek.by/img/galleries/5899/480/preview_b/032_eligard_01_5e4d163fb70a1.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 7,
+          "price": 391,
+          "description": "labore sunt non minim laborum incididunt anim consequat exercitation enim aliquip non excepteur occaecat reprehenderit ea duis proident consequat minim ea cillum ex ut anim qui voluptate duis consectetur ea cillum consectetur quis laboris minim tempor ad sint cupidatat magna"
+        },
+        {
+          "id": "6133d01d14dcdce0f3030471",
+          "name": "Шкаф Евва 170 VH.2 / АЭП Ш.2 02 (венге/дуб шамони)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/424/916/preview_b/170vh2202_evva_58abfcd0c35f7.jpeg",
+            "https://cdn21vek.by/img/galleries/424/916/preview_b/170vh2202_evva_58abfcd10757d.jpeg",
+            "https://cdn21vek.by/img/galleries/424/916/preview_b/170vh2202_evva_58abfcd120f01.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 30,
+          "price": 285,
+          "description": "elit nisi eu exercitation pariatur consequat irure nostrud ipsum aliquip labore aute nulla nostrud et incididunt laborum consectetur nostrud minim est et labore incididunt pariatur aliquip et nulla nulla laboris ullamco proident labore do aute sint incididunt incididunt pariatur voluptate"
+        },
+        {
+          "id": "6133d01ddd07523bb321d92c",
+          "name": "Стенка Горизонт Мебель Интеро (венге/дуб)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/844/681/preview_b/gorizontmebel_04_5c4194d4b7694.jpeg",
+            "https://cdn21vek.by/img/galleries/844/681/preview_b/gorizontmebel_04_5c4194d4df776.jpeg",
+            "https://cdn21vek.by/img/galleries/844/681/preview_b/gorizontmebel_04_5c4194d4ece26.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 30,
+          "price": 298,
+          "description": "non eu aliquip velit incididunt commodo tempor duis ex elit qui mollit fugiat veniam laborum reprehenderit amet sit culpa eiusmod magna labore labore ut incididunt do enim cillum incididunt quis sunt quis officia culpa adipisicing minim ut labore labore magna"
+        },
+        {
+          "id": "6133d01d5a8f934dba1b4d15",
+          "name": "Стенка Империал Джерси (ателье светлый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6082/249/preview_b/imperial1_0162_5f5b1a8e456c9.jpeg",
+            "https://cdn21vek.by/img/galleries/6082/249/preview_b/imperial1_0162_5f5b1a916aac6.jpeg",
+            "https://cdn21vek.by/img/galleries/6082/249/preview_b/imperial1_0162_5f5b1a96e956f.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 3,
+          "price": 575,
+          "description": "reprehenderit non ad ipsum in in aliquip consequat pariatur sit non id occaecat amet voluptate labore aliquip id aute sunt nulla dolor ipsum excepteur amet ullamco reprehenderit non eu amet consequat ut exercitation ad minim quis commodo excepteur do aliquip"
+        },
+        {
+          "id": "6133d01d0bef1da9cafce6fa",
+          "name": "Стенка Олмеко Олимп-М08 (венге/дуб линдберг)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/441/886/preview_b/08_olimpe_592ecc3d7d2cb.jpeg",
+            "https://cdn21vek.by/img/galleries/441/886/preview_b/08_olimpe_592ecc3e132ec.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 1,
+          "price": 659,
+          "description": "ut in id velit ullamco esse dolor consequat in ad nisi enim proident veniam sint dolore fugiat mollit nostrud laborum mollit pariatur eu fugiat officia fugiat minim cupidatat nulla in anim laboris officia deserunt Lorem ipsum pariatur velit deserunt velit"
+        },
+        {
+          "id": "6133d01d6558726e5f343c7d",
+          "name": "Стенка Горизонт Мебель Коста (венге/прованс)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1077/337/preview_b/gorizontmebel_058_5d53fbb28e515.jpeg",
+            "https://cdn21vek.by/img/galleries/1077/337/preview_b/gorizontmebel_058_5d53fbb6f2fe8.jpeg",
+            "https://cdn21vek.by/img/galleries/1077/337/preview_b/gorizontmebel_058_5d53fbc43fb29.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 21,
+          "price": 398,
+          "description": "irure mollit deserunt adipisicing mollit duis ad ex adipisicing officia labore consectetur do aute labore id aliquip occaecat veniam voluptate magna esse irure commodo excepteur est aliquip officia dolore nisi adipisicing occaecat officia ipsum elit laboris laborum nisi ut cupidatat"
+        },
+        {
+          "id": "6133d01d076d77ea75a67c11",
+          "name": "Шкаф Интерлиния СК-022 (дуб венге/дуб молочный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/497/72/preview_b/022_interliniya_02_60fff92c81a97.jpeg",
+            "https://cdn21vek.by/img/galleries/497/72/preview_b/022_interliniya_02_60fff92cd5484.jpeg",
+            "https://cdn21vek.by/img/galleries/497/74/preview_b/022_interliniya_5fa3bb896ce4e.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 3,
+          "price": 321,
+          "description": "eiusmod ipsum in aliqua id sunt adipisicing minim aliquip consequat incididunt duis consequat do amet deserunt consectetur nisi voluptate esse occaecat esse dolore qui fugiat ea nostrud ex proident qui laboris adipisicing elit excepteur enim consequat labore ad duis est"
+        },
+        {
+          "id": "6133d01d41ae0884352badfc",
+          "name": "Шкаф Рэйгрупп 199 VHG Elza EL-01.02 (венге/шамони)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/794/353/preview_b/199vhgelzael0102_rjejgrupp_5c1e0b26e8866.jpeg",
+            "https://cdn21vek.by/img/galleries/794/353/preview_b/199vhgelzael0102_rjejgrupp_5c1e0b2b78bb3.jpeg",
+            "https://cdn21vek.by/img/galleries/794/353/preview_b/199vhgelzael0102_rjejgrupp_5c1e0b2ed6456.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 15,
+          "price": 334,
+          "description": "proident ea ullamco ullamco id nostrud aute irure voluptate laboris commodo officia pariatur do irure anim incididunt nisi do incididunt ea occaecat deserunt est consectetur sunt minim dolore consequat consequat pariatur deserunt exercitation aliqua culpa in in aliquip id minim"
+        },
+        {
+          "id": "6133d01d6e198f9808bfdfdd",
+          "name": "Горка Rikko Лия (белый/белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5978/688/preview_b/ricco_044_5ea3000580cb1.jpeg",
+            "https://cdn21vek.by/img/galleries/5978/688/preview_b/ricco_044_5ea2f9c5bc40a.jpeg",
+            "https://cdn21vek.by/img/galleries/5978/689/preview_b/ricco_046_5ea2f473d86bb.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 5,
+          "price": 422,
+          "description": "commodo tempor est ad quis amet velit mollit ea non enim proident aliquip mollit culpa tempor exercitation proident reprehenderit proident quis elit anim qui excepteur enim consectetur nulla eu consectetur occaecat nostrud sit laborum duis aliquip ullamco Lorem quis ullamco"
+        },
+        {
+          "id": "6133d01df0a794db349414b1",
+          "name": "Шкаф-пенал Интерлиния Коламбия КЛ-5 (дуб венге/дуб серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/497/0/preview_b/5_interliniya_09_5a06ff4b7e4a7.jpeg",
+            "https://cdn21vek.by/img/galleries/497/0/preview_b/5_interliniya_09_5a06ff4b3b38a.jpeg",
+            "https://cdn21vek.by/img/galleries/497/0/preview_b/5_interliniya_09_5a06ff7025876.jpeg",
+            "https://cdn21vek.by/img/galleries/497/0/preview_b/5_interliniya_09_6093908ede95a.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 10,
+          "price": 609,
+          "description": "culpa velit deserunt et id deserunt fugiat labore officia adipisicing aute magna id esse pariatur ut voluptate duis eu ex tempor labore mollit enim tempor nostrud nisi anim consequat mollit exercitation esse laborum sint cillum deserunt dolore minim incididunt ea"
+        }
+      ],
+      "chairs": [
+        {
+          "id": "61345c677354721713257b10",
+          "name": "Стул Nowy Styl Amely Chrome (V-1)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/362/926/preview_b/amelychrome_novyj_stil_5729c96734fb1.jpeg",
+            "https://cdn21vek.by/img/galleries/362/926/preview_b/amelychrome_novyj_stil_5729c96b0904d.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 22,
+          "price": 82,
+          "description": "Lorem dolor pariatur in aliquip exercitation Lorem velit deserunt ullamco et magna aute nisi labore ullamco duis eu consequat incididunt aliqua laborum cillum tempor minim occaecat magna officia minim labore irure deserunt eu elit id duis commodo elit adipisicing aute"
+        },
+        {
+          "id": "61345c672cb42f32f30ae3d9",
+          "name": "Стул Mio Tesoro Инес DC-060A (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/434/56/preview_b/dc060a_mio_tesoro_05_5d370dddb788b.jpeg",
+            "https://cdn21vek.by/img/galleries/434/56/preview_b/dc060a_mio_tesoro_05_5d370dde68b47.jpeg",
+            "https://cdn21vek.by/img/galleries/434/56/preview_b/dc060a_mio_tesoro_05_5d370ddf1aabb.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 24,
+          "price": 114,
+          "description": "adipisicing esse occaecat non tempor nulla sit cupidatat nulla nisi deserunt veniam qui minim qui aute elit magna duis elit exercitation qui esse enim eiusmod nulla qui labore velit irure minim magna nisi id eiusmod ut culpa deserunt adipisicing nulla"
+        },
+        {
+          "id": "61345c673c1f7eda4e001990",
+          "name": "Стул Nowy Styl Amely Chrome (V-18)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/362/927/preview_b/amelychrome_novyj_stil_06_5729c949c65c8.jpeg",
+            "https://cdn21vek.by/img/galleries/362/927/preview_b/amelychrome_novyj_stil_06_5729c94ef286f.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 18,
+          "price": 50,
+          "description": "et commodo mollit aute eiusmod duis incididunt sit do veniam labore ad eiusmod sit ad et qui irure velit exercitation labore reprehenderit do dolor duis mollit id cupidatat eu velit dolore officia ad irure mollit commodo culpa consectetur voluptate nisi"
+        },
+        {
+          "id": "61345c67275e73a259834cee",
+          "name": "Стул Mio Tesoro Инес DC-060A (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/434/54/preview_b/dc060a_mio_tesoro_5dd43a6324c74.jpeg",
+            "https://cdn21vek.by/img/galleries/434/54/preview_b/dc060a_mio_tesoro_5dd43a639af77.jpeg",
+            "https://cdn21vek.by/img/galleries/434/54/preview_b/dc060a_mio_tesoro_5dd43a641e55b.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 3,
+          "price": 101,
+          "description": "consequat sunt voluptate qui mollit quis irure in sint eu culpa id commodo ipsum consectetur laboris consequat quis est cupidatat ad dolore Lorem amet tempor pariatur in nisi fugiat aliqua officia aute laborum sint enim culpa eiusmod magna dolor mollit"
+        },
+        {
+          "id": "61345c67c14b8c85ba3ab473",
+          "name": "Стул Tetchair Secret De Maison Cindy Eames (дерево береза/белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1131/683/preview_b/secretdemaisoncindyeames_tetchair_5ddcbd689c51e.jpeg",
+            "https://cdn21vek.by/img/galleries/1131/690/preview_b/secretdemaisoncindyeames_tetchair_01_5ddcbdce1b57c.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 3,
+          "price": 104,
+          "description": "ipsum velit laborum et dolore id minim ad reprehenderit dolor proident esse cupidatat ex id reprehenderit veniam reprehenderit ipsum est tempor laborum laboris Lorem incididunt velit commodo aliquip cillum sunt velit id excepteur magna anim sunt enim cupidatat nisi occaecat"
+        },
+        {
+          "id": "61345c67f48f8b5cb3dab150",
+          "name": "Стул Сав-Лайн Томас (серый/светло-серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/996/446/preview_b/savline_010_5cd664bfbc067.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 30,
+          "price": 83,
+          "description": "qui sunt aliquip adipisicing consequat exercitation exercitation dolore irure esse officia officia tempor ut id exercitation consequat officia in consequat duis elit nostrud tempor deserunt Lorem qui do aute est mollit cupidatat elit dolore anim aliqua aliquip officia consequat adipisicing"
+        },
+        {
+          "id": "61345c673447205921ae23a6",
+          "name": "Стул Nowy Styl Amely Chrome (V-28)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/365/307/preview_b/amelychrome_novyj_stil_017_572ad564c1b1b.jpeg",
+            "https://cdn21vek.by/img/galleries/365/307/preview_b/amelychrome_novyj_stil_017_572ad56a2acdb.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 5,
+          "price": 104,
+          "description": "anim ipsum ut enim amet mollit commodo amet incididunt laboris ullamco nisi amet deserunt magna eiusmod mollit laborum deserunt adipisicing minim esse magna ullamco elit ullamco ut elit ad non commodo commodo esse adipisicing mollit consectetur labore esse sunt dolor"
+        },
+        {
+          "id": "61345c67a2fcd9ff138e8701",
+          "name": "Стул Mio Tesoro Джия DC-060 (черный/хром)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/434/67/preview_b/dc060_mio_tesoro_05_5dc9d7af59161.jpeg",
+            "https://cdn21vek.by/img/galleries/434/67/preview_b/dc060_mio_tesoro_05_5dc9d7afbec2e.jpeg",
+            "https://cdn21vek.by/img/galleries/434/67/preview_b/dc060_mio_tesoro_05_58f4c41bb6ab8.png"
+          ],
+          "rating": 5,
+          "availableAmount": 3,
+          "price": 96,
+          "description": "mollit quis anim do velit officia aute incididunt non ut elit labore dolor eiusmod officia sunt labore minim mollit pariatur ipsum tempor veniam ea aute quis esse reprehenderit laborum officia ipsum ea quis incididunt Lorem ullamco sint et eiusmod fugiat"
+        },
+        {
+          "id": "61345c670edc74c4d34d43ff",
+          "name": "Стул Mio Tesoro Роза DC-048 (белый/хром)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/434/36/preview_b/dc048_mio_tesoro_02_5dc9dbade97fe.jpeg",
+            "https://cdn21vek.by/img/galleries/434/36/preview_b/dc048_mio_tesoro_02_5dc9dbae5bbe9.jpeg",
+            "https://cdn21vek.by/img/galleries/434/36/preview_b/dc048_mio_tesoro_02_59a5536b5c212.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 18,
+          "price": 81,
+          "description": "consequat esse nisi nulla labore mollit ea velit do est eu proident excepteur anim nisi irure velit proident laboris Lorem elit tempor enim do consectetur exercitation incididunt veniam laboris eiusmod culpa dolor aute et nostrud minim consectetur eu ipsum veniam"
+        },
+        {
+          "id": "61345c67c4335c5457700ea3",
+          "name": "Табурет AMC Comfort 7.33 (слоновая кость/слоновая кость)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5952/187/preview_b/comfort733_amc_5e81a4e74a6c5.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 3,
+          "price": 98,
+          "description": "eiusmod ad laboris aliqua labore ad laboris labore laboris consectetur adipisicing nisi excepteur ut cupidatat occaecat cupidatat ad tempor sunt dolore laboris amet labore et adipisicing pariatur minim proident elit nulla sint laboris nostrud nostrud dolor ipsum nisi ad deserunt"
+        },
+        {
+          "id": "61345c67813741ff0a5e6722",
+          "name": "Стул Ника ССН2/4 (серый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1156/853/preview_b/24_nika_02_5e9da9cdb4743.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 11,
+          "price": 100,
+          "description": "est dolore in cillum aliquip laborum culpa veniam in ullamco laborum nostrud eu exercitation pariatur reprehenderit amet velit proident sit laborum duis reprehenderit pariatur voluptate incididunt Lorem exercitation adipisicing quis do Lorem ea proident duis et nulla pariatur pariatur mollit"
+        },
+        {
+          "id": "61345c67cfa2980321675117",
+          "name": "Стул Ikea Йокмокк 504.587.65",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1104/782/preview_b/50458765_ikea_5d2d7aa0a1174.jpeg",
+            "https://cdn21vek.by/img/galleries/1104/782/preview_b/50458765_ikea_5d2d7aa0b668f.jpeg",
+            "https://cdn21vek.by/img/galleries/1104/782/preview_b/50458765_ikea_5d2d7aa0cd909.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 11,
+          "price": 100,
+          "description": "mollit fugiat ad id mollit officia quis pariatur irure ut et irure voluptate ad cupidatat nostrud proident magna sint proident elit consectetur occaecat laboris aliquip sunt qui sint reprehenderit duis mollit commodo incididunt excepteur aliquip quis incididunt aute amet adipisicing"
+        },
+        {
+          "id": "61345c672a52037f01b873c7",
+          "name": "Табурет Millwood СДН-6 Арне 2 Л (дуб белый Craft/металл черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/994/204/preview_b/62l_millwood_5cef83aa67929.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 20,
+          "price": 99,
+          "description": "anim nulla fugiat ullamco consectetur nostrud amet cupidatat amet ipsum excepteur excepteur do irure nostrud consequat aliquip veniam enim quis eu excepteur reprehenderit duis deserunt dolore occaecat elit sint Lorem irure ipsum enim anim et culpa cillum officia occaecat cillum"
+        },
+        {
+          "id": "61345c673ac37b14c1a18fbc",
+          "name": "Табурет Славянская столица Д-Т1 (дуб сонома/белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6110/127/preview_b/1_slavstolica_037_5fa2a17270aeb.jpeg",
+            "https://cdn21vek.by/img/galleries/6110/129/preview_b/1_slavstolica_036_605c4326b2805.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 6,
+          "price": 113,
+          "description": "nulla minim exercitation nostrud tempor cillum laborum in consequat magna magna aute dolor officia incididunt aliquip consectetur ut exercitation reprehenderit Lorem est officia consectetur Lorem proident dolor deserunt qui qui consequat sint aliquip minim fugiat minim sunt veniam ut qui"
+        },
+        {
+          "id": "61345c679b862a40b64cd864",
+          "name": "Cтул-лестница Монбел Трап-М СТМ (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5672/78/preview_b/monbel_5d9ca81c86854.jpeg",
+            "https://cdn21vek.by/img/galleries/5672/78/preview_b/monbel_5d9ca86d0e589.jpeg",
+            "https://cdn21vek.by/img/galleries/5672/78/preview_b/monbel_5d9ca86d23e00.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 28,
+          "price": 94,
+          "description": "consequat sint cupidatat eu consectetur ex qui veniam aute commodo incididunt labore et tempor magna laborum occaecat excepteur Lorem do consectetur duis enim deserunt Lorem excepteur deserunt eiusmod mollit mollit ipsum eiusmod et reprehenderit dolor qui nulla proident quis laboris"
+        },
+        {
+          "id": "61345c679811ff3cdd7b8344",
+          "name": "Стул ММЦ Форест (бейц)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/759/633/preview_b/mmc_015_5c2de74391b24.jpeg",
+            "https://cdn21vek.by/img/galleries/759/633/preview_b/mmc_015_5c2de7491059a.jpeg",
+            "https://cdn21vek.by/img/galleries/759/633/preview_b/mmc_015_5c2de87a259a7.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 23,
+          "price": 62,
+          "description": "irure ex aliquip non voluptate aliquip ex aute nulla ad commodo sit sunt cupidatat est ad ea quis minim minim nostrud laborum exercitation est dolor adipisicing consequat nostrud quis tempor pariatur est cillum do esse est aliquip do officia non"
+        },
+        {
+          "id": "61345c67a812211afee3d7ee",
+          "name": "Стул Домотека Омега 1 (A0/A0)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5746/812/preview_b/1_domoteka_023_5ddeeb377927b.jpeg",
+            "https://cdn21vek.by/img/galleries/5746/812/preview_b/1_domoteka_023_5ddeeb3794483.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 3,
+          "price": 115,
+          "description": "labore enim anim nulla cillum culpa laborum dolore esse laboris incididunt reprehenderit adipisicing ut voluptate labore excepteur aliquip fugiat eu commodo culpa mollit occaecat proident cillum aliqua Lorem occaecat officia culpa exercitation ut minim irure duis id ad labore eu"
+        }
+      ],
+      "tables": [
+        {
+          "id": "6134604a5fffd7c269ab588c",
+          "name": "Обеденный стол Eligard One / СОО раздвижной (дуб натуральный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/738/177/preview_b/one_eligard_01_60586a4329038.jpeg",
+            "https://cdn21vek.by/img/galleries/738/177/preview_b/one_eligard_01_60586a4282e80.jpeg",
+            "https://cdn21vek.by/img/galleries/738/177/preview_b/one_eligard_01_60586a43e7e0f.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 1,
+          "price": 178,
+          "description": "cillum officia commodo est nostrud consectetur aute magna tempor do Lorem commodo est ad ad enim commodo voluptate adipisicing minim adipisicing ea ea nisi consectetur aliqua ipsum enim consectetur esse occaecat reprehenderit fugiat mollit esse est tempor velit laboris aliquip"
+        },
+        {
+          "id": "6134604a932aba84c01907ec",
+          "name": "Обеденный стол Мебель-Класс Леон-2 (сосна)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6217/852/preview_b/2_mebel_klass_014_5fbf72fa3cb42.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 24,
+          "price": 418,
+          "description": "ullamco nisi laborum fugiat adipisicing aliqua occaecat quis culpa proident aliquip laborum nisi excepteur id culpa fugiat consectetur do sit ad cillum consequat amet aliquip est id consequat sint ea irure aliquip proident in eu nostrud nisi commodo Lorem excepteur"
+        },
+        {
+          "id": "6134604abec23bfe1e0cacc3",
+          "name": "Обеденная группа Артём-Мебель ДСП (сосна арктическая)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5782/813/preview_b/artemmebel_011_5e7ddfcbda58b.jpeg",
+            "https://cdn21vek.by/img/galleries/961/172/preview_b/artemmebel_07_5f4e16264d45c.jpeg",
+            "https://cdn21vek.by/img/galleries/961/172/preview_b/artemmebel_07_5f4e1627289e9.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 27,
+          "price": 229,
+          "description": "voluptate cupidatat consectetur nostrud tempor excepteur adipisicing non pariatur magna id ut sit consequat Lorem enim elit labore culpa veniam et officia sit aliqua ad quis do elit quis officia ut voluptate non ad proident dolore nulla enim ullamco duis"
+        },
+        {
+          "id": "6134604a35f91f93aa4e40a4",
+          "name": "Обеденный стол Сокол-Мебель СО-1 (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/493/487/preview_b/1_sokol_mebel_026_59fb31f71041d.jpeg",
+            "https://cdn21vek.by/img/galleries/493/487/preview_b/1_sokol_mebel_026_59fb32d596fe0.jpeg",
+            "https://cdn21vek.by/img/galleries/493/487/preview_b/1_sokol_mebel_026_59fb31f813e10.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 25,
+          "price": 359,
+          "description": "sunt ex consequat consectetur minim velit veniam eu sunt ad consectetur occaecat consectetur excepteur laboris duis exercitation nulla fugiat irure proident labore aliqua proident pariatur officia consequat tempor aliqua sunt reprehenderit est consectetur minim veniam elit occaecat nulla dolore eu"
+        },
+        {
+          "id": "6134604af39601a2a6bb02d0",
+          "name": "Обеденный стол Мебель-Класс Леон-1 (венге/дуб шамони)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/584/867/preview_b/1_mebel_klass_021_5aeb5f4e8d0da.jpeg",
+            "https://cdn21vek.by/img/galleries/584/867/preview_b/1_mebel_klass_021_5aeb5f53a666f.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 25,
+          "price": 338,
+          "description": "ut laborum est pariatur culpa qui proident veniam incididunt velit cupidatat in aute sit nisi sit nostrud duis dolore aute et dolor consequat commodo ad aliqua id anim voluptate cillum irure dolore tempor id eu aliqua pariatur fugiat ad aute"
+        },
+        {
+          "id": "6134604ae398709f67fd278a",
+          "name": "Обеденный стол Senira Р-001 (белый глянец/хром)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5667/909/preview_b/001_senira_02_5dcead66314cc.jpeg",
+            "https://cdn21vek.by/img/galleries/5667/909/preview_b/001_senira_02_5dcead666395b.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 4,
+          "price": 367,
+          "description": "irure ex id culpa incididunt tempor duis consectetur sit sunt commodo nisi esse pariatur excepteur elit consectetur adipisicing aute adipisicing anim qui excepteur dolor Lorem veniam irure minim fugiat commodo exercitation sint elit anim dolore tempor tempor sit deserunt laborum"
+        },
+        {
+          "id": "6134604a6baa1085c6531bc5",
+          "name": "Обеденный стол Мебель-Класс Леон-2 (венге/дуб шамони)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1139/475/preview_b/2_mebel_klass_012_5e2eac7a7fbbd.jpeg",
+            "https://cdn21vek.by/img/galleries/1139/475/preview_b/2_mebel_klass_012_5e2eac8d8d502.jpeg",
+            "https://cdn21vek.by/img/galleries/1139/475/preview_b/2_mebel_klass_012_5e2eacb5c6f03.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 14,
+          "price": 265,
+          "description": "magna ea mollit veniam nisi velit adipisicing sit et fugiat consequat consequat adipisicing dolor ea id quis duis minim duis reprehenderit ullamco do excepteur nisi et consectetur minim do amet sunt incididunt voluptate cillum ex aliqua ullamco ad adipisicing anim"
+        },
+        {
+          "id": "6134604af1efcf39b2ac94cc",
+          "name": "Обеденный стол Мебель-Класс Гелиос (кремовый белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/346/226/preview_b/mebel_klass_093_58948f03c0c9e.jpeg",
+            "https://cdn21vek.by/img/galleries/346/226/preview_b/mebel_klass_093_5bff931444dbc.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 30,
+          "price": 162,
+          "description": "ullamco est tempor commodo commodo non aliquip sit id exercitation fugiat et magna ut ullamco ea amet ad exercitation occaecat adipisicing est sit reprehenderit aute pariatur mollit non labore Lorem ea deserunt anim et occaecat laborum velit est officia ad"
+        },
+        {
+          "id": "6134604ad92b74cd0d7aa8e8",
+          "name": "Обеденный стол Рамзес Раздвижной прямоугольный ЛДСП 110-140x70 (шимо светлый/ноги хром)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5823/3/preview_b/110140x70_ramzes_01_5e32cdd8266ae.jpeg",
+            "https://cdn21vek.by/img/galleries/5823/3/preview_b/110140x70_ramzes_01_5e32cdd83c28a.jpeg",
+            "https://cdn21vek.by/img/galleries/5823/3/preview_b/110140x70_ramzes_01_5e32cdd84ffa2.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 8,
+          "price": 220,
+          "description": "ullamco et officia id proident occaecat magna minim nisi dolore pariatur officia sit nostrud incididunt amet cupidatat cupidatat mollit ex aliqua nostrud adipisicing nisi eu minim ad est culpa labore veniam sint Lorem consequat eu aute cupidatat laborum cillum aliqua"
+        },
+        {
+          "id": "6134604a422d55570b295321",
+          "name": "Обеденный стол Domus Твист-5 / 14.105.105.02 (белый/черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5880/671/preview_b/51410510502_domus_5e4d212f493c1.jpeg",
+            "https://cdn21vek.by/img/galleries/5880/671/preview_b/51410510502_domus_5e6877f0c84e6.jpeg",
+            "https://cdn21vek.by/img/galleries/5880/671/preview_b/51410510502_domus_5e6877f625546.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 14,
+          "price": 474,
+          "description": "sit anim pariatur in sint sunt exercitation est dolor fugiat anim do adipisicing do eiusmod Lorem consectetur deserunt do ea sit sit tempor aliquip nulla proident dolor fugiat consectetur commodo consectetur nostrud consequat amet fugiat voluptate sunt laboris sit ad"
+        },
+        {
+          "id": "6134604ae56f0bb877ed086c",
+          "name": "Обеденный стол Алмаз-Люкс СО-Д-02-20",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/623/990/preview_b/0220_almaz_luks_5b4dfce0964eb.jpeg",
+            "https://cdn21vek.by/img/galleries/623/990/preview_b/0220_almaz_luks_5b4dfce27f901.jpeg",
+            "https://cdn21vek.by/img/galleries/620/115/preview_b/0223_almaz_luks_5f2116bb3d6b8.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 14,
+          "price": 138,
+          "description": "cillum enim qui magna qui nisi incididunt nisi consequat non duis nostrud irure duis ipsum eiusmod ex excepteur velit dolore ea cupidatat dolor sint amet est nisi exercitation amet ipsum incididunt ut cupidatat cupidatat et et adipisicing officia aute magna"
+        },
+        {
+          "id": "6134604abb6b837a9c3a3b5f",
+          "name": "Обеденный стол Millwood Далис 1 (дуб белый Craft/металл белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/993/416/preview_b/1_millwood_016_5d1618fc5bcdd.jpeg",
+            "https://cdn21vek.by/img/galleries/993/416/preview_b/1_millwood_016_5d16190110443.jpeg",
+            ""
+          ],
+          "rating": 0,
+          "availableAmount": 14,
+          "price": 167,
+          "description": "duis ex ipsum consectetur cillum adipisicing nisi excepteur dolor exercitation mollit ut laborum est dolor veniam fugiat sint excepteur eu exercitation veniam veniam minim eiusmod elit quis non id culpa nostrud proident aliquip laboris officia Lorem dolore exercitation id exercitation"
+        }
+      ],
+      "beds": [
+        {
+          "id": "6134630cebacafd7c3926332",
+          "name": "Кровать-тахта Олмеко Фея-3 90x200 (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5887/302/preview_b/olimpe_018_5e56476282a6d.jpeg",
+            "https://cdn21vek.by/img/galleries/5887/302/preview_b/olimpe_018_5e564762a9fca.jpeg",
+            "https://cdn21vek.by/img/galleries/5887/301/preview_b/olimpe_020_5e56471f0f030.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 8,
+          "price": 308,
+          "description": "eu aute amet et consectetur magna minim ipsum culpa culpa veniam qui ad ad et sit laborum consectetur id quis eiusmod Lorem dolore sunt fugiat cupidatat esse deserunt culpa voluptate consectetur quis magna dolore duis anim pariatur ipsum ad laboris"
+        },
+        {
+          "id": "6134630cc2438d51eac44b10",
+          "name": "Двуспальная кровать Олмеко 21.53-01 с настилом (дуб сонома/дуб сонома)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/942/199/preview_b/215301_olimpe_5c98a126c48b6.jpeg",
+            "https://cdn21vek.by/img/galleries/942/199/preview_b/215301_olimpe_5c98a1299948a.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 22,
+          "price": 375,
+          "description": "cillum ex aliquip sunt cupidatat excepteur officia irure aliquip laboris reprehenderit duis do eiusmod duis tempor anim dolor aute in sint eu irure adipisicing proident amet ad aliqua do dolore magna commodo occaecat in ullamco non fugiat pariatur irure laboris"
+        },
+        {
+          "id": "6134630ced88fdf2ed80219c",
+          "name": "Кровать-тахта Олмеко Фея-3 90x200 (шимо темный/шимо светлый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5887/301/preview_b/olimpe_020_5e5645429b2e5.jpeg",
+            "https://cdn21vek.by/img/galleries/5887/301/preview_b/olimpe_020_5e564542cd0f1.jpeg",
+            "https://cdn21vek.by/img/galleries/5887/301/preview_b/olimpe_020_5e56454317af4.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 26,
+          "price": 367,
+          "description": "aliqua nostrud ad reprehenderit cupidatat velit ex consectetur nulla ad incididunt veniam ullamco aliqua ipsum nostrud commodo minim tempor duis pariatur irure nisi amet incididunt esse officia et veniam veniam non et occaecat labore sint incididunt consequat voluptate ex ipsum"
+        },
+        {
+          "id": "6134630cbef73151d9738860",
+          "name": "Двуспальная кровать Senira Прыгажуня 160 Г",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/974/508/preview_b/160_senira_5ce7a3a588ad9.jpeg",
+            "https://cdn21vek.by/img/galleries/974/508/preview_b/160_senira_5ce7a3acbea55.jpeg",
+            "https://cdn21vek.by/img/galleries/974/508/preview_b/160_senira_5ce7a3a8145f1.jpeg",
+            "https://cdn21vek.by/img/galleries/974/508/preview_b/160_senira_5ce7a3aa392ec.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 9,
+          "price": 435,
+          "description": "mollit dolor veniam anim cillum aliquip aliquip adipisicing consectetur commodo non dolor labore et magna magna pariatur ipsum excepteur aliquip dolore labore aliqua ex adipisicing dolore quis proident et commodo consectetur eu ipsum anim deserunt mollit proident occaecat labore duis"
+        },
+        {
+          "id": "6134630ccf905e7ab4b4471a",
+          "name": "Кровать-тахта Интерлиния Анеси-5 (вудлайн)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1022/142/preview_b/interliniya_010_5ce8026969ac1.jpeg",
+            "https://cdn21vek.by/img/galleries/1022/142/preview_b/interliniya_010_5ce8026fcca57.jpeg",
+            "https://cdn21vek.by/img/galleries/1022/142/preview_b/interliniya_010_5ce80272ab3cb.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 12,
+          "price": 323,
+          "description": "excepteur ipsum proident aliqua excepteur dolore nulla culpa amet quis quis dolore anim fugiat ea elit minim mollit elit aliquip sit ex nostrud culpa nisi proident reprehenderit proident officia eu aliquip cillum consequat sint ipsum deserunt adipisicing ex sint excepteur"
+        },
+        {
+          "id": "6134630cd732aea2b3d501fa",
+          "name": "Двуспальная кровать Rikko Джулия 160х200 (венге/дуб атланта)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6380/678/preview_b/160200_ricco_07_60814687c8bff.jpeg",
+            "https://cdn21vek.by/img/galleries/6380/678/preview_b/160200_ricco_07_60814696ab690.jpeg",
+            "https://cdn21vek.by/img/galleries/6380/678/preview_b/160200_ricco_07_602cc30a25a0b.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 22,
+          "price": 400,
+          "description": "eiusmod dolore nisi irure tempor Lorem duis magna mollit est occaecat tempor aute exercitation labore duis ut in cupidatat proident in tempor consequat eiusmod non proident duis irure non elit tempor laboris amet esse minim nulla quis laboris cillum et"
+        },
+        {
+          "id": "6134630cf5a5fbb5f65d6170",
+          "name": "Односпальная кровать Мебель-Класс Лира-1 (венге/дуб шамони)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/459/643/preview_b/1_mebel_klass_018_593a520f7b552.jpeg",
+            "https://cdn21vek.by/img/galleries/459/643/preview_b/1_mebel_klass_018_6087b7975c138.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 8,
+          "price": 336,
+          "description": "mollit laboris velit quis mollit enim anim aute non Lorem ea ad minim do culpa nulla minim sint commodo Lorem dolore fugiat proident cupidatat aliquip labore sit sint cupidatat incididunt ullamco amet magna laborum cupidatat nisi magna id nulla nostrud"
+        },
+        {
+          "id": "6134630ceaa2165b186374d7",
+          "name": "Полуторная кровать Modern Аманда А12 (венге/дуб млечный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5952/157/preview_b/12_modern_01_5f70f782edd2e.jpeg",
+            "https://cdn21vek.by/img/galleries/5952/157/preview_b/12_modern_01_5f70f78322380.jpeg",
+            "https://cdn21vek.by/img/galleries/5952/159/preview_b/16_modern_5e81a4878f75b.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 5,
+          "price": 492,
+          "description": "cupidatat ut ipsum ut id sunt proident labore incididunt anim elit nostrud dolore consequat quis incididunt exercitation officia aliquip do velit nostrud consequat laborum reprehenderit qui fugiat duis ea aute occaecat sit dolor in sit minim et reprehenderit non sit"
+        },
+        {
+          "id": "6134630c0cc4c4c30a06a8ac",
+          "name": "Кровать-тахта MySTAR Вирджиния 100.1825 (сосна каньон)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/930/920/preview_b/1001825_mystar_01_5c923d42ba72b.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 18,
+          "price": 276,
+          "description": "duis nulla fugiat officia quis ex laboris consectetur velit elit nisi commodo commodo incididunt mollit reprehenderit quis proident veniam dolor esse commodo veniam eiusmod irure sit elit ut elit commodo ex tempor ut velit amet veniam cillum pariatur et minim"
+        },
+        {
+          "id": "6134630c9785fe45af580c62",
+          "name": "Полуторная кровать ФорестДекоГрупп Щара 120 / СП002-07 (орех)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/930/986/preview_b/12000207_forestdekogroup_01_5c925e71740da.jpeg",
+            "https://cdn21vek.by/img/galleries/930/986/preview_b/12000207_forestdekogroup_01_5c925e74a09bd.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 12,
+          "price": 346,
+          "description": "nostrud qui fugiat pariatur consectetur voluptate sit consectetur enim fugiat culpa excepteur aliqua nostrud exercitation tempor dolore cupidatat ut incididunt amet est dolor tempor ut qui excepteur nulla aute ea non consequat et reprehenderit ut exercitation aliquip laborum elit duis"
+        },
+        {
+          "id": "6134630cc79e784c0b865621",
+          "name": "Односпальная кровать Rikko Бася КР554 80х200 (шимо темный/шимо светлый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5978/709/preview_b/80200_ricco_01_5ea3498358024.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 4,
+          "price": 305,
+          "description": "excepteur sunt consectetur ad officia id duis pariatur quis minim laborum ex velit occaecat eiusmod ad sit ex officia quis officia incididunt deserunt ea excepteur magna quis magna aute cillum ex in velit Lorem officia occaecat consectetur officia occaecat do"
+        },
+        {
+          "id": "6134630cec60d37322fdc526",
+          "name": "Двуспальная кровать Moon Trade Noemi New 1222 / К002652",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6422/291/preview_b/noeminew1222002652_moon_trade_604a247e2c5ac.jpeg",
+            "https://cdn21vek.by/img/galleries/6422/291/preview_b/noeminew1222002652_moon_trade_604a247e7d6d7.jpeg",
+            "https://cdn21vek.by/img/galleries/6422/291/preview_b/noeminew1222002652_moon_trade_604a247fee68d.jpeg",
+            "https://cdn21vek.by/img/galleries/6422/291/preview_b/noeminew1222002652_moon_trade_604a2480a88f7.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 27,
+          "price": 466,
+          "description": "nostrud deserunt consectetur anim irure consequat culpa adipisicing ex quis labore est aliquip et ipsum pariatur consequat commodo in velit proident labore consequat laboris consequat labore aliqua consequat ipsum nulla dolor sint consectetur adipisicing eu aliqua in non officia mollit"
+        },
+        {
+          "id": "6134630ccc8b00460c15a50c",
+          "name": "Двуспальная кровать ФорестДекоГрупп Щара 160 / СП002-05 (белый)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/930/987/preview_b/16000205_forestdekogroup_5c925f065d5d9.jpeg",
+            "https://cdn21vek.by/img/galleries/930/987/preview_b/16000205_forestdekogroup_602228a8ea707.jpeg",
+            "https://cdn21vek.by/img/galleries/930/987/preview_b/16000205_forestdekogroup_5c925f0914f25.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 10,
+          "price": 445,
+          "description": "qui mollit mollit minim aliquip do mollit enim esse Lorem tempor esse est irure ad nostrud nulla reprehenderit elit ut quis do ut elit est labore dolor deserunt elit quis in nisi ex minim dolore eu elit veniam sint et"
+        },
+        {
+          "id": "6134630cb62e983d6ae9515a",
+          "name": "Односпальная кровать Интерлиния Анеси-3 (дуб венге)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1022/16/preview_b/3_interliniya_013_5ce7fffff3514.jpeg",
+            "https://cdn21vek.by/img/galleries/1022/16/preview_b/3_interliniya_013_5ce800053039d.jpeg",
+            "https://cdn21vek.by/img/galleries/1022/16/preview_b/3_interliniya_013_5ce80008c80c4.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 25,
+          "price": 310,
+          "description": "cupidatat voluptate eu adipisicing nulla nostrud enim ex sit aliqua dolor reprehenderit in elit nisi mollit officia ipsum deserunt cupidatat nulla incididunt minim magna Lorem proident excepteur esse enim veniam ex nisi ut proident ullamco est cillum occaecat culpa pariatur"
+        },
+        {
+          "id": "6134630cfe221ee9d42ee981",
+          "name": "Двуспальная кровать Князев Мебель Люмия ЛЯ.180.200.Б (белый муар)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6075/430/preview_b/180200_knjazev_mebel_020_5f22f0525a9dc.jpeg",
+            "https://cdn21vek.by/img/galleries/6075/430/preview_b/180200_knjazev_mebel_020_5f22f05409494.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 26,
+          "price": 396,
+          "description": "ipsum eiusmod laborum nisi ea nisi pariatur eu ullamco occaecat et enim irure exercitation velit est in anim ad ad laborum eu cillum laboris officia fugiat excepteur proident aliquip do fugiat esse deserunt veniam id voluptate est exercitation elit minim"
+        },
+        {
+          "id": "6134630cb934d0c5bd715657",
+          "name": "Кровать-тахта Мебельград Соня вариант 3 (массив сосны лаванда)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5892/722/preview_b/3_mebelgrad_5e4bcf2d8889c.jpeg",
+            "https://cdn21vek.by/img/galleries/5892/722/preview_b/3_mebelgrad_5e4bcf2c66c66.jpeg",
+            "https://cdn21vek.by/img/galleries/5892/722/preview_b/3_mebelgrad_5e4bcf2daadcd.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 9,
+          "price": 405,
+          "description": "ad excepteur elit elit non et elit consectetur ullamco voluptate cillum mollit laborum amet incididunt esse tempor culpa velit eiusmod ex qui elit officia minim consectetur aute voluptate in mollit veniam duis elit anim deserunt elit duis pariatur in excepteur"
+        }
+      ]
     },
     "hobbies": {
-      "music-instruments": [],
-      "books": [],
-      "fun-and-rest": []
+      "music-instruments": [
+        {
+          "id": "613466ec396324952fdeca65",
+          "name": "Ударная установка электронная Yamaha DTX-402K",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/956/754/preview_b/dtx402k_yamaha_5e1c12e1b5117.jpeg",
+            "https://cdn21vek.by/img/galleries/956/754/preview_b/dtx402k_yamaha_5e1c12e3967b5.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 29,
+          "price": 1790,
+          "description": "ex commodo voluptate ipsum cillum eiusmod quis tempor elit fugiat minim est mollit velit sint esse commodo reprehenderit in dolore exercitation id est irure sit occaecat ullamco sunt voluptate velit ut laborum consequat elit et culpa irure est sit laborum"
+        },
+        {
+          "id": "613466ec24874113ef4c45bb",
+          "name": "Ударная установка электронная Yamaha DTXP3",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/743/396/preview_b/dtxp3_yamaha_5e2eef05321a9.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 8,
+          "price": 2143,
+          "description": "commodo magna et eu dolore cillum aliquip anim deserunt ut et voluptate sit sit dolore dolore labore incididunt voluptate officia in quis duis duis dolor ad qui et non elit amet nostrud magna aute culpa aliqua ut laboris sint sint"
+        },
+        {
+          "id": "613466ec555d21000c06fbc4",
+          "name": "Ударная установка электронная Soundking SKD230",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6094/866/preview_b/skd230_soundking_5f1eabf7a5c53.jpeg",
+            "https://cdn21vek.by/img/galleries/6094/866/preview_b/skd230_soundking_5f1ea901139e7.png",
+            "https://cdn21vek.by/img/galleries/6094/866/preview_b/skd230_soundking_5f1ea901825bc.png",
+            "https://cdn21vek.by/img/galleries/6094/866/preview_b/skd230_soundking_5f1ea9023a7aa.png"
+          ],
+          "rating": 1,
+          "availableAmount": 2,
+          "price": 1038,
+          "description": "anim dolor elit esse exercitation mollit deserunt aute aliquip voluptate aliquip proident id est sunt anim ad magna eu incididunt commodo dolor duis consectetur et voluptate eiusmod ex mollit tempor sit irure ad aliqua cillum aute cupidatat ut ullamco excepteur"
+        },
+        {
+          "id": "613466ec830dc1f7746205dd",
+          "name": "Ударная установка электронная Roland TD-1KPX2",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6025/232/preview_b/td1kpx2_roland_5fc78928a505e.jpeg",
+            "https://cdn21vek.by/img/galleries/6025/232/preview_b/td1kpx2_roland_5fc7879e90e54.jpeg",
+            "https://cdn21vek.by/img/galleries/6025/232/preview_b/td1kpx2_roland_5fc7879ede267.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 11,
+          "price": 1451,
+          "description": "sint dolore ut sunt aute cupidatat deserunt excepteur ut eu voluptate id fugiat mollit tempor proident deserunt do dolore est pariatur officia nisi cupidatat quis qui consequat consequat enim aute occaecat aliqua minim consequat deserunt occaecat id culpa quis exercitation"
+        },
+        {
+          "id": "613466ecbe19adeb64f847e3",
+          "name": "Синтезатор Casio CT-S100",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5827/442/preview_b/cts100_casio_5e007b5ad3152.jpeg",
+            "https://cdn21vek.by/img/galleries/5827/442/preview_b/cts100_casio_5e007b5b01260.jpeg",
+            "https://cdn21vek.by/img/galleries/5827/442/preview_b/cts100_casio_5e007bb6694fc.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 16,
+          "price": 989,
+          "description": "et voluptate reprehenderit labore officia ipsum excepteur magna aute consectetur minim ad cillum voluptate occaecat minim cillum magna excepteur dolor nulla sit consequat tempor nostrud exercitation pariatur ut dolor aute laboris consectetur sit aliqua magna veniam non occaecat in dolor"
+        },
+        {
+          "id": "613466ece4b9312e82355a09",
+          "name": "Синтезатор Yamaha PSR-E463",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/653/662/preview_b/psre463_yamaha_5b62f431c46bb.jpeg",
+            "https://cdn21vek.by/img/galleries/653/662/preview_b/psre463_yamaha_5b62f4334a6f7.jpeg",
+            "https://cdn21vek.by/img/galleries/653/662/preview_b/psre463_yamaha_5b62f433b5fa6.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 15,
+          "price": 1207,
+          "description": "ex nisi labore tempor anim nostrud Lorem officia eiusmod id ullamco adipisicing laborum culpa laboris dolore velit esse ut voluptate ipsum elit proident adipisicing exercitation officia laboris commodo ad fugiat aliqua eu nostrud consectetur fugiat est laborum sint aliquip esse"
+        },
+        {
+          "id": "613466ecd08cc22404b67ccb",
+          "name": "Синтезатор Casio SA-78",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/463/936/preview_b/sa78_casio_59944d19ccf8a.jpeg",
+            "https://cdn21vek.by/img/galleries/463/936/preview_b/sa78_casio_59944bb96aa59.jpeg",
+            "https://cdn21vek.by/img/galleries/463/936/preview_b/sa78_casio_59944bbedd11a.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 22,
+          "price": 2260,
+          "description": "ad labore consectetur aliquip mollit laborum mollit nostrud excepteur anim voluptate excepteur deserunt culpa veniam ea laborum quis amet officia cupidatat velit velit eiusmod consequat laboris aliqua voluptate duis id et ea irure irure excepteur nisi voluptate labore eu voluptate"
+        },
+        {
+          "id": "613466ecd3f6601b9e99b8de",
+          "name": "Синтезатор Casio SA-46",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/463/934/preview_b/sa46_casio_599bdc97c8600.jpeg",
+            "https://cdn21vek.by/img/galleries/463/934/preview_b/sa46_casio_599bdd1194be2.jpeg",
+            "https://cdn21vek.by/img/galleries/463/934/preview_b/sa46_casio_599bdd114193e.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 29,
+          "price": 349,
+          "description": "elit est velit non adipisicing cillum consequat officia non cupidatat dolor do in sunt amet Lorem exercitation eu amet excepteur fugiat adipisicing cillum labore dolor id esse reprehenderit et elit consequat reprehenderit ipsum id elit amet non id sit ad"
+        },
+        {
+          "id": "613466ec4761b4ab07d4947f",
+          "name": "Цифровое фортепиано Casio AP-470WE",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/643/456/preview_b/ap470we_casio_5c3482056538d.jpeg",
+            "https://cdn21vek.by/img/galleries/643/456/preview_b/ap470we_casio_5c3482059704e.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 18,
+          "price": 171,
+          "description": "Lorem sunt nisi non ea irure deserunt eiusmod dolore do consectetur elit nostrud exercitation cillum velit consectetur exercitation elit ullamco dolore ad est qui quis qui commodo cillum adipisicing eiusmod sint cupidatat et esse ex elit exercitation in veniam qui"
+        },
+        {
+          "id": "613466ec4147cbfd2740f225",
+          "name": "Акустическая гитара Fante FT-R38B-BK",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6092/366/preview_b/ftr38bbk_fante_5f1fe3bece231.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 1,
+          "price": 2256,
+          "description": "officia quis cillum pariatur velit ea esse nulla sint est voluptate non cillum ullamco officia elit culpa eu magna est voluptate pariatur id mollit laborum sunt ullamco velit velit ipsum ex dolore eiusmod enim laboris velit irure laboris ut esse"
+        },
+        {
+          "id": "613466eca4a0a27f2f64612b",
+          "name": "Акустическая гитара Cort AD 810 BKS",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5853/36/preview_b/ad810bks_cort_5e18841cd0c7b.jpeg",
+            "https://cdn21vek.by/img/galleries/5853/36/preview_b/ad810bks_cort_5e18841d013cd.jpeg",
+            "https://cdn21vek.by/img/galleries/5853/36/preview_b/ad810bks_cort_5e18841d279da.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 4,
+          "price": 981,
+          "description": "Lorem est enim commodo et reprehenderit dolor irure magna culpa adipisicing aliquip do id culpa mollit id aute quis officia aliquip id do nulla eu velit veniam Lorem non non exercitation adipisicing sit nulla exercitation consectetur nisi consectetur aliqua sit"
+        },
+        {
+          "id": "613466ec276b6c73125eb1fe",
+          "name": "Акустическая гитара Jervis JG-38C/BK (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/512/327/preview_b/jg38cbk_jervis_5ab8a3a5becea.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 22,
+          "price": 1869,
+          "description": "ut cupidatat pariatur culpa aliquip incididunt commodo irure laborum fugiat fugiat ullamco officia anim ipsum esse commodo reprehenderit irure elit do enim mollit ad laborum tempor in nostrud irure eiusmod aute laborum sit tempor occaecat aute ad cillum consequat aute"
+        },
+        {
+          "id": "613466ec0ed4a0d6a72b49de",
+          "name": "Электрогитара Mingde EGT-100 (черный)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/470/223/preview_b/egt100_mingde_02_598c40f5e8291.jpeg",
+            "https://cdn21vek.by/img/galleries/470/223/preview_b/egt100_mingde_02_598c40f696d86.jpeg",
+            "https://cdn21vek.by/img/galleries/470/223/preview_b/egt100_mingde_02_598c40f6d413f.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 21,
+          "price": 2276,
+          "description": "nostrud voluptate ea excepteur deserunt amet nulla adipisicing fugiat dolore dolor tempor nostrud aliqua non laborum sunt do ad Lorem laborum eiusmod eiusmod dolor duis culpa mollit enim nisi pariatur ullamco dolore sunt magna deserunt minim voluptate sint ad ex"
+        },
+        {
+          "id": "613466ec6a9ac7b4a759f98e",
+          "name": "Электрогитара Stagg SEL-STD BLK LP STD BLK",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6251/59/preview_b/selstdblklpstdblk_stagg_5faeda521d1b3.jpeg",
+            "https://cdn21vek.by/img/galleries/6251/59/preview_b/selstdblklpstdblk_stagg_5faeda5278d31.jpeg",
+            "https://cdn21vek.by/img/galleries/6251/59/preview_b/selstdblklpstdblk_stagg_5faeda525e54a.jpeg",
+            "https://cdn21vek.by/img/galleries/6251/59/preview_b/selstdblklpstdblk_stagg_5faeda52d776b.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 3,
+          "price": 410,
+          "description": "sint ipsum aliquip in ex duis minim irure et consectetur aute consequat amet ipsum aliqua laboris duis id eu ad exercitation proident officia elit aliquip laboris labore et nostrud quis anim ullamco sit nulla irure sunt reprehenderit velit elit ad"
+        }
+      ],
+      "books": [
+        {
+          "id": "61346a5eb5663c8256e876e9",
+          "name": "Книга Русич Сказки (Перро Ш.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6047/448/preview_b/rusich_05_5f043f83717e8.jpeg",
+            "https://cdn21vek.by/img/galleries/6047/448/preview_b/rusich_05_5f044118ee98c.jpeg",
+            "https://cdn21vek.by/img/galleries/6047/448/preview_b/rusich_05_5f044118354a5.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 15,
+          "price": 28.71,
+          "description": "ipsum id qui sint in do quis elit sunt exercitation laborum dolor sunt enim mollit minim nostrud elit nisi consectetur commodo ea labore adipisicing voluptate voluptate in minim velit nulla enim incididunt consectetur aliquip Lorem adipisicing tempor est ad id"
+        },
+        {
+          "id": "61346a5e01a6cdfc4f37a415",
+          "name": "Книга Росмэн 100 любимых сказок (Пушкин А., Толстой Л., Пантелеев Л. и др.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1131/291/preview_b/100_rosman_010_5d57adb52a5ca.jpeg",
+            "https://cdn21vek.by/img/galleries/1131/291/preview_b/100_rosman_010_5d57adb56dbb7.jpeg",
+            "https://cdn21vek.by/img/galleries/1131/291/preview_b/100_rosman_010_5d57adb6b1dda.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 13,
+          "price": 31.08,
+          "description": "eu labore magna laboris qui qui amet nulla consequat velit amet consectetur officia consectetur dolor do consectetur sit adipisicing et ea sint proident id eu minim aliquip do amet exercitation anim dolore ipsum reprehenderit elit fugiat ea nulla officia sit"
+        },
+        {
+          "id": "61346a5e9b2d77b0db3a967b",
+          "name": "Книга Харвест 1984. Скотный Двор (Оруэлл Д.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6031/164/preview_b/1984_harvest__5f870edd398be.jpeg",
+            "https://cdn21vek.by/img/galleries/6031/164/preview_b/1984_harvest__5f870ee63e05b.jpeg",
+            "https://cdn21vek.by/img/galleries/6031/164/preview_b/1984_harvest__5f870ee56919e.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 7,
+          "price": 28.55,
+          "description": "enim ea laboris non fugiat enim enim culpa consequat deserunt sunt voluptate aliqua nisi commodo deserunt ipsum enim nisi voluptate cillum qui et enim ea cupidatat ullamco qui cillum duis est tempor aute esse dolor aliqua cillum ipsum tempor minim"
+        },
+        {
+          "id": "61346a5e19c89027aa39b9fa",
+          "name": "Книга Махаон Гарри Поттер и Проклятое дитя. Часть первая и вторая (Роулинг Дж.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1021/363/preview_b/mahaon_05_5d495a0556849.jpeg",
+            "https://cdn21vek.by/img/galleries/1021/363/preview_b/mahaon_05_5d495a057b213.jpeg",
+            "https://cdn21vek.by/img/galleries/1021/363/preview_b/mahaon_05_5d495a066c44d.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 15,
+          "price": 19.66,
+          "description": "culpa proident commodo ullamco amet magna minim adipisicing velit dolor sit ipsum qui officia irure consequat est exercitation eiusmod in Lorem deserunt et esse ipsum in reprehenderit minim culpa ad esse consectetur eu tempor aliqua cillum sit cillum duis et"
+        },
+        {
+          "id": "61346a5e59105899731abdab",
+          "name": "Книга Эксмо Не открывать! Кусается! (Хаберзак Ш.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1117/844/preview_b/eksmo_0486_5d7ce8da4e8e8.jpeg",
+            "https://cdn21vek.by/img/galleries/1117/844/preview_b/eksmo_0486_5d7ce8da81517.jpeg",
+            "https://cdn21vek.by/img/galleries/1117/844/preview_b/eksmo_0486_5d7ce8dab2253.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 30,
+          "price": 38.91,
+          "description": "non est nulla aute nulla exercitation et nostrud ullamco non elit voluptate esse ex officia adipisicing ad deserunt Lorem ullamco et elit quis laborum commodo adipisicing amet adipisicing magna aute fugiat consectetur quis magna tempor ullamco ad incididunt voluptate aliqua"
+        },
+        {
+          "id": "61346a5e15133162c19877ba",
+          "name": "Энциклопедия Эксмо Гравити Фолз. Дневник 3",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1047/440/preview_b/3_eksmo_5d00bb3ce630d.jpeg",
+            "https://cdn21vek.by/img/galleries/1047/440/preview_b/3_eksmo_5d00bb3e61a76.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 19,
+          "price": 18.34,
+          "description": "dolore voluptate laboris aliqua qui tempor et esse in incididunt est ut nulla reprehenderit esse excepteur sit laborum do duis aute ex deserunt commodo cillum eiusmod tempor consectetur non dolor exercitation elit aute do amet eiusmod aliqua amet non sint"
+        },
+        {
+          "id": "61346a5ebca98781d08be38b",
+          "name": "Энциклопедия Эксмо Гравити Фолз. Дневник Диппера и Мэйбл. Тайны, приколы и веселье (Суворова Т.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1014/695/preview_b/eksmo_09_5cfe7824a79ab.jpeg",
+            "https://cdn21vek.by/img/galleries/1014/695/preview_b/eksmo_09_5cfe7824df336.jpeg",
+            "https://cdn21vek.by/img/galleries/1014/695/preview_b/eksmo_09_5cfe78260e31f.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 25,
+          "price": 13.79,
+          "description": "sit consectetur enim non ea labore ipsum incididunt laborum ullamco tempor ut sint ipsum nisi nostrud eu labore do consequat anim elit nulla incididunt culpa quis est sint irure occaecat ea in mollit eu minim ipsum cupidatat culpa dolor ipsum"
+        },
+        {
+          "id": "61346a5ea61e26a2b0d3921a",
+          "name": "Книга Попурри Самый богатый человек в Вавилоне (Клейсон Дж.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6210/641/preview_b/popuri_0784_5f9008d6c6e8d.jpeg",
+            "https://cdn21vek.by/img/galleries/6210/641/preview_b/popuri_0784_5f9008d7c6b2b.jpeg",
+            "https://cdn21vek.by/img/galleries/6210/641/preview_b/popuri_0784_5f9008d7ed15c.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 19,
+          "price": 11.21,
+          "description": "qui quis aute magna sunt ipsum minim deserunt sint et anim aute sit commodo duis incididunt tempor excepteur consequat aliqua eu aliquip mollit duis reprehenderit labore do incididunt Lorem laboris aliquip minim ipsum sit aliqua aliquip laborum est id veniam"
+        },
+        {
+          "id": "61346a5e0f3a38e72c6a66ea",
+          "name": "Книга Альпина Хочу и буду. Принять себя (Лабковский М.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5899/99/preview_b/alpinabook_051_5e57744a9b6ce.jpeg",
+            "https://cdn21vek.by/img/galleries/5899/99/preview_b/alpinabook_051_5e57744b0b5db.jpeg",
+            "https://cdn21vek.by/img/galleries/5899/99/preview_b/alpinabook_051_5e57744c2ec16.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 16,
+          "price": 23.47,
+          "description": "anim duis laborum adipisicing reprehenderit ex sit consectetur exercitation occaecat magna deserunt qui ea ex ullamco laboris elit ea magna excepteur in dolor eu sint aliqua est sit consectetur eiusmod incididunt commodo amet est laboris sunt enim pariatur id exercitation"
+        },
+        {
+          "id": "61346a5e7e095d5c682dc12b",
+          "name": "Книга Эксмо Когда дыхание растворяется в воздухе / 9785699902064 (Каланити П.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5822/467/preview_b/eksmo_02088_5f2153e5d23c7.jpeg",
+            "https://cdn21vek.by/img/galleries/5822/467/preview_b/eksmo_02088_5f2153e611062.jpeg",
+            "https://cdn21vek.by/img/galleries/5822/467/preview_b/eksmo_02088_5f2153e6e6db1.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 4,
+          "price": 16.66,
+          "description": "nulla enim enim est aliqua Lorem proident ex do sit velit cupidatat nisi sint enim commodo ullamco nulla ea non quis adipisicing eiusmod quis nostrud esse pariatur veniam laboris sunt et sint mollit exercitation proident occaecat veniam pariatur sint sit"
+        },
+        {
+          "id": "61346a5e3ac5ea3efb61f770",
+          "name": "Книга Эксмо Не навреди. Истории о жизни, смерти и нейрохирургии (Марш Г.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5822/472/preview_b/eksmo_02082_5ebcd6226114a.jpeg",
+            "https://cdn21vek.by/img/galleries/5822/472/preview_b/eksmo_02082_5ebcd62298308.jpeg",
+            "https://cdn21vek.by/img/galleries/5822/472/preview_b/eksmo_02082_5ebcd623a3dc5.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 9,
+          "price": 21.36,
+          "description": "labore esse id culpa Lorem commodo consequat pariatur anim irure esse sit aliqua duis nisi laborum ad anim in amet fugiat exercitation proident qui aliqua minim fugiat mollit amet officia nisi ullamco duis culpa aliquip aute reprehenderit nulla esse ad"
+        },
+        {
+          "id": "61346a5eb24bba0560183b56",
+          "name": "Книга Попурри У меня растет сын! Как воспитать настоящего мужчину (Грант Я.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6062/552/preview_b/popuri_037_5f368414203a4.jpeg",
+            "https://cdn21vek.by/img/galleries/6062/552/preview_b/popuri_037_5f36841458871.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 19,
+          "price": 36.71,
+          "description": "fugiat irure magna do incididunt velit eu ad tempor aliqua esse voluptate quis ut irure anim ut proident qui amet sint consectetur cillum non aute ut pariatur voluptate non commodo consequat commodo ipsum adipisicing exercitation aliqua laboris ullamco pariatur pariatur"
+        },
+        {
+          "id": "61346a5e3961a3f5b564b555",
+          "name": "Книга Эксмо Большая книга Ленивой мамы (Быкова А.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1016/175/preview_b/eksmo_01_5cfe7c04231a2.jpeg",
+            "https://cdn21vek.by/img/galleries/1016/175/preview_b/eksmo_01_5cfe7c044fe41.jpeg",
+            "https://cdn21vek.by/img/galleries/1016/175/preview_b/eksmo_01_5cfe7bd918099.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 15,
+          "price": 22.3,
+          "description": "anim anim occaecat officia et magna consequat aliquip exercitation magna id ullamco tempor cillum ex eiusmod non aliquip irure deserunt est aliqua nulla ex eiusmod ea labore irure ullamco deserunt pariatur ullamco in ea laborum sit fugiat aliqua officia aute"
+        },
+        {
+          "id": "61346a5e5fb70631a0753188",
+          "name": "Книга Попурри Подсознание может все! (Кехо Д.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6193/724/preview_b/popuri_0489_5f7d9c7b4f6a7.jpeg",
+            "https://cdn21vek.by/img/galleries/6193/724/preview_b/popuri_0489_5f7d9c7c1e770.jpeg",
+            "https://cdn21vek.by/img/galleries/6193/724/preview_b/popuri_0489_5f7d9c7ca0f1b.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 10,
+          "price": 25.04,
+          "description": "pariatur tempor excepteur id in minim occaecat sit aliquip dolore id minim culpa minim ipsum esse dolore do non eu nisi cupidatat minim elit esse do irure aliquip cupidatat excepteur occaecat elit eu incididunt occaecat dolore ut dolore eu est"
+        },
+        {
+          "id": "61346a5e5c663324118c4ed8",
+          "name": "Книга Харвест Изометрическая гимнастика доктора Борщенко (Борщенко И.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6049/598/preview_b/harvest__0470_5f49108b7e63b.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 15,
+          "price": 45.6,
+          "description": "magna proident eiusmod minim labore cupidatat do duis nisi consectetur ad enim sunt culpa voluptate sit eu ex deserunt ex cillum ipsum quis adipisicing Lorem do non amet Lorem sit amet laborum aliqua ut ut culpa occaecat anim exercitation laborum"
+        },
+        {
+          "id": "61346a5e8648cca9cb89617b",
+          "name": "Книга CLEVER Еще одна большая книжка ходилок, бродилок и лабиринтов",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6343/381/preview_b/clever__0331_6007cadaaa8d2.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 6,
+          "price": 27.73,
+          "description": "qui sunt in nulla est est exercitation id ea dolore fugiat minim id elit eiusmod commodo dolor nisi eiusmod amet consequat sit voluptate est aute ea qui aute quis eiusmod enim minim proident mollit culpa labore fugiat culpa aliquip ut"
+        },
+        {
+          "id": "61346a5e9515855564ee5776",
+          "name": "Книга Попурри Вещие сны ангелов. 55 карт и инструкция (Вирче Д.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6184/128/preview_b/55_popuri_5f6c98f104f46.jpeg",
+            "https://cdn21vek.by/img/galleries/6184/128/preview_b/55_popuri_5f6c98f122f23.jpeg",
+            "https://cdn21vek.by/img/galleries/6184/128/preview_b/55_popuri_5f6c98f1553e4.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 18,
+          "price": 27.42,
+          "description": "minim enim irure elit et sit tempor quis sint enim excepteur et eiusmod pariatur ullamco dolor dolore et proident qui dolor labore anim labore Lorem elit esse ullamco minim dolore cupidatat officia laboris deserunt deserunt sit incididunt pariatur esse amet"
+        },
+        {
+          "id": "61346a5e073e997a6cb296af",
+          "name": "Книга Эксмо Unreal Engine VR для разработчиков (Макеффри М.)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5798/405/preview_b/unrealenginevr_eksmo_5e942eeb8b2ed.jpeg",
+            "https://cdn21vek.by/img/galleries/5798/405/preview_b/unrealenginevr_eksmo_5e942f11e3ec7.jpeg",
+            "https://cdn21vek.by/img/galleries/5798/405/preview_b/unrealenginevr_eksmo_5e942f125fd03.jpeg",
+            "https://cdn21vek.by/img/galleries/5798/405/preview_b/unrealenginevr_eksmo_5e942eebbbb6f.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 3,
+          "price": 47.82,
+          "description": "fugiat adipisicing veniam eiusmod et qui et nisi culpa qui irure sint anim reprehenderit velit magna qui culpa minim fugiat dolore culpa Lorem et ipsum anim amet minim culpa eiusmod culpa ea commodo minim eiusmod labore id fugiat veniam dolor"
+        }
+      ],
+      "fun-and-rest": [
+        {
+          "id": "61346ec14e89e44609a71ea6",
+          "name": "Настольная игра Стиль Жизни Коварный лис LS99/320897",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5683/116/preview_b/320897_5dbc175e34007.jpeg",
+            "https://cdn21vek.by/img/galleries/5683/116/preview_b/320897_5ed0133ebedd7.jpeg",
+            "https://cdn21vek.by/img/galleries/5683/116/preview_b/320897_5dbc175e6615c.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 30,
+          "price": 47.42,
+          "description": "incididunt eu qui dolor pariatur mollit veniam esse anim nostrud veniam veniam id fugiat esse ad quis eu magna fugiat amet ex culpa officia dolore dolor nisi nostrud laboris duis anim mollit occaecat reprehenderit sunt eu quis sit exercitation duis"
+        },
+        {
+          "id": "61346ec1af9f599759ac33d9",
+          "name": "Настольная игра Стиль Жизни Спящие королевы",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/424/302/preview_b/item_0468_58abf44dba345.jpeg",
+            "https://cdn21vek.by/img/galleries/424/302/preview_b/item_0468_58abf4512038d.jpeg",
+            "https://cdn21vek.by/img/galleries/424/302/preview_b/item_0468_58abf45150886.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 1,
+          "price": 53.21,
+          "description": "in deserunt eu excepteur reprehenderit occaecat non ipsum Lorem laboris aliquip laborum veniam dolor Lorem aliquip veniam do ut tempor aliqua proident duis elit ipsum consectetur tempor do id amet ipsum ipsum officia laborum sunt elit ullamco eu eiusmod aliqua"
+        },
+        {
+          "id": "61346ec11e6b89690e604978",
+          "name": "Настольная игра Десятое королевство Падающая башня Бам-бум / 01741 (с фантами)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/562/708/preview_b/01741_desjatoe_korolevstvo_5b32311d01881.jpeg",
+            "https://cdn21vek.by/img/galleries/562/708/preview_b/01741_desjatoe_korolevstvo_5b32311d4fa6d.jpeg",
+            "https://cdn21vek.by/img/galleries/562/708/preview_b/01741_desjatoe_korolevstvo_5b32311ec3290.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 19,
+          "price": 40.78,
+          "description": "anim consequat exercitation cupidatat sit consectetur mollit ad culpa cillum in consectetur qui consequat voluptate tempor officia cillum qui sit exercitation occaecat nostrud excepteur in ipsum in deserunt eu commodo incididunt dolor irure nisi voluptate enim ullamco dolor amet consectetur"
+        },
+        {
+          "id": "61346ec1707968efb91e6646",
+          "name": "Настольная игра Десятое королевство Морской мини-бой / 02152",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/5766/815/preview_b/02152_desjatoe_korolevstvo_5dd66bd79bd06.jpeg",
+            "https://cdn21vek.by/img/galleries/5766/815/preview_b/02152_desjatoe_korolevstvo_5dd66bd767d00.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 17,
+          "price": 17.84,
+          "description": "consectetur nisi do exercitation ipsum sit aliqua amet magna cillum qui reprehenderit officia magna incididunt aute nulla aliquip ipsum cupidatat exercitation nulla reprehenderit magna culpa excepteur aliqua adipisicing proident magna excepteur proident anim duis cillum qui Lorem aliquip ex do"
+        },
+        {
+          "id": "61346ec19b2cd7aa8874f1cb",
+          "name": "Настольная игра Мир Хобби Loonacy",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/491/492/preview_b/loonacy_59fcc90ab06a4.jpeg",
+            "https://cdn21vek.by/img/galleries/491/492/preview_b/loonacy_59fcc90b1a818.jpeg",
+            "https://cdn21vek.by/img/galleries/491/492/preview_b/loonacy_59fcc90ba1f2a.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 17,
+          "price": 33.23,
+          "description": "laboris mollit ipsum adipisicing commodo consectetur proident minim sunt commodo aliquip ipsum aliquip magna esse anim occaecat reprehenderit ut cupidatat labore veniam Lorem enim eu et sint occaecat ullamco tempor elit aute excepteur cupidatat magna consequat veniam ipsum do voluptate"
+        },
+        {
+          "id": "61346ec1e5e9c0b6118b8eeb",
+          "name": "Настольная игра Hasbro Монополия / B1002 (дорожная версия)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/556/377/preview_b/b100_hasbro_5d6e793488f60.jpeg",
+            "https://cdn21vek.by/img/galleries/556/377/preview_b/b100_hasbro_5d6e7937c1bce.jpeg"
+          ],
+          "rating": 3,
+          "availableAmount": 25,
+          "price": 32.31,
+          "description": "do ipsum voluptate sunt ullamco ipsum Lorem sunt aliqua non amet amet culpa incididunt culpa exercitation ad aliquip aliquip nulla dolor enim enim Lorem quis nisi ad ipsum amet sit non veniam pariatur enim deserunt est dolore pariatur aute occaecat"
+        },
+        {
+          "id": "61346ec1b40c5d58739aaafa",
+          "name": "Настольная игра Mattel UNO W2087",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/603/524/preview_b/unow2087_mattel_5c4f3d2773773.jpeg",
+            "https://cdn21vek.by/img/galleries/603/524/preview_b/unow2087_mattel_5c4f3d27cc7d6.jpeg",
+            "https://cdn21vek.by/img/galleries/603/524/preview_b/unow2087_mattel_5c4f3d280750b.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 13,
+          "price": 25.42,
+          "description": "consectetur duis ad eiusmod consequat ullamco cupidatat irure adipisicing aute ut eu in non dolor adipisicing fugiat ad mollit tempor quis non ipsum non excepteur adipisicing ut aliquip veniam proident in et veniam labore in ad nisi veniam quis nulla"
+        },
+        {
+          "id": "61346ec12ab59ae599d3df0e",
+          "name": "Настольная игра Zoch Барабашка / Geistesblitz",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/57/418/preview_b/zoch_geistesblitz_92197.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 6,
+          "price": 38.9,
+          "description": "amet ut aute sit laboris irure id velit commodo laboris id proident anim reprehenderit fugiat consequat incididunt nulla nostrud reprehenderit excepteur anim magna sunt ipsum sint culpa ut dolor minim dolor quis elit amet Lorem velit dolore ut adipisicing in"
+        },
+        {
+          "id": "61346ec1871e06201ad76270",
+          "name": "Настольная игра Мир Хобби Билет на поезд: Европа / Ticket to Ride: Европа 1032 (3-е русское издание)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/69/198/preview_b/885_tickettoride_535257ac53f5a.jpeg",
+            "https://cdn21vek.by/img/galleries/69/198/preview_b/885_tickettoride_535257b714dae.jpeg",
+            "https://cdn21vek.by/img/galleries/69/198/preview_b/885_tickettoride_535257d04fe24.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 10,
+          "price": 19.11,
+          "description": "laborum nisi fugiat cupidatat commodo ipsum ullamco magna irure exercitation sunt minim cillum occaecat sint veniam ad reprehenderit occaecat commodo cupidatat commodo ipsum laboris anim aliquip ut dolor dolor aute irure cupidatat irure culpa minim laboris incididunt duis consectetur officia"
+        },
+        {
+          "id": "61346ec19134e52e92681173",
+          "name": "Набор для покера Shark CGI-500",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/441/633/preview_b/cgi500_shark_59526fe12fad4.jpeg",
+            "https://cdn21vek.by/img/galleries/441/633/preview_b/cgi500_shark_59526fe293980.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 24,
+          "price": 26.65,
+          "description": "cupidatat ea in incididunt consequat non laborum sint proident officia deserunt minim deserunt nisi cillum occaecat ex nostrud laborum minim anim sit proident mollit qui consectetur Lorem elit ipsum non aute ad esse ea excepteur adipisicing commodo pariatur mollit eiusmod"
+        },
+        {
+          "id": "61346ec16f5b3aa368623a7d",
+          "name": "Шахматы No Brand B30/30",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/1013/260/preview_b/b3030_zez_01_5d1652f03d384.jpeg",
+            "https://cdn21vek.by/img/galleries/1013/260/preview_b/b3030_zez_01_5d1652efece4d.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 29,
+          "price": 58.22,
+          "description": "quis qui eiusmod consectetur aute ex consectetur cillum cupidatat est veniam mollit sit ipsum ullamco tempor dolor aute mollit amet laborum ea laborum ex magna sint ullamco ex officia nulla ea in velit consectetur amet cillum non sunt incididunt nisi"
+        },
+        {
+          "id": "61346ec1169238e76f45a744",
+          "name": "Настольная игра Мир Хобби Мачи Коро",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/494/133/preview_b/item_0559_59fcd23257e7c.jpeg",
+            "https://cdn21vek.by/img/galleries/494/133/preview_b/item_0559_59fcd233027c7.jpeg",
+            "https://cdn21vek.by/img/galleries/494/133/preview_b/item_0559_59fcd233ecd46.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 27,
+          "price": 57.57,
+          "description": "consequat consectetur ex do adipisicing qui proident cupidatat aliqua sit enim laborum id nisi aute officia aliqua ad nisi eiusmod sit excepteur eu Lorem et aute Lorem sint aute ut adipisicing ea quis veniam anim pariatur aliqua cillum non deserunt"
+        },
+        {
+          "id": "61346ec1dd345cc4a3e69f6c",
+          "name": "Настольная игра Мир Хобби Свинтус 1058 (новая версия)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/57/367/preview_b/885__21_92047.jpeg"
+          ],
+          "rating": 4,
+          "availableAmount": 1,
+          "price": 16.06,
+          "description": "anim id cupidatat dolor nisi velit quis consequat labore quis velit proident est enim minim laboris anim tempor mollit esse et nostrud irure nostrud id pariatur consectetur Lorem ex in proident nostrud commodo minim voluptate cillum consectetur qui proident et"
+        },
+        {
+          "id": "61346ec117009c8e50df0a42",
+          "name": "Настольная игра Мир Хобби Соображарий Junior",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/494/489/preview_b/junior_0151_59fc810a363d2.jpeg",
+            "https://cdn21vek.by/img/galleries/494/489/preview_b/junior_0151_59fc810a817be.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 27,
+          "price": 16,
+          "description": "ullamco nulla excepteur deserunt esse excepteur cupidatat officia adipisicing anim et aliquip deserunt veniam irure id ea non velit sint consequat cupidatat eu duis commodo sit eu deserunt elit magna duis do irure voluptate cupidatat tempor sit esse Lorem dolore"
+        },
+        {
+          "id": "61346ec1b52f9265139b7a23",
+          "name": "Настольная игра Стиль Жизни Корова 006",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/424/252/preview_b/006_049_58d00fc40d08b.jpeg",
+            "https://cdn21vek.by/img/galleries/424/252/preview_b/006_049_58d00fccc1ac5.jpeg"
+          ],
+          "rating": 2,
+          "availableAmount": 18,
+          "price": 40.16,
+          "description": "et voluptate aliquip enim magna ullamco irure adipisicing enim cillum excepteur sunt amet eiusmod reprehenderit dolor occaecat magna eiusmod ea anim qui ex laborum duis eu aliquip do ex aliquip ex dolor laborum labore consequat elit incididunt mollit commodo Lorem"
+        },
+        {
+          "id": "61346ec16c52fbcf1f85dba8",
+          "name": "Настольная игра Мир Хобби Манчкин (2-е русское издание)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/57/388/preview_b/885__18_92244.jpeg"
+          ],
+          "rating": 5,
+          "availableAmount": 13,
+          "price": 28.17,
+          "description": "exercitation irure amet dolore elit anim voluptate irure laboris aliqua occaecat deserunt laborum deserunt commodo non in laboris duis sit minim reprehenderit in est laboris irure id sint occaecat sunt sunt nostrud veniam do occaecat deserunt dolor non veniam elit"
+        },
+        {
+          "id": "61346ec124ff1819cc651247",
+          "name": "Настольная игра Стиль Жизни Гномы-вредители Делюкс",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/100/913/preview_b/item_0149_54941ed2593c9.jpeg",
+            "https://cdn21vek.by/img/galleries/100/913/preview_b/item_0149_54941edcbabab.jpeg",
+            "https://cdn21vek.by/img/galleries/100/913/preview_b/item_0149_54941ee09627e.jpeg",
+            "https://cdn21vek.by/img/galleries/100/913/preview_b/item_0149_54941ee765e91.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 17,
+          "price": 54.57,
+          "description": "aliquip aliquip sunt cupidatat excepteur labore nostrud reprehenderit nulla id adipisicing id ea eiusmod et magna do Lorem cillum proident proident ex laboris tempor pariatur voluptate proident eiusmod voluptate dolor id minim consequat reprehenderit quis do sunt mollit adipisicing eu"
+        },
+        {
+          "id": "61346ec1d747d77a7e5bc79e",
+          "name": "Настольная игра Мир Хобби Гравити Фолз: Спасти Пухлю / 915243",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/6151/82/preview_b/915243_5fc385860b971.jpeg",
+            "https://cdn21vek.by/img/galleries/6151/82/preview_b/915243_5fc385278f2d3.jpeg",
+            "https://cdn21vek.by/img/galleries/6151/82/preview_b/915243_5fc3852633453.jpeg",
+            "https://cdn21vek.by/img/galleries/6151/82/preview_b/915243_5fc38526bcd89.jpeg"
+          ],
+          "rating": 1,
+          "availableAmount": 14,
+          "price": 32,
+          "description": "exercitation labore minim eu commodo sit id culpa ipsum aliqua aliquip laboris labore consectetur sint elit aliqua ad magna amet occaecat quis reprehenderit pariatur elit mollit deserunt dolore consectetur nulla in velit velit nulla commodo esse non dolore commodo nostrud"
+        },
+        {
+          "id": "61346ec1a5cef75964176ef5",
+          "name": "Настольная игра Мир Хобби Мафия. Вся семья в сборе 1070 (компактная версия)",
+          "imageUrls": [
+            "https://cdn21vek.by/img/galleries/117/81/preview_b/item_0416_556328773d1fc.jpeg",
+            "https://cdn21vek.by/img/galleries/117/81/preview_b/item_0416_5563289a92954.jpeg",
+            "https://cdn21vek.by/img/galleries/117/81/preview_b/item_0416_5563289b122cb.jpeg",
+            "https://cdn21vek.by/img/galleries/117/81/preview_b/item_0416_556328b395c39.jpeg"
+          ],
+          "rating": 0,
+          "availableAmount": 27,
+          "price": 40.77,
+          "description": "culpa aliqua ad labore amet do adipisicing irure ipsum tempor tempor ut ea Lorem culpa amet fugiat proident nostrud ullamco deserunt quis aliqua anim Lorem consectetur sit minim culpa cupidatat ex ut aliqua aliquip enim ea esse enim exercitation ut"
+        }
+      ]
     }
   }
 }
