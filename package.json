@@ -11,6 +11,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "json-server": "^0.16.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
   }
 }
