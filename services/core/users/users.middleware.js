@@ -81,8 +81,6 @@ function reduceAvailableCount(server, items) {
     item.availableAmount -= purchasedItem.amount;
   });
 }
-
-module.exports = (server) => {
   /**
     * @swagger
     *
@@ -172,7 +170,7 @@ module.exports = (server) => {
     *           items:
     *             $ref: '#/components/schemas/UserOrder'
   */
-
+module.exports = (server) => {
   /**
     * @swagger
     * /users/login:
