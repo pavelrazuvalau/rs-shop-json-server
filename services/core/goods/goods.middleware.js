@@ -231,7 +231,7 @@ module.exports = (server) => {
     *     description: Gets shop item by id
     *     parameters:
     *       - in: path
-    *         name: id
+    *         name: itemId
     *         required: true
     *         schema:
     *           type: string
