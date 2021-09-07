@@ -156,7 +156,7 @@ module.exports = (server) => {
       goods = addListAttributes(
         req,
         server,
-        Object.keys(server.db.getState().goods[category]).reduce(
+        Object.keys(server.db.getState().goods[category] || {}).reduce(
           (acc, subCategory) => {
             return [
               ...acc,
