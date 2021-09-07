@@ -126,7 +126,7 @@ module.exports = (server) => {
   });
   /**
     * @swagger
-    * /goods/category/{categoryId}:
+    * /goods/category/{categoryId}?start=startPosition&count=countOfItemsPerPage:
     *   get:
     *     tags: [goods]
     *     description: Get goods by category
@@ -136,6 +136,14 @@ module.exports = (server) => {
     *         required: true
     *         schema:
     *           type: string
+    *       - in: query
+    *         name: start
+    *         schema:
+    *           type: number
+    *       - in: query
+    *         name: count
+    *         schema:
+    *           type: number
     *     responses:
     *       200:
     *         content:
@@ -176,7 +184,7 @@ module.exports = (server) => {
   });
   /**
     * @swagger
-    * /goods/category/{categoryId}/{subCategoryId}:
+    * /goods/category/{categoryId}/{subCategoryId}?start=startPosition&count=countOfItemsPerPage:
     *   get:
     *     tags: [goods]
     *     description: Get goods by subcategory
@@ -191,6 +199,14 @@ module.exports = (server) => {
     *         required: true
     *         schema:
     *           type: string
+    *       - in: query
+    *         name: start
+    *         schema:
+    *           type: number
+    *       - in: query
+    *         name: count
+    *         schema:
+    *           type: number
     *     responses:
     *       200:
     *         content:
