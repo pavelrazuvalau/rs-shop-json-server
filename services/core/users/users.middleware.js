@@ -53,7 +53,7 @@ function handleAddingToLists(server, listName, isAdding, req, res) {
           : user
       ),
     });
-    res.send(200);
+    res.status(200);
   } else {
     res.status(400);
   }
@@ -224,6 +224,12 @@ module.exports = (server) => {
     *     description: Gets current user info
     *     security:
     *       - BearerAuth: []
+          parameters:
+          - in: headers
+            name: userId
+            schema:
+              type: integer
+            required: true
     *     responses:
     *       200:
     *         content:
@@ -435,7 +441,7 @@ module.exports = (server) => {
     });
 
     reduceAvailableCount(server, body.items);
-    res.send(200);
+    res.status(200);
   });
 
   /**
@@ -482,7 +488,7 @@ module.exports = (server) => {
       ),
     });
 
-    res.send(200);
+    res.status(200);
   });
 
   /**
@@ -525,7 +531,7 @@ module.exports = (server) => {
       ),
     });
 
-    res.send(204);
+    res.status(204);
   });
 
   return router;
