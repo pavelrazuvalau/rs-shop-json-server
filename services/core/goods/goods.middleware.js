@@ -138,7 +138,7 @@ module.exports = (server) => {
   });
   /**
    * @swagger
-   * /goods/category/{categoryId}?start=startPosition&count=countOfItemsPerPage?sortBy=itemField&reverse=boolean:
+   * /goods/category/{categoryId}?start=startPosition&count=countOfItemsPerPage&sortBy=itemField&reverse=boolean:
    *   get:
    *     tags: [goods]
    *     description: Get goods by category
@@ -211,7 +211,7 @@ module.exports = (server) => {
   });
   /**
    * @swagger
-   * /goods/category/{categoryId}/{subCategoryId}?start=startPosition&count=countOfItemsPerPage?sortBy=itemField&reverse=boolean:
+   * /goods/category/{categoryId}/{subCategoryId}?start=startPosition&count=countOfItemsPerPage&sortBy=itemField&reverse=boolean:
    *   get:
    *     tags: [goods]
    *     description: Get goods by subcategory
