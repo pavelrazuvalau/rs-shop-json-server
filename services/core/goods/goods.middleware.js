@@ -54,61 +54,73 @@ function getAllGoods(server, req) {
     .filter(Boolean);
 }
 
+function sortGoods(goods, sortBy, isReversed) {
+  return goods.sort((first, second) => {
+    if (first[sortBy] < second[sortBy]) {
+      return isReversed ? 1 : -1;
+    }
+    if (first[sortBy] > second[sortBy]) {
+      return isReversed ? -1 : 1;
+    }
+    return 0;
+  });
+}
+
 /**
-  * @swagger
-  *
-  * tags:
-  *   name: goods
-  *   description: API for managing goods
-  *
-  * components:
-  *   schemas:
-  *     ShopItem:
-  *       type: object
-  *       properties:
-  *         id:
-  *           type: string
-  *         name:
-  *           type: string
-  *         imageUrls:
-  *           type: array
-  *           items:
-  *             type: string
-  *         rating:
-  *           type: number
-  *         availableAmount:
-  *           type: number
-  *         price:
-  *           type: number
-  *         description:
-  *           type: string
-  *         isInCart:
-  *           type: boolean
-  *         isFavorite:
-  *           type: boolean
-*/
+ * @swagger
+ *
+ * tags:
+ *   name: goods
+ *   description: API for managing goods
+ *
+ * components:
+ *   schemas:
+ *     ShopItem:
+ *       type: object
+ *       properties:
+ *         id:
+ *           type: string
+ *         name:
+ *           type: string
+ *         imageUrls:
+ *           type: array
+ *           items:
+ *             type: string
+ *         rating:
+ *           type: number
+ *         availableAmount:
+ *           type: number
+ *         price:
+ *           type: number
+ *         description:
+ *           type: string
+ *         isInCart:
+ *           type: boolean
+ *         isFavorite:
+ *           type: boolean
+ */
 module.exports = (server) => {
   /**
-    * @swagger
-    * /goods/search?text=searchQuery:
-    *   get:
-    *     tags: [goods]
-    *     description: Searches for the goods
-    *     parameters:
-    *       - in: query
-    *         name: text
-    *         required: true
-    *         schema:
-    *           type: string
-    *     responses:
-    *       200:
-    *         content:
-    *           application/json:
-    *             schema:
-    *               type: array
-    *               items:
-    *                 $ref: '#/components/schemas/ShopItem'
-  */  
+   * @swagger
+   * /goods/search?text=searchQuery:
+   *   get:
+   *     tags: [goods]
+   *     description: Searches for the goods
+   *     parameters:
+   *       - in: query
+   *         name: text
+   *         required: true
+   *         schema:
+   *           type: string
+   *     responses:
+   *       200:
+   *         content:
+   *           application/json:
+   *             schema:
+   *               type: array
+   *               items:
+   *                 $ref: '#/components/schemas/ShopItem'
+   */
   router.get('/goods/search', (req, res) => {
     let urlParts = url.parse(req.originalUrl, true),
       query = urlParts.query;
@@ -125,42 +137,52 @@ module.exports = (server) => {
     );
   });
   /**
-    * @swagger
-    * /goods/category/{categoryId}?start=startPosition&count=countOfItemsPerPage:
-    *   get:
-    *     tags: [goods]
-    *     description: Get goods by category
-    *     parameters:
-    *       - in: path
-    *         name: categoryId
-    *         required: true
-    *         schema:
-    *           type: string
-    *       - in: query
-    *         name: start
-    *         schema:
-    *           type: number
-    *       - in: query
-    *         name: count
-    *         schema:
-    *           type: number
-    *     responses:
-    *       200:
-    *         content:
-    *           application/json:
-    *             schema:
-    *               type: array
-    *               items:
-    *                 $ref: '#/components/schemas/ShopItem'
-    *       404:
-    *         description: category not found
-  */  
+   * @swagger
+   * /goods/category/{categoryId}?start=startPosition&count=countOfItemsPerPage?sortBy=itemField&reverse=boolean:
+   *   get:
+   *     tags: [goods]
+   *     description: Get goods by category
+   *     parameters:
+   *       - in: path
+   *         name: categoryId
+   *         required: true
+   *         schema:
+   *           type: string
+   *       - in: query
+   *         name: start
+   *         schema:
+   *           type: number
+   *       - in: query
+   *         name: count
+   *         schema:
+   *           type: number
+   *       - in: query
+   *         name: sortBy
+   *         schema:
+   *           type: string
+   *       - in: query
+   *         name: reverse
+   *         schema:
+   *           type: boolean
+   *     responses:
+   *       200:
+   *         content:
+   *           application/json:
+   *             schema:
+   *               type: array
+   *               items:
+   *                 $ref: '#/components/schemas/ShopItem'
+   *       404:
+   *         description: category not found
+   */
   router.get('/goods/category/:category', (req, res) => {
     let urlParts = url.parse(req.originalUrl, true),
       query = urlParts.query,
       from = query.start || 0,
       to = +query.start + +query.count,
       category = req.params.category,
+      sortBy = query.sortBy,
+      reverse = query.reverse,
       goods = addListAttributes(
         req,
         server,
@@ -175,6 +197,11 @@ module.exports = (server) => {
         ) || []
       );
 
+    if (sortBy) {
+      const isReversed = reverse === 'true';
+      goods = sortGoods(goods, sortBy, isReversed);
+    }
+
     if (goods.length < to || !to) {
       to = goods.length;
     }
@@ -183,41 +210,49 @@ module.exports = (server) => {
     res.json(goods);
   });
   /**
-    * @swagger
-    * /goods/category/{categoryId}/{subCategoryId}?start=startPosition&count=countOfItemsPerPage:
-    *   get:
-    *     tags: [goods]
-    *     description: Get goods by subcategory
-    *     parameters:
-    *       - in: path
-    *         name: categoryId
-    *         required: true
-    *         schema:
-    *           type: string
+   * @swagger
+   * /goods/category/{categoryId}/{subCategoryId}?start=startPosition&count=countOfItemsPerPage?sortBy=itemField&reverse=boolean:
+   *   get:
+   *     tags: [goods]
+   *     description: Get goods by subcategory
+   *     parameters:
    *       - in: path
-    *         name: subCategoryId
-    *         required: true
-    *         schema:
-    *           type: string
-    *       - in: query
-    *         name: start
-    *         schema:
-    *           type: number
-    *       - in: query
-    *         name: count
-    *         schema:
-    *           type: number
-    *     responses:
-    *       200:
-    *         content:
-    *           application/json:
-    *             schema:
-    *               type: array
-    *               items:
-    *                 $ref: '#/components/schemas/ShopItem'
-    *       404:
-    *         description: category or subcategory not found
-  */  
+   *         name: categoryId
+   *         required: true
+   *         schema:
+   *           type: string
+   *       - in: path
+   *         name: subCategoryId
+   *         required: true
+   *         schema:
+   *           type: string
+   *       - in: query
+   *         name: start
+   *         schema:
+   *           type: number
+   *       - in: query
+   *         name: count
+   *         schema:
+   *           type: number
+   *       - in: query
+   *         name: sortBy
+   *         schema:
+   *           type: string
+   *       - in: query
+   *         name: reverse
+   *         schema:
+   *           type: boolean
+   *     responses:
+   *       200:
+   *         content:
+   *           application/json:
+   *             schema:
+   *               type: array
+   *               items:
+   *                 $ref: '#/components/schemas/ShopItem'
+   *       404:
+   *         description: category or subcategory not found
+   */
   router.get('/goods/category/:category/:subCategory', (req, res) => {
     let urlParts = url.parse(req.originalUrl, true),
       query = urlParts.query,
@@ -225,11 +260,18 @@ module.exports = (server) => {
       to = +query.start + +query.count,
       category = req.params.category,
       subCategory = req.params.subCategory,
+      sortBy = query.sortBy,
+      reverse = query.reverse,
       goods = addListAttributes(
         req,
         server,
-        server.db.getState().goods[category][subCategory] || [],
+        server.db.getState().goods[category][subCategory] || []
       );
+
+    if (sortBy) {
+      const isReversed = reverse === 'true';
+      goods = sortGoods(goods, sortBy, isReversed);
+    }
 
     if (goods.length < to || !to) {
       to = goods.length;
@@ -239,27 +281,27 @@ module.exports = (server) => {
     res.json(goods);
   });
 
-    /**
-    * @swagger
-    * /goods/item/{itemId}:
-    *   get:
-    *     tags: [goods]
-    *     description: Gets shop item by id
-    *     parameters:
-    *       - in: path
-    *         name: itemId
-    *         required: true
-    *         schema:
-    *           type: string
-    *     responses:
-    *       200:
-    *         content:
-    *           application/json:
-    *             schema:
-    *               $ref: '#/components/schemas/ShopItem'
-    *       404:
-    *         description: item not found
-  */  
+  /**
+   * @swagger
+   * /goods/item/{itemId}:
+   *   get:
+   *     tags: [goods]
+   *     description: Gets shop item by id
+   *     parameters:
+   *       - in: path
+   *         name: itemId
+   *         required: true
+   *         schema:
+   *           type: string
+   *     responses:
+   *       200:
+   *         content:
+   *           application/json:
+   *             schema:
+   *               $ref: '#/components/schemas/ShopItem'
+   *       404:
+   *         description: item not found
+   */
   router.get('/goods/item/:id', (req, res) => {
     const allGoods = getAllGoods(server, req);
     const goodsItem = allGoods.find((item) => item.id === req.params.id);
