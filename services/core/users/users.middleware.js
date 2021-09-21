@@ -439,7 +439,8 @@ module.exports = (server) => {
     });
 
     reduceAvailableCount(server, body.items);
-    return res.sendStatus(200);
+    res.status(200);
+    res.end();
   });
 
   /**
@@ -486,7 +487,8 @@ module.exports = (server) => {
       ),
     });
 
-    return res.sendStatus(200);
+    res.status(200);
+    res.end();
   });
 
   /**
