@@ -10,7 +10,7 @@
             "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
           ],
           "availableAmount": 5,
-          "price": 999.0,
+          "price": 999,
           "rating": 5,
           "description": "Deserunt esse anim nulla consequat mollit non do occaecat in aute labore fugiat. Amet deserunt ullamco ex et ullamco. Magna irure nostrud sint enim aliqua incididunt consectetur minim mollit ad. Qui minim magna Lorem nulla officia non consequat ad officia proident laborum. Ut non nisi culpa laboris commodo ipsum laboris do ad irure Lorem nulla eiusmod."
         },
@@ -22,21 +22,9 @@
             "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
           ],
           "availableAmount": 5,
-          "price": 769.0,
+          "price": 769,
           "rating": 4,
           "description": "Nostrud irure velit magna aliquip anim ea proident eiusmod adipisicing. Occaecat enim mollit eiusmod laboris laboris sint. Commodo sint quis eu ex sunt laborum laboris ut non cillum officia consectetur. Laborum est consequat ad aliquip adipisicing veniam qui ad aliquip irure. Lorem est aliqua officia eu quis anim consectetur irure officia nostrud. Non est sit dolore mollit culpa incididunt laboris fugiat velit ea veniam Lorem."
-        },
-        {
-          "id": "RCSK310M20S",
-          "name": "Холодильник с морозильником ATLANT Х 2401-100",
-          "imageUrls": [
-            "https://cdn21vek.by/img/galleries/487/87/2401100_atlant_59e8ae8104736.jpeg",
-            "https://cdn21vek.by/img/galleries/487/87/2401100_atlant_59e8ae808355a.jpeg"
-          ],
-          "availableAmount": 10,
-          "price": 612.0,
-          "rating": 3,
-          "description": "Обзор Холодильник ATLANT Х-2401-100 — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
         },
         {
           "id": "RCSK250M20W",
@@ -72,11 +60,10 @@
             "https://cdn21vek.by/img/galleries/6150/224/preview_b/serie6vitafreshpluskgn39aw32r_bosch_5f4f289090d52.png"
           ],
           "availableAmount": 4,
-          "price": 2229.0,
+          "price": 2229,
           "rating": 3,
           "description": "Холодильно-морозильная комбинация NoFrost с зоной свежести VitaFresh plus сохраняет свежесть продуктов до 2 раз дольше. Нет необходимости размораживать морозильную камеру благодаря системе NoFrost. Холодильники c PerfectFit могут быть установлены на кухне вплотную к мебели и стенам, без зазоров. VitaFresh Plus: свежесть до двух раз дольше. Без лишних запахов и бактерий: антибактериальный фильтр AirFresh. Холодильник c Bosch VarioInverter работает очень тихо и потребляет меньше электроэнергии, чем холодильник с обычным компрессором."
         },
-
         {
           "id": "CSMV55505MC1S",
           "name": "Холодильник с морозильником Beko CSMV55505MC1S",
@@ -85,7 +72,7 @@
             "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
           ],
           "availableAmount": 5,
-          "price": 859.0,
+          "price": 859,
           "rating": 4,
           "description": "Deserunt esse anim nulla consequat mollit non do occaecat in aute labore fugiat. Amet deserunt ullamco ex et ullamco. Magna irure nostrud sint enim aliqua incididunt consectetur minim mollit ad. Qui minim magna Lorem nulla officia non consequat ad officia proident laborum. Ut non nisi culpa laboris commodo ipsum laboris do ad irure Lorem nulla eiusmod."
         },
@@ -97,7 +84,7 @@
             "https://cdn21vek.by/img/galleries/476/171/preview_b/csmv5335mc0s_beko_5a3a4c65101e7.jpeg"
           ],
           "availableAmount": 5,
-          "price": 769.0,
+          "price": 769,
           "rating": 4,
           "description": "Nostrud irure velit magna aliquip anim ea proident eiusmod adipisicing. Occaecat enim mollit eiusmod laboris laboris sint. Commodo sint quis eu ex sunt laborum laboris ut non cillum officia consectetur. Laborum est consequat ad aliquip adipisicing veniam qui ad aliquip irure. Lorem est aliqua officia eu quis anim consectetur irure officia nostrud. Non est sit dolore mollit culpa incididunt laboris fugiat velit ea veniam Lorem."
         },
@@ -109,7 +96,7 @@
             "https://cdn21vek.by/img/galleries/487/87/2401100_atlant_59e8ae808355a.jpeg"
           ],
           "availableAmount": 15,
-          "price": 812.0,
+          "price": 812,
           "rating": 3,
           "description": "Обзор Холодильник ATLANT RCSK311M20SS — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
         },
@@ -121,7 +108,7 @@
             "https://cdn21vek.by/img/galleries/670/660/preview_b/rcsk250m20w_beko_5ba395bcec466.jpeg"
           ],
           "availableAmount": 9,
-          "price": 809.0,
+          "price": 809,
           "rating": 5,
           "description": "Обзор Холодильник с морозильником Beko SRCK250N20V — вместительный и компактный, работает бесшумно и экономно расходует электричество. Table-top – это, в первую очередь, экономия пространства. Такой холодильник можно установить под столешницу, ведь его высота 85 см."
         },
@@ -134,7 +121,7 @@
             "https://cdn21vek.by/img/galleries/785/539/preview_b/gab419sqjl_lg_5c04db90dae64.jpeg"
           ],
           "availableAmount": 3,
-          "price": 999.0,
+          "price": 999,
           "rating": 4,
           "description": "Обзор Холодильник с морозильником LG GA-B491SJQL — быстрая заморозка не повреждает структуру продуктов, сохраняет их вкус, цвет и питательные свойства. При быстрой заморозке кристаллы льда в тканях образуются быстрее, равномернее и мельче по размеру. Эта функция особенно полезна для лучшего сохранения домашних заготовок."
         },
@@ -1294,7 +1281,7 @@
           ],
           "rating": 5,
           "availableAmount": 13,
-          "price": 400.0,
+          "price": 400,
           "description": "incididunt cupidatat quis Lorem ex occaecat aliquip laboris reprehenderit magna velit anim sint officia consectetur exercitation id duis occaecat veniam exercitation proident nulla nulla laboris laborum magna voluptate occaecat quis est dolore irure et laborum consequat sunt ipsum cupidatat in"
         },
         {
@@ -1332,7 +1319,7 @@
           ],
           "rating": 1,
           "availableAmount": 6,
-          "price": 279.0,
+          "price": 279,
           "description": "quis qui ipsum est Lorem amet ut non dolore proident occaecat laborum nisi laboris eiusmod laboris consequat ipsum officia adipisicing nostrud dolor duis velit dolor laborum eiusmod ea aliqua cupidatat labore quis voluptate mollit irure sit ullamco nulla veniam ullamco"
         },
         {
@@ -1345,7 +1332,7 @@
           ],
           "rating": 5,
           "availableAmount": 16,
-          "price": 255.0,
+          "price": 255,
           "description": "labore dolor nostrud sit aliqua elit quis consectetur nisi duis et ullamco ea sint nulla culpa voluptate esse voluptate elit fugiat in fugiat mollit id pariatur est officia sit dolore excepteur minim voluptate aliqua deserunt adipisicing sint reprehenderit incididunt ut"
         },
         {
@@ -1383,7 +1370,7 @@
           ],
           "rating": 3,
           "availableAmount": 14,
-          "price": 69.0,
+          "price": 69,
           "description": "enim magna ea occaecat anim veniam aute sunt Lorem occaecat irure non aute veniam irure nisi ad pariatur cillum ea veniam quis dolor deserunt ex ut irure laboris culpa nisi irure excepteur ut qui irure nostrud minim ipsum excepteur anim"
         },
         {
@@ -1396,7 +1383,7 @@
           ],
           "rating": 0,
           "availableAmount": 15,
-          "price": 74.0,
+          "price": 74,
           "description": "mollit amet minim dolor laboris ex eu ut irure magna culpa minim veniam nulla veniam fugiat aliquip elit qui cillum aliqua minim nostrud est sunt cillum est aute ad duis officia qui nisi et irure anim ex non incididunt commodo"
         },
         {
@@ -1756,7 +1743,7 @@
           ],
           "rating": 3,
           "availableAmount": 10,
-          "price": 2229.0,
+          "price": 2229,
           "description": "cupidatat elit culpa consequat enim tempor sint occaecat aute est non ea in ullamco enim et ea amet non do sit do id do mollit mollit esse elit aliquip ullamco ullamco deserunt veniam id est esse pariatur ex excepteur velit"
         }
       ],
@@ -2206,7 +2193,7 @@
         },
         {
           "id": "612e8c3837d21885179baf60",
-          "name": "",
+          "name": "Lorem ipsum",
           "imageUrls": [
             "https://cdn21vek.by/img/galleries/6056/87/preview_b/kindle2019_amazon_01_5efb1d6e81a13.jpeg",
             "https://cdn21vek.by/img/galleries/6056/87/preview_b/kindle2019_amazon_01_5efb1d70a316b.jpeg"
