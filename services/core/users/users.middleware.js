@@ -156,6 +156,24 @@ function changeAvailableCount(server, items, shouldIncrease = false) {
     *           properties:
     *             id:
     *               type: string 
+    *     UserOrderModify:
+    *       type: object
+    *       properties:
+    *         id:
+    *           type: string
+    *         details:
+    *           type: object
+    *           properties:
+    *             name:
+    *               type: string
+    *             address:
+    *               type: string
+    *             phone:
+    *               type: string
+    *             timeToDeliver:
+    *               type: string
+    *             comment:
+    *               type: string
     *     UserInfo:
     *       type: object
     *       properties:
@@ -324,7 +342,7 @@ module.exports = (server) => {
     *         name: id
     *         required: true
     *         schema:
-    *           type: number
+    *           type: string
     *     responses:
     *       200:
     *         description: item removed from favorites
@@ -377,7 +395,7 @@ module.exports = (server) => {
     *         name: id
     *         required: true
     *         schema:
-    *           type: number
+    *           type: string
     *     responses:
     *       200:
     *         description: item removed from the user cart
@@ -458,7 +476,7 @@ module.exports = (server) => {
     *       content:
     *         application/json:
     *           schema:
-    *             $ref: '#/components/schemas/UserOrder'
+    *             $ref: '#/components/schemas/UserOrderModify'
     *     responses:
     *       200:
     *         description: order edited
@@ -506,7 +524,7 @@ module.exports = (server) => {
     *         name: id
     *         required: true
     *         schema:
-    *           type: number
+    *           type: string
     *     responses:
     *       200:
     *         description: order removed
