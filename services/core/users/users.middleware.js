@@ -73,12 +73,14 @@ function getAllGoods(server) {
     .filter(Boolean);
 }
 
-function reduceAvailableCount(server, items) {
+function changeAvailableCount(server, items, shouldIncrease = false) {
   const allGoods = getAllGoods(server);
 
   items.forEach((purchasedItem) => {
     const item = allGoods.find((it) => it.id === purchasedItem.id);
-    item.availableAmount -= purchasedItem.amount;
+    item.availableAmount = !shouldIncrease 
+      ? item.availableAmount - purchasedItem.amount 
+      : item.availableAmount + purchasedItem.amount;
   });
 }
   /**
@@ -438,7 +440,7 @@ module.exports = (server) => {
       ),
     });
 
-    reduceAvailableCount(server, body.items);
+    changeAvailableCount(server, body.items);
     res.status(200);
     res.end();
   });
@@ -518,6 +520,7 @@ module.exports = (server) => {
     if (!matchedUser) {
       return res.status(401).send('Unauthorized');
     }
+    let orderToDelete;
 
     server.db.setState({
       ...server.db.getState(),
@@ -525,11 +528,19 @@ module.exports = (server) => {
         user.token === matchedUser.token
           ? {
               ...user,
-              orders: user.orders.filter((order) => order.id !== query.id),
+              orders: user.orders.filter((order) => {
+                if (order.id === query.id) {
+                  orderToDelete = order;
+                  return false;
+                }
+                
+                return true
+              }),
             }
           : user
       ),
     });
+    changeAvailableCount(server, orderToDelete.items, true);
 
     res.status(204);
   });
