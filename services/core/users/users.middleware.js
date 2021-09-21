@@ -561,6 +561,7 @@ module.exports = (server) => {
     changeAvailableCount(server, orderToDelete.items, true);
 
     res.status(204);
+    res.end();
   });
 
   return router;
