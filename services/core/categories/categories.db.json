@@ -2,159 +2,159 @@
   "categories": [
     {
       "id": "appliances",
-      "name": "Бытовая техника",
+      "name": "Appliances",
       "subCategories": [
         {
           "id": "refrigerators",
-          "name": "Холодильники"
+          "name": "Refrigerators"
         },
         {
           "id": "cookers",
-          "name": "Кухонные плиты"
+          "name": "Cookers"
         },
         {
           "id": "dishwashers",
-          "name": "Посудомоечные машины"
+          "name": "Dishwashers"
         },
         {
           "id": "freezers",
-          "name": "Морозильники"
+          "name": "Freezers"
         },
         {
           "id": "microwaves",
-          "name": "Микроволновые печи"
+          "name": "Microwaves"
         },
         {
           "id": "teapots",
-          "name": "Электрочайники"
+          "name": "Electric kettles"
         },
         {
           "id": "washing-machines",
-          "name": "Стиральные машины"
+          "name": "Washing machines"
         },
         {
           "id": "irons",
-          "name": "Утюги"
+          "name": "Irons"
         },
         {
           "id": "vacuum",
-          "name": "Пылесосы"
+          "name": "Vacuum cleaners"
         }
       ]
     },
     {
       "id": "electronics",
-      "name": "Электроника",
+      "name": "Electronics",
       "subCategories": [
         {
           "id": "mobile",
-          "name": "Смартфоны"
+          "name": "Smartphones"
         },
         {
           "id": "watches",
-          "name": "Умные часы"
+          "name": "Smart watch"
         },
         {
           "id": "tablets",
-          "name": "Планшеты"
+          "name": "Tablets"
         },
         {
           "id": "ebooks",
-          "name": "Электронные книги"
+          "name": "E-books"
         },
         {
           "id": "powerbanks",
-          "name": "Портативные аккумуляторы"
+          "name": "Portable Batteries"
         },
         {
           "id": "cameras",
-          "name": "Фотоаппараты"
+          "name": "Cameras"
         },
         {
           "id": "tvs",
-          "name": "Телевизоры"
+          "name": "TV sets"
         },
         {
           "id": "headphones",
-          "name": "Наушники и гарнитуры"
+          "name": "Headphones and headsets"
         }
       ]
     },
     {
       "id": "computers-peripherals",
-      "name": "Компьютеры и периферия",
+      "name": "Computers and Peripherals",
       "subCategories": [
         {
           "id": "laptops",
-          "name": "Ноутбуки"
+          "name": "Laptops"
         },
         {
           "id": "computers",
-          "name": "Компьютеры"
+          "name": "Computers"
         },
         {
           "id": "consoles",
-          "name": "Игровые приставки"
+          "name": "Gaming consoles"
         },
         {
           "id": "hardware",
-          "name": "Комплектующие"
+          "name": "Components"
         },
         {
           "id": "peripherals",
-          "name": "Компьютерная периферия"
+          "name": "Computer peripherals"
         },
         {
           "id": "monitors",
-          "name": "Мониторы"
+          "name": "Monitors"
         }
       ]
     },
     {
       "id": "furniture",
-      "name": "Мебель",
+      "name": "Furniture",
       "subCategories": [
         {
           "id": "sofas",
-          "name": "Диваны, тахты"
+          "name": "Sofas, ottomans"
         },
         {
           "id": "armchairs",
-          "name": "Кресла"
+          "name": "Armchairs"
         },
         {
           "id": "cabinets",
-          "name": "Шкафы"
+          "name": "Cabinets"
         },
         {
           "id": "chairs",
-          "name": "Стулья"
+          "name": "Chairs"
         },
         {
           "id": "tables",
-          "name": "Столы, столики"
+          "name": "Tables, little tables"
         },
         {
           "id": "beds",
-          "name": "Кровати"
+          "name": "Beds"
         }
       ]
     },
     {
       "id": "hobbies",
-      "name": "Досуг и хобби",
+      "name": "Leisure and hobbies",
       "subCategories": [
         {
           "id": "music-instruments",
-          "name": "Музыкальные инструменты"
+          "name": "Musical instruments"
         },
         {
           "id": "books",
-          "name": "Книги"
+          "name": "Books"
         },
         {
           "id": "fun-and-rest",
-          "name": "Развлечения и отдых"
+          "name": "Entertainment and recreation"
         }
       ]
     }
